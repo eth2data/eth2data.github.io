@@ -1,0 +1,1636 @@
+﻿datetime,est_time,speed,distance_in_slots,peers
+Oct 07 23:45:38, 4 hrs 44 mins, speed: 26.69 slots/sec,456091, peers: 16
+Oct 07 23:45:50, 4 hrs 44 mins, speed: 26.67 slots/sec,455836, peers: 15
+Oct 07 23:46:02, 3 hrs 57 mins, speed: 32.00 slots/sec,455325, peers: 22
+Oct 07 23:46:14, 4 hrs 44 mins, speed: 26.69 slots/sec,455070, peers: 20
+Oct 07 23:46:26, 4 hrs 44 mins, speed: 26.67 slots/sec,454815, peers: 19
+Oct 07 23:46:38, 3 hrs 56 mins, speed: 32.00 slots/sec,454304, peers: 23
+Oct 07 23:46:50, 4 hrs 43 mins, speed: 26.67 slots/sec,454049, peers: 21
+Oct 07 23:47:02, 3 hrs 56 mins, speed: 32.00 slots/sec,453538, peers: 20
+Oct 07 23:47:14, 3 hrs 56 mins, speed: 32.00 slots/sec,453283, peers: 20
+Oct 07 23:47:26, 4 hrs 43 mins, speed: 26.67 slots/sec,453028, peers: 21
+Oct 07 23:47:38, 4 hrs 42 mins, speed: 26.67 slots/sec,452773, peers: 21
+Oct 07 23:47:50, 5 hrs 53 mins, speed: 21.33 slots/sec,452518, peers: 28
+Oct 07 23:48:02, 4 hrs 42 mins, speed: 26.67 slots/sec,452007, peers: 27
+Oct 07 23:48:14, 4 hrs 42 mins, speed: 26.65 slots/sec,451753, peers: 25
+Oct 07 23:48:26, 4 hrs 42 mins, speed: 26.67 slots/sec,451497, peers: 24
+Oct 07 23:48:38, 5 hrs 52 mins, speed: 21.33 slots/sec,451498, peers: 23
+Oct 07 23:48:50, 11 hrs 45 mins, speed: 10.67 slots/sec,451499, peers: 23
+Oct 07 23:49:02, 22 hrs 53 mins, speed: 5.48 slots/sec,451494, peers: 21
+Oct 07 23:49:14, 1 day 7 hrs, speed: 4.00 slots/sec,451309, peers: 19
+Oct 07 23:49:26, 8 hrs 32 mins, speed: 14.67 slots/sec,450798, peers: 22
+Oct 07 23:49:38, 6 hrs 15 mins, speed: 20.00 slots/sec,450543, peers: 20
+Oct 07 23:49:50, 4 hrs 5 mins, speed: 30.54 slots/sec,450032, peers: 20
+Oct 07 23:50:02, 3 hrs 54 mins, speed: 31.98 slots/sec,449778, peers: 19
+Oct 07 23:50:14, 4 hrs 41 mins, speed: 26.65 slots/sec,449523, peers: 20
+Oct 07 23:50:26, 4 hrs 40 mins, speed: 26.67 slots/sec,449267, peers: 19
+Oct 07 23:50:38, 5 hrs 51 mins, speed: 21.31 slots/sec,449013, peers: 19
+Oct 07 23:50:50, 5 hrs 50 mins, speed: 21.36 slots/sec,448757, peers: 19
+Oct 07 23:51:02, 5 hrs 50 mins, speed: 21.36 slots/sec,448502, peers: 23
+Oct 07 23:51:14, 5 hrs 50 mins, speed: 21.33 slots/sec,448247, peers: 28
+Oct 07 23:51:26, 5 hrs 49 mins, speed: 21.36 slots/sec,447992, peers: 27
+Oct 07 23:51:38, 5 hrs 49 mins, speed: 21.33 slots/sec,447737, peers: 25
+Oct 07 23:51:50, 4 hrs 39 mins, speed: 26.65 slots/sec,447227, peers: 27
+Oct 07 23:52:02, 4 hrs 39 mins, speed: 26.67 slots/sec,446971, peers: 25
+Oct 07 23:52:14, 4 hrs 39 mins, speed: 26.67 slots/sec,446716, peers: 30
+Oct 07 23:52:26, 4 hrs 39 mins, speed: 26.65 slots/sec,446462, peers: 27
+Oct 07 23:52:38, 5 hrs 48 mins, speed: 21.33 slots/sec,446207, peers: 26
+Oct 07 23:52:50, 4 hrs 38 mins, speed: 26.67 slots/sec,445695, peers: 28
+Oct 07 23:53:02, 4 hrs 38 mins, speed: 26.67 slots/sec,445440, peers: 28
+Oct 07 23:53:14, 4 hrs 38 mins, speed: 26.69 slots/sec,445185, peers: 28
+Oct 07 23:53:26, 4 hrs 38 mins, speed: 26.63 slots/sec,444933, peers: 26
+Oct 07 23:53:38, 5 hrs 47 mins, speed: 21.33 slots/sec,444675, peers: 29
+Oct 07 23:53:50, 4 hrs 37 mins, speed: 26.65 slots/sec,444165, peers: 29
+Oct 07 23:54:02, 4 hrs 37 mins, speed: 26.67 slots/sec,443909, peers: 28
+Oct 07 23:54:14, 4 hrs 36 mins, speed: 26.73 slots/sec,443654, peers: 27
+Oct 07 23:54:26, 3 hrs 50 mins, speed: 32.00 slots/sec,443143, peers: 26
+Oct 07 23:54:38, 4 hrs 36 mins, speed: 26.69 slots/sec,442888, peers: 27
+Oct 07 23:54:50, 4 hrs 36 mins, speed: 26.65 slots/sec,442634, peers: 26
+Oct 07 23:55:02, 4 hrs 36 mins, speed: 26.67 slots/sec,442378, peers: 24
+Oct 07 23:55:14, 5 hrs 45 mins, speed: 21.31 slots/sec,442124, peers: 23
+Oct 07 23:55:26, 5 hrs 45 mins, speed: 21.31 slots/sec,441869, peers: 22
+Oct 07 23:55:38, 4 hrs 35 mins, speed: 26.69 slots/sec,441357, peers: 20
+Oct 07 23:55:50, 4 hrs 35 mins, speed: 26.67 slots/sec,441102, peers: 23
+Oct 07 23:56:02, 4 hrs 49 mins, speed: 25.36 slots/sec,440911, peers: 20
+Oct 07 23:56:14, 4 hrs 49 mins, speed: 25.36 slots/sec,440656, peers: 21
+Oct 07 23:56:26, 4 hrs 49 mins, speed: 25.33 slots/sec,440145, peers: 20
+Oct 07 23:56:38, 4 hrs 49 mins, speed: 25.33 slots/sec,439890, peers: 19
+Oct 07 23:56:50, 4 hrs 34 mins, speed: 26.67 slots/sec,439635, peers: 19
+Oct 07 23:57:02, 3 hrs 48 mins, speed: 32.00 slots/sec,439124, peers: 17
+Oct 07 23:57:14, 4 hrs 34 mins, speed: 26.67 slots/sec,438869, peers: 16
+Oct 07 23:57:26, 3 hrs 48 mins, speed: 31.98 slots/sec,438359, peers: 16
+Oct 07 23:57:38, 3 hrs 48 mins, speed: 32.00 slots/sec,438103, peers: 14
+Oct 07 23:57:50, 4 hrs 33 mins, speed: 26.67 slots/sec,437848, peers: 20
+Oct 07 23:58:02, 3 hrs 47 mins, speed: 32.00 slots/sec,437337, peers: 21
+Oct 07 23:58:14, 4 hrs 32 mins, speed: 26.69 slots/sec,437082, peers: 26
+Oct 07 23:58:26, 4 hrs 33 mins, speed: 26.67 slots/sec,436827, peers: 25
+Oct 07 23:58:38, 3 hrs 47 mins, speed: 32.00 slots/sec,436316, peers: 24
+Oct 07 23:58:50, 4 hrs 32 mins, speed: 26.63 slots/sec,436063, peers: 22
+Oct 07 23:59:02, 4 hrs 32 mins, speed: 26.67 slots/sec,435806, peers: 21
+Oct 07 23:59:14, 3 hrs 46 mins, speed: 32.00 slots/sec,435295, peers: 20
+Oct 07 23:59:26, 4 hrs 32 mins, speed: 26.65 slots/sec,435041, peers: 21
+Oct 07 23:59:38, 3 hrs 46 mins, speed: 32.04 slots/sec,434529, peers: 19
+Oct 07 23:59:50, 3 hrs 46 mins, speed: 32.00 slots/sec,434274, peers: 19
+Oct 08 00:00:02, 3 hrs 45 mins, speed: 32.00 slots/sec,433763, peers: 19
+Oct 08 00:00:14, 3 hrs 45 mins, speed: 32.02 slots/sec,433508, peers: 18
+Oct 08 00:00:26, 3 hrs 45 mins, speed: 32.00 slots/sec,432997, peers: 22
+Oct 08 00:00:38, 3 hrs 45 mins, speed: 31.98 slots/sec,432743, peers: 22
+Oct 08 00:00:50, 3 hrs 45 mins, speed: 32.00 slots/sec,432231, peers: 21
+Oct 08 00:01:02, 3 hrs 12 mins, speed: 37.29 slots/sec,431722, peers: 20
+Oct 08 00:01:14, 3 hrs 44 mins, speed: 31.98 slots/sec,431466, peers: 18
+Oct 08 00:01:26, 3 hrs 44 mins, speed: 32.02 slots/sec,431210, peers: 22
+Oct 08 00:01:38, 3 hrs 44 mins, speed: 32.00 slots/sec,430699, peers: 27
+Oct 08 00:01:50, 5 hrs 35 mins, speed: 21.38 slots/sec,430700, peers: 27
+Oct 08 00:02:02, 4 hrs 42 mins, speed: 25.36 slots/sec,430253, peers: 26
+Oct 08 00:02:14, 4 hrs 43 mins, speed: 25.31 slots/sec,429999, peers: 25
+Oct 08 00:02:26, 4 hrs 42 mins, speed: 25.33 slots/sec,429487, peers: 27
+Oct 08 00:02:38, 3 hrs 53 mins, speed: 30.65 slots/sec,429233, peers: 27
+Oct 08 00:02:50, 3 hrs 43 mins, speed: 32.00 slots/sec,428721, peers: 31
+Oct 08 00:03:02, 3 hrs 43 mins, speed: 32.02 slots/sec,428466, peers: 29
+Oct 08 00:03:14, 3 hrs 42 mins, speed: 32.00 slots/sec,427955, peers: 28
+Oct 08 00:03:26, 3 hrs 42 mins, speed: 31.98 slots/sec,427702, peers: 32
+Oct 08 00:03:38, 3 hrs 42 mins, speed: 32.00 slots/sec,427189, peers: 30
+Oct 08 00:03:50, 3 hrs 10 mins, speed: 37.33 slots/sec,426678, peers: 29
+Oct 08 00:04:02, 3 hrs 42 mins, speed: 32.00 slots/sec,426423, peers: 28
+Oct 08 00:04:14, 3 hrs 41 mins, speed: 32.02 slots/sec,426169, peers: 33
+Oct 08 00:04:26, 3 hrs 41 mins, speed: 32.00 slots/sec,425657, peers: 31
+Oct 08 00:04:38, 4 hrs 25 mins, speed: 26.67 slots/sec,425402, peers: 31
+Oct 08 00:04:50, 3 hrs 41 mins, speed: 31.98 slots/sec,424892, peers: 31
+Oct 08 00:05:02, 3 hrs 41 mins, speed: 32.02 slots/sec,424636, peers: 28
+Oct 08 00:05:14, 3 hrs 40 mins, speed: 32.00 slots/sec,424125, peers: 30
+Oct 08 00:05:26, 3 hrs 40 mins, speed: 32.00 slots/sec,423870, peers: 28
+Oct 08 00:05:38, 3 hrs 40 mins, speed: 32.02 slots/sec,423359, peers: 27
+Oct 08 00:05:50, 3 hrs 40 mins, speed: 32.00 slots/sec,423104, peers: 25
+Oct 08 00:06:02, 4 hrs 24 mins, speed: 26.67 slots/sec,422849, peers: 25
+Oct 08 00:06:14, 4 hrs 24 mins, speed: 26.67 slots/sec,422594, peers: 25
+Oct 08 00:06:26, 5 hrs 30 mins, speed: 21.31 slots/sec,422340, peers: 28
+Oct 08 00:06:38, 4 hrs 23 mins, speed: 26.67 slots/sec,421828, peers: 27
+Oct 08 00:06:50, 4 hrs 23 mins, speed: 26.65 slots/sec,421574, peers: 30
+Oct 08 00:07:02, 4 hrs 23 mins, speed: 26.67 slots/sec,421318, peers: 29
+Oct 08 00:07:14, 3 hrs 39 mins, speed: 32.02 slots/sec,420807, peers: 30
+Oct 08 00:07:26, 4 hrs 22 mins, speed: 26.67 slots/sec,420552, peers: 29
+Oct 08 00:07:38, 4 hrs 22 mins, speed: 26.69 slots/sec,420297, peers: 28
+Oct 08 00:07:50, 3 hrs 38 mins, speed: 31.98 slots/sec,419787, peers: 33
+Oct 08 00:08:02, 4 hrs 22 mins, speed: 26.67 slots/sec,419531, peers: 33
+Oct 08 00:08:14, 4 hrs 22 mins, speed: 26.65 slots/sec,419277, peers: 35
+Oct 08 00:08:26, 4 hrs 21 mins, speed: 26.67 slots/sec,419021, peers: 34
+Oct 08 00:08:38, 4 hrs 35 mins, speed: 25.36 slots/sec,418574, peers: 31
+Oct 08 00:08:50, 4 hrs 35 mins, speed: 25.33 slots/sec,418319, peers: 33
+Oct 08 00:09:02, 3 hrs 47 mins, speed: 30.67 slots/sec,417809, peers: 32
+Oct 08 00:09:14, 3 hrs 47 mins, speed: 30.63 slots/sec,417555, peers: 30
+Oct 08 00:09:26, 4 hrs 20 mins, speed: 26.67 slots/sec,417298, peers: 36
+Oct 08 00:09:38, 5 hrs 26 mins, speed: 21.33 slots/sec,417299, peers: 35
+Oct 08 00:09:50, 10 hrs 50 mins, speed: 10.69 slots/sec,417300, peers: 33
+Oct 08 00:10:02, 10 hrs 49 mins, speed: 10.71 slots/sec,417045, peers: 37
+Oct 08 00:10:14, 10 hrs 51 mins, speed: 10.67 slots/sec,416790, peers: 36
+Oct 08 00:10:26, 7 hrs 13 mins, speed: 16.00 slots/sec,416535, peers: 36
+Oct 08 00:10:38, 5 hrs 25 mins, speed: 21.33 slots/sec,416280, peers: 34
+Oct 08 00:10:50, 4 hrs 19 mins, speed: 26.67 slots/sec,415769, peers: 32
+Oct 08 00:11:02, 4 hrs 19 mins, speed: 26.65 slots/sec,415515, peers: 31
+Oct 08 00:11:14, 4 hrs 19 mins, speed: 26.67 slots/sec,415259, peers: 32
+Oct 08 00:11:26, 4 hrs 19 mins, speed: 26.67 slots/sec,415004, peers: 31
+Oct 08 00:11:38, 4 hrs 19 mins, speed: 26.67 slots/sec,414493, peers: 28
+Oct 08 00:11:50, 4 hrs 18 mins, speed: 26.69 slots/sec,414238, peers: 31
+Oct 08 00:12:02, 4 hrs 18 mins, speed: 26.67 slots/sec,413983, peers: 29
+Oct 08 00:12:14, 4 hrs 18 mins, speed: 26.67 slots/sec,413728, peers: 32
+Oct 08 00:12:26, 5 hrs 23 mins, speed: 21.33 slots/sec,413473, peers: 32
+Oct 08 00:12:38, 5 hrs 22 mins, speed: 21.33 slots/sec,413218, peers: 31
+Oct 08 00:12:50, 5 hrs 22 mins, speed: 21.31 slots/sec,412964, peers: 35
+Oct 08 00:13:02, 5 hrs 22 mins, speed: 21.33 slots/sec,412708, peers: 35
+Oct 08 00:13:14, 4 hrs 17 mins, speed: 26.67 slots/sec,412197, peers: 36
+Oct 08 00:13:26, 4 hrs 17 mins, speed: 26.67 slots/sec,411942, peers: 39
+Oct 08 00:13:38, 4 hrs 17 mins, speed: 26.68 slots/sec,411687, peers: 38
+Oct 08 00:13:50, 4 hrs 17 mins, speed: 26.65 slots/sec,411433, peers: 38
+Oct 08 00:14:02, 4 hrs 17 mins, speed: 26.65 slots/sec,410922, peers: 37
+Oct 08 00:14:14, 4 hrs 16 mins, speed: 26.67 slots/sec,410666, peers: 39
+Oct 08 00:14:26, 4 hrs 16 mins, speed: 26.67 slots/sec,410411, peers: 39
+Oct 08 00:14:38, 4 hrs 16 mins, speed: 26.69 slots/sec,410156, peers: 38
+Oct 08 00:14:50, 5 hrs 19 mins, speed: 21.36 slots/sec,409901, peers: 38
+Oct 08 00:15:02, 5 hrs 20 mins, speed: 21.33 slots/sec,409646, peers: 43
+Oct 08 00:15:14, 5 hrs 52 mins, speed: 19.33 slots/sec,409487, peers: 41
+Oct 08 00:15:26, 5 hrs 53 mins, speed: 19.29 slots/sec,409234, peers: 37
+Oct 08 00:15:38, 4 hrs 36 mins, speed: 24.67 slots/sec,408721, peers: 35
+Oct 08 00:15:50, 4 hrs 35 mins, speed: 24.67 slots/sec,408466, peers: 33
+Oct 08 00:16:02, 4 hrs 15 mins, speed: 26.67 slots/sec,408211, peers: 31
+Oct 08 00:16:14, 4 hrs 14 mins, speed: 26.71 slots/sec,407956, peers: 32
+Oct 08 00:16:26, 4 hrs 14 mins, speed: 26.67 slots/sec,407445, peers: 29
+Oct 08 00:16:38, 4 hrs 14 mins, speed: 26.67 slots/sec,407190, peers: 29
+Oct 08 00:16:50, 4 hrs 14 mins, speed: 26.67 slots/sec,406935, peers: 27
+Oct 08 00:17:02, 4 hrs 14 mins, speed: 26.67 slots/sec,406680, peers: 27
+Oct 08 00:17:14, 5 hrs 17 mins, speed: 21.33 slots/sec,406425, peers: 26
+Oct 08 00:17:26, 4 hrs 13 mins, speed: 26.65 slots/sec,405915, peers: 32
+Oct 08 00:17:38, 4 hrs 13 mins, speed: 26.67 slots/sec,405659, peers: 31
+Oct 08 00:17:50, 4 hrs 13 mins, speed: 26.67 slots/sec,405404, peers: 37
+Oct 08 00:18:02, 4 hrs 13 mins, speed: 26.65 slots/sec,405150, peers: 34
+Oct 08 00:18:14, 5 hrs 16 mins, speed: 21.33 slots/sec,404895, peers: 39
+Oct 08 00:18:26, 4 hrs 12 mins, speed: 26.67 slots/sec,404383, peers: 40
+Oct 08 00:18:38, 4 hrs 12 mins, speed: 26.67 slots/sec,404128, peers: 39
+Oct 08 00:18:50, 3 hrs 30 mins, speed: 32.00 slots/sec,403618, peers: 41
+Oct 08 00:19:02, 3 hrs 29 mins, speed: 32.02 slots/sec,403362, peers: 37
+Oct 08 00:19:14, 3 hrs 29 mins, speed: 32.00 slots/sec,402851, peers: 36
+Oct 08 00:19:26, 3 hrs 29 mins, speed: 32.00 slots/sec,402596, peers: 35
+Oct 08 00:19:38, 4 hrs 11 mins, speed: 26.69 slots/sec,402341, peers: 32
+Oct 08 00:19:50, 3 hrs 29 mins, speed: 32.00 slots/sec,401830, peers: 34
+Oct 08 00:20:02, 4 hrs 10 mins, speed: 26.67 slots/sec,401575, peers: 33
+Oct 08 00:20:14, 4 hrs 10 mins, speed: 26.67 slots/sec,401320, peers: 36
+Oct 08 00:20:26, 4 hrs 11 mins, speed: 26.63 slots/sec,401067, peers: 34
+Oct 08 00:20:38, 5 hrs 13 mins, speed: 21.33 slots/sec,400810, peers: 35
+Oct 08 00:20:50, 4 hrs 10 mins, speed: 26.67 slots/sec,400299, peers: 38
+Oct 08 00:21:02, 5 hrs 12 mins, speed: 21.33 slots/sec,400300, peers: 35
+Oct 08 00:21:14, 5 hrs 33 mins, speed: 20.02 slots/sec,400110, peers: 33
+Oct 08 00:21:26, 4 hrs 23 mins, speed: 25.31 slots/sec,399599, peers: 37
+Oct 08 00:21:38, 5 hrs 33 mins, speed: 19.98 slots/sec,399344, peers: 40
+Oct 08 00:21:50, 4 hrs 22 mins, speed: 25.31 slots/sec,399089, peers: 38
+Oct 08 00:22:02, 4 hrs 9 mins, speed: 26.67 slots/sec,398834, peers: 38
+Oct 08 00:22:14, 4 hrs 8 mins, speed: 26.69 slots/sec,398322, peers: 37
+Oct 08 00:22:26, 4 hrs 8 mins, speed: 26.69 slots/sec,398067, peers: 41
+Oct 08 00:22:38, 4 hrs 8 mins, speed: 26.65 slots/sec,397814, peers: 38
+Oct 08 00:22:50, 4 hrs 8 mins, speed: 26.69 slots/sec,397557, peers: 39
+Oct 08 00:23:02, 5 hrs 10 mins, speed: 21.33 slots/sec,397302, peers: 37
+Oct 08 00:23:14, 5 hrs 10 mins, speed: 21.33 slots/sec,397047, peers: 34
+Oct 08 00:23:26, 4 hrs 7 mins, speed: 26.71 slots/sec,396536, peers: 32
+Oct 08 00:23:38, 4 hrs 7 mins, speed: 26.65 slots/sec,396282, peers: 32
+Oct 08 00:23:50, 4 hrs 7 mins, speed: 26.67 slots/sec,396026, peers: 34
+Oct 08 00:24:02, 4 hrs 7 mins, speed: 26.67 slots/sec,395771, peers: 34
+Oct 08 00:24:14, 5 hrs 9 mins, speed: 21.31 slots/sec,395517, peers: 30
+Oct 08 00:24:26, 4 hrs 6 mins, speed: 26.69 slots/sec,395005, peers: 28
+Oct 08 00:24:38, 4 hrs 6 mins, speed: 26.67 slots/sec,394750, peers: 27
+Oct 08 00:24:50, 4 hrs 6 mins, speed: 26.67 slots/sec,394495, peers: 25
+Oct 08 00:25:02, 4 hrs 6 mins, speed: 26.69 slots/sec,394240, peers: 25
+Oct 08 00:25:14, 4 hrs 6 mins, speed: 26.67 slots/sec,393729, peers: 29
+Oct 08 00:25:26, 4 hrs 5 mins, speed: 26.67 slots/sec,393474, peers: 28
+Oct 08 00:25:38, 4 hrs 5 mins, speed: 26.67 slots/sec,393219, peers: 30
+Oct 08 00:25:50, 4 hrs 5 mins, speed: 26.67 slots/sec,392964, peers: 30
+Oct 08 00:26:02, 4 hrs 5 mins, speed: 26.67 slots/sec,392453, peers: 28
+Oct 08 00:26:14, 4 hrs 5 mins, speed: 26.67 slots/sec,392198, peers: 28
+Oct 08 00:26:26, 4 hrs 4 mins, speed: 26.67 slots/sec,391943, peers: 31
+Oct 08 00:26:38, 4 hrs 4 mins, speed: 26.67 slots/sec,391688, peers: 31
+Oct 08 00:26:50, 4 hrs 4 mins, speed: 26.67 slots/sec,391177, peers: 31
+Oct 08 00:27:02, 3 hrs 23 mins, speed: 32.00 slots/sec,390666, peers: 30
+Oct 08 00:27:14, 2 hrs 32 mins, speed: 42.63 slots/sec,389901, peers: 30
+Oct 08 00:27:26, 2 hrs 15 mins, speed: 48.00 slots/sec,389388, peers: 31
+Oct 08 00:27:38, 2 hrs 32 mins, speed: 42.56 slots/sec,389138, peers: 30
+Oct 08 00:27:50, 3 hrs 0 mins, speed: 36.00 slots/sec,388942, peers: 34
+Oct 08 00:28:02, 4 hrs 15 mins, speed: 25.36 slots/sec,388688, peers: 31
+Oct 08 00:28:14, 5 hrs 23 mins, speed: 20.00 slots/sec,388432, peers: 33
+Oct 08 00:28:26, 4 hrs 14 mins, speed: 25.42 slots/sec,387922, peers: 32
+Oct 08 00:28:38, 2 hrs 53 mins, speed: 37.25 slots/sec,387158, peers: 31
+Oct 08 00:28:50, 2 hrs 1 mins, speed: 53.13 slots/sec,386142, peers: 37
+Oct 08 00:29:02, 1 hr 33 mins, speed: 68.86 slots/sec,385131, peers: 37
+Oct 08 00:29:14, 1 hr 19 mins, speed: 80.88 slots/sec,384044, peers: 38
+Oct 08 00:29:26, 1 hr 14 mins, speed: 85.19 slots/sec,383073, peers: 36
+Oct 08 00:29:38, 1 hr 10 mins, speed: 90.90 slots/sec,381783, peers: 36
+Oct 08 00:29:50, 1 hr 10 mins, speed: 90.57 slots/sec,380788, peers: 36
+Oct 08 00:30:02, 1 hr 7 mins, speed: 93.07 slots/sec,379581, peers: 32
+Oct 08 00:30:14, 1 hr 2 mins, speed: 101.30 slots/sec,378215, peers: 31
+Oct 08 00:30:26, 1 hr 2 mins, speed: 101.30 slots/sec,376925, peers: 35
+Oct 08 00:30:38, 1 hr 1 mins, speed: 101.90 slots/sec,375901, peers: 31
+Oct 08 00:30:50, 1 hr 16 mins, speed: 81.96 slots/sec,375651, peers: 33
+Oct 08 00:31:02, 1 hr 37 mins, speed: 64.11 slots/sec,375142, peers: 33
+Oct 08 00:31:14, 1 hr 46 mins, speed: 58.59 slots/sec,374117, peers: 40
+Oct 08 00:31:26, 2 hrs 9 mins, speed: 47.96 slots/sec,373603, peers: 39
+Oct 08 00:31:38, 1 hr 45 mins, speed: 58.77 slots/sec,372834, peers: 35
+Oct 08 00:31:50, 1 hr 29 mins, speed: 69.40 slots/sec,371815, peers: 36
+Oct 08 00:32:02, 1 hr 29 mins, speed: 69.36 slots/sec,370792, peers: 36
+Oct 08 00:32:14, 1 hr 22 mins, speed: 74.71 slots/sec,370021, peers: 35
+Oct 08 00:32:26, 1 hr 22 mins, speed: 74.69 slots/sec,369253, peers: 37
+Oct 08 00:32:38, 1 hr 22 mins, speed: 74.27 slots/sec,368254, peers: 33
+Oct 08 00:32:50, 1 hr 21 mins, speed: 74.69 slots/sec,367211, peers: 35
+Oct 08 00:33:02, 1 hr 16 mins, speed: 79.69 slots/sec,366200, peers: 32
+Oct 08 00:33:14, 1 hr 16 mins, speed: 79.96 slots/sec,365419, peers: 30
+Oct 08 00:33:26, 1 hr 27 mins, speed: 69.83 slots/sec,364906, peers: 29
+Oct 08 00:33:38, 1 hr 34 mins, speed: 64.09 slots/sec,364139, peers: 27
+Oct 08 00:33:50, 1 hr 52 mins, speed: 53.67 slots/sec,363628, peers: 25
+Oct 08 00:34:02, 2 hrs 6 mins, speed: 48.02 slots/sec,363118, peers: 28
+Oct 08 00:34:14, 2 hrs 22 mins, speed: 42.56 slots/sec,362867, peers: 32
+Oct 08 00:34:26, 3 hrs 9 mins, speed: 31.92 slots/sec,362611, peers: 30
+Oct 08 00:34:38, 3 hrs 8 mins, speed: 32.00 slots/sec,362096, peers: 28
+Oct 08 00:34:50, 3 hrs 46 mins, speed: 26.65 slots/sec,361843, peers: 32
+Oct 08 00:35:02, 3 hrs 45 mins, speed: 26.71 slots/sec,361589, peers: 31
+Oct 08 00:35:14, 3 hrs 45 mins, speed: 26.71 slots/sec,361333, peers: 28
+Oct 08 00:35:26, 3 hrs 45 mins, speed: 26.67 slots/sec,360820, peers: 31
+Oct 08 00:35:38, 3 hrs 44 mins, speed: 26.71 slots/sec,360565, peers: 26
+Oct 08 00:35:50, 3 hrs 7 mins, speed: 32.06 slots/sec,360054, peers: 26
+Oct 08 00:36:02, 2 hrs 40 mins, speed: 37.36 slots/sec,359544, peers: 25
+Oct 08 00:36:14, 2 hrs 40 mins, speed: 37.34 slots/sec,359032, peers: 22
+Oct 08 00:36:26, 2 hrs 20 mins, speed: 42.59 slots/sec,358525, peers: 25
+Oct 08 00:36:38, 2 hrs 19 mins, speed: 42.67 slots/sec,358010, peers: 26
+Oct 08 00:36:50, 2 hrs 19 mins, speed: 42.65 slots/sec,357501, peers: 30
+Oct 08 00:37:02, 2 hrs 19 mins, speed: 42.65 slots/sec,356989, peers: 30
+Oct 08 00:37:14, 2 hrs 3 mins, speed: 47.98 slots/sec,356226, peers: 34
+Oct 08 00:37:26, 2 hrs 3 mins, speed: 47.98 slots/sec,355711, peers: 34
+Oct 08 00:37:38, 1 hr 50 mins, speed: 53.38 slots/sec,354943, peers: 31
+Oct 08 00:37:50, 1 hr 50 mins, speed: 53.25 slots/sec,354437, peers: 30
+Oct 08 00:38:02, 1 hr 50 mins, speed: 53.42 slots/sec,353666, peers: 30
+Oct 08 00:38:14, 1 hr 40 mins, speed: 58.63 slots/sec,352901, peers: 31
+Oct 08 00:38:26, 1 hr 50 mins, speed: 53.31 slots/sec,352388, peers: 29
+Oct 08 00:38:38, 1 hr 49 mins, speed: 53.42 slots/sec,351877, peers: 34
+Oct 08 00:38:50, 1 hr 49 mins, speed: 53.36 slots/sec,351109, peers: 32
+Oct 08 00:39:02, 2 hrs 1 mins, speed: 48.04 slots/sec,350599, peers: 32
+Oct 08 00:39:14, 2 hrs 1 mins, speed: 47.98 slots/sec,350089, peers: 34
+Oct 08 00:39:26, 2 hrs 16 mins, speed: 42.65 slots/sec,349834, peers: 34
+Oct 08 00:39:38, 2 hrs 36 mins, speed: 37.31 slots/sec,349322, peers: 33
+Oct 08 00:39:50, 3 hrs 1 mins, speed: 32.02 slots/sec,349066, peers: 39
+Oct 08 00:40:02, 4 hrs 32 mins, speed: 21.38 slots/sec,349067, peers: 38
+Oct 08 00:40:14, 3 hrs 43 mins, speed: 26.04 slots/sec,348588, peers: 36
+Oct 08 00:40:26, 4 hrs 40 mins, speed: 20.69 slots/sec,348333, peers: 33
+Oct 08 00:40:38, 3 hrs 42 mins, speed: 26.00 slots/sec,347822, peers: 30
+Oct 08 00:40:50, 3 hrs 4 mins, speed: 31.31 slots/sec,347568, peers: 32
+Oct 08 00:41:02, 3 hrs 0 mins, speed: 32.00 slots/sec,347056, peers: 31
+Oct 08 00:41:14, 2 hrs 34 mins, speed: 37.34 slots/sec,346545, peers: 29
+Oct 08 00:41:26, 2 hrs 34 mins, speed: 37.31 slots/sec,346035, peers: 36
+Oct 08 00:41:38, 2 hrs 14 mins, speed: 42.69 slots/sec,345523, peers: 34
+Oct 08 00:41:50, 2 hrs 34 mins, speed: 37.32 slots/sec,345269, peers: 35
+Oct 08 00:42:02, 2 hrs 33 mins, speed: 37.34 slots/sec,344757, peers: 30
+Oct 08 00:42:14, 2 hrs 33 mins, speed: 37.36 slots/sec,344246, peers: 28
+Oct 08 00:42:26, 2 hrs 59 mins, speed: 32.00 slots/sec,343991, peers: 29
+Oct 08 00:42:38, 2 hrs 59 mins, speed: 31.98 slots/sec,343738, peers: 30
+Oct 08 00:42:50, 2 hrs 58 mins, speed: 32.00 slots/sec,343225, peers: 29
+Oct 08 00:43:02, 3 hrs 34 mins, speed: 26.67 slots/sec,342970, peers: 28
+Oct 08 00:43:14, 2 hrs 58 mins, speed: 32.00 slots/sec,342459, peers: 28
+Oct 08 00:43:26, 2 hrs 32 mins, speed: 37.38 slots/sec,341948, peers: 34
+Oct 08 00:43:38, 2 hrs 57 mins, speed: 32.00 slots/sec,341693, peers: 33
+Oct 08 00:43:50, 2 hrs 32 mins, speed: 37.31 slots/sec,341183, peers: 30
+Oct 08 00:44:02, 2 hrs 32 mins, speed: 37.34 slots/sec,340671, peers: 28
+Oct 08 00:44:14, 2 hrs 57 mins, speed: 31.98 slots/sec,340417, peers: 32
+Oct 08 00:44:26, 2 hrs 31 mins, speed: 37.34 slots/sec,339905, peers: 31
+Oct 08 00:44:38, 2 hrs 56 mins, speed: 32.02 slots/sec,339650, peers: 31
+Oct 08 00:44:50, 2 hrs 56 mins, speed: 32.00 slots/sec,339139, peers: 33
+Oct 08 00:45:02, 2 hrs 56 mins, speed: 32.00 slots/sec,338885, peers: 32
+Oct 08 00:45:14, 2 hrs 56 mins, speed: 32.00 slots/sec,338373, peers: 34
+Oct 08 00:45:26, 2 hrs 56 mins, speed: 32.00 slots/sec,338118, peers: 33
+Oct 08 00:45:38, 2 hrs 55 mins, speed: 32.00 slots/sec,337607, peers: 32
+Oct 08 00:45:50, 2 hrs 55 mins, speed: 31.98 slots/sec,337354, peers: 37
+Oct 08 00:46:02, 2 hrs 55 mins, speed: 32.00 slots/sec,336841, peers: 37
+Oct 08 00:46:14, 2 hrs 55 mins, speed: 32.00 slots/sec,336586, peers: 41
+Oct 08 00:46:26, 3 hrs 30 mins, speed: 26.67 slots/sec,336331, peers: 41
+Oct 08 00:46:38, 3 hrs 46 mins, speed: 24.71 slots/sec,336172, peers: 37
+Oct 08 00:46:50, 3 hrs 47 mins, speed: 24.63 slots/sec,335663, peers: 39
+Oct 08 00:47:02, 4 hrs 49 mins, speed: 19.29 slots/sec,335664, peers: 36
+Oct 08 00:47:14, 3 hrs 47 mins, speed: 24.61 slots/sec,335154, peers: 37
+Oct 08 00:47:26, 2 hrs 54 mins, speed: 31.98 slots/sec,334641, peers: 36
+Oct 08 00:47:38, 3 hrs 28 mins, speed: 26.71 slots/sec,334385, peers: 40
+Oct 08 00:47:50, 2 hrs 28 mins, speed: 37.36 slots/sec,333875, peers: 39
+Oct 08 00:48:02, 2 hrs 53 mins, speed: 32.02 slots/sec,333621, peers: 36
+Oct 08 00:48:14, 2 hrs 53 mins, speed: 32.02 slots/sec,333108, peers: 40
+Oct 08 00:48:26, 2 hrs 53 mins, speed: 32.00 slots/sec,332853, peers: 40
+Oct 08 00:48:38, 2 hrs 52 mins, speed: 32.02 slots/sec,332342, peers: 37
+Oct 08 00:48:50, 2 hrs 28 mins, speed: 37.36 slots/sec,331832, peers: 39
+Oct 08 00:49:02, 2 hrs 53 mins, speed: 31.94 slots/sec,331579, peers: 38
+Oct 08 00:49:14, 2 hrs 27 mins, speed: 37.34 slots/sec,331065, peers: 45
+Oct 08 00:49:26, 2 hrs 27 mins, speed: 37.33 slots/sec,330554, peers: 44
+Oct 08 00:49:38, 2 hrs 51 mins, speed: 32.02 slots/sec,330299, peers: 38
+Oct 08 00:49:50, 2 hrs 51 mins, speed: 32.06 slots/sec,330044, peers: 38
+Oct 08 00:50:02, 2 hrs 51 mins, speed: 32.00 slots/sec,329533, peers: 35
+Oct 08 00:50:14, 2 hrs 51 mins, speed: 32.00 slots/sec,329022, peers: 38
+Oct 08 00:50:26, 2 hrs 51 mins, speed: 32.00 slots/sec,328767, peers: 38
+Oct 08 00:50:38, 2 hrs 26 mins, speed: 37.32 slots/sec,328257, peers: 36
+Oct 08 00:50:50, 2 hrs 26 mins, speed: 37.34 slots/sec,327745, peers: 40
+Oct 08 00:51:02, 2 hrs 26 mins, speed: 37.31 slots/sec,327235, peers: 36
+Oct 08 00:51:14, 2 hrs 25 mins, speed: 37.33 slots/sec,326979, peers: 31
+Oct 08 00:51:26, 2 hrs 50 mins, speed: 32.00 slots/sec,326725, peers: 37
+Oct 08 00:51:38, 3 hrs 24 mins, speed: 26.67 slots/sec,326469, peers: 38
+Oct 08 00:51:50, 5 hrs 39 mins, speed: 16.02 slots/sec,326470, peers: 36
+Oct 08 00:52:02, 4 hrs 41 mins, speed: 19.33 slots/sec,326055, peers: 36
+Oct 08 00:52:14, 4 hrs 41 mins, speed: 19.31 slots/sec,325802, peers: 33
+Oct 08 00:52:26, 3 hrs 39 mins, speed: 24.67 slots/sec,325289, peers: 35
+Oct 08 00:52:38, 3 hrs 0 mins, speed: 30.00 slots/sec,325034, peers: 31
+Oct 08 00:52:50, 2 hrs 49 mins, speed: 31.98 slots/sec,324524, peers: 33
+Oct 08 00:53:02, 2 hrs 48 mins, speed: 32.04 slots/sec,324268, peers: 31
+Oct 08 00:53:14, 2 hrs 48 mins, speed: 31.98 slots/sec,323758, peers: 31
+Oct 08 00:53:26, 2 hrs 48 mins, speed: 32.00 slots/sec,323502, peers: 27
+Oct 08 00:53:38, 2 hrs 48 mins, speed: 32.02 slots/sec,322991, peers: 26
+Oct 08 00:53:50, 2 hrs 23 mins, speed: 37.33 slots/sec,322480, peers: 28
+Oct 08 00:54:02, 2 hrs 47 mins, speed: 31.98 slots/sec,322227, peers: 26
+Oct 08 00:54:14, 2 hrs 47 mins, speed: 32.00 slots/sec,321970, peers: 30
+Oct 08 00:54:26, 2 hrs 47 mins, speed: 32.00 slots/sec,321459, peers: 29
+Oct 08 00:54:38, 3 hrs 20 mins, speed: 26.65 slots/sec,321205, peers: 25
+Oct 08 00:54:50, 2 hrs 46 mins, speed: 32.02 slots/sec,320694, peers: 24
+Oct 08 00:55:02, 2 hrs 47 mins, speed: 31.96 slots/sec,320440, peers: 21
+Oct 08 00:55:14, 2 hrs 46 mins, speed: 32.00 slots/sec,319927, peers: 20
+Oct 08 00:55:26, 2 hrs 22 mins, speed: 37.36 slots/sec,319416, peers: 20
+Oct 08 00:55:38, 2 hrs 46 mins, speed: 32.02 slots/sec,319161, peers: 19
+Oct 08 00:55:50, 2 hrs 22 mins, speed: 37.33 slots/sec,318652, peers: 23
+Oct 08 00:56:02, 2 hrs 45 mins, speed: 31.98 slots/sec,318396, peers: 22
+Oct 08 00:56:14, 3 hrs 18 mins, speed: 26.67 slots/sec,318140, peers: 22
+Oct 08 00:56:26, 2 hrs 45 mins, speed: 32.00 slots/sec,317629, peers: 20
+Oct 08 00:56:38, 2 hrs 44 mins, speed: 32.04 slots/sec,317118, peers: 18
+Oct 08 00:56:50, 2 hrs 44 mins, speed: 32.02 slots/sec,316863, peers: 18
+Oct 08 00:57:02, 2 hrs 21 mins, speed: 37.34 slots/sec,316352, peers: 17
+Oct 08 00:57:14, 2 hrs 44 mins, speed: 32.00 slots/sec,316097, peers: 19
+Oct 08 00:57:26, 2 hrs 44 mins, speed: 31.98 slots/sec,315587, peers: 18
+Oct 08 00:57:38, 2 hrs 44 mins, speed: 32.00 slots/sec,315331, peers: 17
+Oct 08 00:57:50, 2 hrs 43 mins, speed: 32.00 slots/sec,314820, peers: 17
+Oct 08 00:58:02, 2 hrs 43 mins, speed: 32.00 slots/sec,314565, peers: 16
+Oct 08 00:58:14, 2 hrs 43 mins, speed: 32.00 slots/sec,314055, peers: 17
+Oct 08 00:58:26, 2 hrs 43 mins, speed: 32.00 slots/sec,313799, peers: 16
+Oct 08 00:58:38, 2 hrs 43 mins, speed: 32.00 slots/sec,313288, peers: 20
+Oct 08 00:58:50, 2 hrs 43 mins, speed: 32.00 slots/sec,313033, peers: 20
+Oct 08 00:59:02, 3 hrs 15 mins, speed: 26.67 slots/sec,312779, peers: 20
+Oct 08 00:59:14, 2 hrs 49 mins, speed: 30.67 slots/sec,312331, peers: 23
+Oct 08 00:59:26, 3 hrs 25 mins, speed: 25.31 slots/sec,312077, peers: 22
+Oct 08 00:59:38, 2 hrs 49 mins, speed: 30.67 slots/sec,311565, peers: 26
+Oct 08 00:59:50, 2 hrs 49 mins, speed: 30.67 slots/sec,311311, peers: 24
+Oct 08 01:00:02, 3 hrs 14 mins, speed: 26.65 slots/sec,311056, peers: 21
+Oct 08 01:00:14, 2 hrs 41 mins, speed: 32.02 slots/sec,310544, peers: 22
+Oct 08 01:00:26, 3 hrs 13 mins, speed: 26.67 slots/sec,310289, peers: 22
+Oct 08 01:00:38, 3 hrs 13 mins, speed: 26.69 slots/sec,310034, peers: 20
+Oct 08 01:00:50, 2 hrs 41 mins, speed: 32.00 slots/sec,309524, peers: 25
+Oct 08 01:01:02, 3 hrs 13 mins, speed: 26.67 slots/sec,309268, peers: 24
+Oct 08 01:01:14, 2 hrs 40 mins, speed: 32.00 slots/sec,308757, peers: 25
+Oct 08 01:01:26, 2 hrs 40 mins, speed: 31.98 slots/sec,308503, peers: 24
+Oct 08 01:01:38, 2 hrs 40 mins, speed: 32.02 slots/sec,307991, peers: 24
+Oct 08 01:01:50, 2 hrs 40 mins, speed: 32.00 slots/sec,307736, peers: 24
+Oct 08 01:02:02, 2 hrs 40 mins, speed: 31.98 slots/sec,307226, peers: 24
+Oct 08 01:02:14, 2 hrs 39 mins, speed: 32.02 slots/sec,306970, peers: 25
+Oct 08 01:02:26, 2 hrs 39 mins, speed: 31.96 slots/sec,306461, peers: 25
+Oct 08 01:02:38, 2 hrs 39 mins, speed: 31.94 slots/sec,306207, peers: 25
+Oct 08 01:02:50, 2 hrs 39 mins, speed: 32.02 slots/sec,305693, peers: 25
+Oct 08 01:03:02, 2 hrs 39 mins, speed: 31.98 slots/sec,305439, peers: 31
+Oct 08 01:03:14, 2 hrs 38 mins, speed: 32.02 slots/sec,304928, peers: 29
+Oct 08 01:03:26, 2 hrs 38 mins, speed: 32.04 slots/sec,304673, peers: 25
+Oct 08 01:03:38, 3 hrs 10 mins, speed: 26.65 slots/sec,304418, peers: 24
+Oct 08 01:03:50, 3 hrs 10 mins, speed: 26.61 slots/sec,304166, peers: 25
+Oct 08 01:04:02, 3 hrs 9 mins, speed: 26.65 slots/sec,303653, peers: 24
+Oct 08 01:04:14, 3 hrs 9 mins, speed: 26.67 slots/sec,303397, peers: 28
+Oct 08 01:04:26, 2 hrs 37 mins, speed: 32.00 slots/sec,302886, peers: 29
+Oct 08 01:04:38, 2 hrs 37 mins, speed: 32.08 slots/sec,302630, peers: 27
+Oct 08 01:04:50, 3 hrs 8 mins, speed: 26.69 slots/sec,302376, peers: 28
+Oct 08 01:05:02, 3 hrs 24 mins, speed: 24.69 slots/sec,302216, peers: 24
+Oct 08 01:05:14, 4 hrs 20 mins, speed: 19.36 slots/sec,301961, peers: 28
+Oct 08 01:05:26, 4 hrs 20 mins, speed: 19.31 slots/sec,301707, peers: 27
+Oct 08 01:05:38, 4 hrs 19 mins, speed: 19.35 slots/sec,301451, peers: 25
+Oct 08 01:05:50, 3 hrs 55 mins, speed: 21.33 slots/sec,301196, peers: 28
+Oct 08 01:06:02, 3 hrs 7 mins, speed: 26.67 slots/sec,300685, peers: 28
+Oct 08 01:06:14, 3 hrs 7 mins, speed: 26.67 slots/sec,300431, peers: 28
+Oct 08 01:06:26, 2 hrs 36 mins, speed: 31.98 slots/sec,299920, peers: 28
+Oct 08 01:06:38, 2 hrs 36 mins, speed: 32.00 slots/sec,299664, peers: 28
+Oct 08 01:06:50, 3 hrs 7 mins, speed: 26.65 slots/sec,299410, peers: 30
+Oct 08 01:07:02, 2 hrs 35 mins, speed: 32.02 slots/sec,298898, peers: 27
+Oct 08 01:07:14, 3 hrs 6 mins, speed: 26.69 slots/sec,298643, peers: 28
+Oct 08 01:07:26, 3 hrs 6 mins, speed: 26.67 slots/sec,298388, peers: 28
+Oct 08 01:07:38, 2 hrs 35 mins, speed: 32.02 slots/sec,297877, peers: 25
+Oct 08 01:07:50, 3 hrs 6 mins, speed: 26.67 slots/sec,297622, peers: 29
+Oct 08 01:08:02, 3 hrs 5 mins, speed: 26.67 slots/sec,297367, peers: 30
+Oct 08 01:08:14, 2 hrs 34 mins, speed: 31.94 slots/sec,296859, peers: 34
+Oct 08 01:08:26, 3 hrs 5 mins, speed: 26.67 slots/sec,296601, peers: 31
+Oct 08 01:08:38, 2 hrs 34 mins, speed: 32.00 slots/sec,296090, peers: 30
+Oct 08 01:08:50, 2 hrs 34 mins, speed: 32.00 slots/sec,295835, peers: 27
+Oct 08 01:09:02, 2 hrs 33 mins, speed: 32.04 slots/sec,295325, peers: 28
+Oct 08 01:09:14, 2 hrs 33 mins, speed: 32.00 slots/sec,295069, peers: 27
+Oct 08 01:09:26, 3 hrs 4 mins, speed: 26.65 slots/sec,294815, peers: 24
+Oct 08 01:09:38, 2 hrs 33 mins, speed: 32.00 slots/sec,294303, peers: 22
+Oct 08 01:09:50, 3 hrs 3 mins, speed: 26.69 slots/sec,294048, peers: 20
+Oct 08 01:10:02, 3 hrs 3 mins, speed: 26.65 slots/sec,293794, peers: 18
+Oct 08 01:10:14, 2 hrs 32 mins, speed: 32.02 slots/sec,293282, peers: 16
+Oct 08 01:10:26, 3 hrs 3 mins, speed: 26.67 slots/sec,293027, peers: 17
+Oct 08 01:10:38, 3 hrs 2 mins, speed: 26.67 slots/sec,292772, peers: 17
+Oct 08 01:10:50, 3 hrs 28 mins, speed: 23.36 slots/sec,292677, peers: 19
+Oct 08 01:11:02, 3 hrs 28 mins, speed: 23.33 slots/sec,292166, peers: 19
+Oct 08 01:11:14, 3 hrs 29 mins, speed: 23.27 slots/sec,291914, peers: 19
+Oct 08 01:11:26, 3 hrs 28 mins, speed: 23.33 slots/sec,291656, peers: 23
+Oct 08 01:11:38, 2 hrs 49 mins, speed: 28.67 slots/sec,291305, peers: 24
+Oct 08 01:11:50, 3 hrs 27 mins, speed: 23.33 slots/sec,291050, peers: 23
+Oct 08 01:12:02, 2 hrs 48 mins, speed: 28.73 slots/sec,290539, peers: 21
+Oct 08 01:12:14, 2 hrs 48 mins, speed: 28.67 slots/sec,290284, peers: 21
+Oct 08 01:12:26, 3 hrs 1 mins, speed: 26.67 slots/sec,290029, peers: 25
+Oct 08 01:12:38, 2 hrs 30 mins, speed: 32.00 slots/sec,289518, peers: 26
+Oct 08 01:12:50, 3 hrs 0 mins, speed: 26.65 slots/sec,289264, peers: 24
+Oct 08 01:13:02, 3 hrs 0 mins, speed: 26.67 slots/sec,289008, peers: 21
+Oct 08 01:13:14, 2 hrs 30 mins, speed: 32.00 slots/sec,288497, peers: 18
+Oct 08 01:13:26, 3 hrs 0 mins, speed: 26.67 slots/sec,288242, peers: 16
+Oct 08 01:13:38, 2 hrs 59 mins, speed: 26.69 slots/sec,287987, peers: 15
+Oct 08 01:13:50, 2 hrs 29 mins, speed: 31.98 slots/sec,287477, peers: 15
+Oct 08 01:14:02, 2 hrs 59 mins, speed: 26.67 slots/sec,287221, peers: 15
+Oct 08 01:14:14, 2 hrs 59 mins, speed: 26.67 slots/sec,286966, peers: 16
+Oct 08 01:14:26, 2 hrs 29 mins, speed: 31.98 slots/sec,286456, peers: 15
+Oct 08 01:14:38, 2 hrs 58 mins, speed: 26.69 slots/sec,286200, peers: 13
+Oct 08 01:14:50, 2 hrs 58 mins, speed: 26.65 slots/sec,285946, peers: 16
+Oct 08 01:15:02, 2 hrs 28 mins, speed: 32.00 slots/sec,285434, peers: 16
+Oct 08 01:15:14, 2 hrs 58 mins, speed: 26.69 slots/sec,285179, peers: 16
+Oct 08 01:15:26, 2 hrs 28 mins, speed: 32.00 slots/sec,284668, peers: 19
+Oct 08 01:15:38, 2 hrs 28 mins, speed: 32.00 slots/sec,284414, peers: 19
+Oct 08 01:15:50, 2 hrs 57 mins, speed: 26.67 slots/sec,284158, peers: 20
+Oct 08 01:16:02, 2 hrs 27 mins, speed: 31.98 slots/sec,283648, peers: 20
+Oct 08 01:16:14, 2 hrs 57 mins, speed: 26.67 slots/sec,283392, peers: 18
+Oct 08 01:16:26, 2 hrs 56 mins, speed: 26.69 slots/sec,283137, peers: 22
+Oct 08 01:16:38, 2 hrs 27 mins, speed: 32.00 slots/sec,282626, peers: 20
+Oct 08 01:16:50, 2 hrs 56 mins, speed: 26.65 slots/sec,282373, peers: 19
+Oct 08 01:17:02, 2 hrs 56 mins, speed: 26.65 slots/sec,282117, peers: 18
+Oct 08 01:17:14, 2 hrs 56 mins, speed: 26.67 slots/sec,281861, peers: 18
+Oct 08 01:17:26, 2 hrs 55 mins, speed: 26.65 slots/sec,281351, peers: 23
+Oct 08 01:17:38, 2 hrs 55 mins, speed: 26.71 slots/sec,281095, peers: 21
+Oct 08 01:17:50, 2 hrs 55 mins, speed: 26.69 slots/sec,280840, peers: 24
+Oct 08 01:18:02, 2 hrs 25 mins, speed: 32.00 slots/sec,280329, peers: 23
+Oct 08 01:18:14, 2 hrs 55 mins, speed: 26.67 slots/sec,280075, peers: 21
+Oct 08 01:18:26, 3 hrs 4 mins, speed: 25.34 slots/sec,279883, peers: 23
+Oct 08 01:18:38, 3 hrs 3 mins, speed: 25.33 slots/sec,279628, peers: 22
+Oct 08 01:18:50, 3 hrs 53 mins, speed: 19.98 slots/sec,279374, peers: 23
+Oct 08 01:19:02, 3 hrs 3 mins, speed: 25.33 slots/sec,278863, peers: 20
+Oct 08 01:19:14, 2 hrs 54 mins, speed: 26.67 slots/sec,278607, peers: 19
+Oct 08 01:19:26, 2 hrs 53 mins, speed: 26.67 slots/sec,278352, peers: 22
+Oct 08 01:19:38, 2 hrs 24 mins, speed: 32.02 slots/sec,277841, peers: 21
+Oct 08 01:19:50, 2 hrs 53 mins, speed: 26.69 slots/sec,277586, peers: 25
+Oct 08 01:20:02, 2 hrs 53 mins, speed: 26.60 slots/sec,277334, peers: 24
+Oct 08 01:20:14, 2 hrs 53 mins, speed: 26.67 slots/sec,277076, peers: 25
+Oct 08 01:20:26, 2 hrs 52 mins, speed: 26.67 slots/sec,276565, peers: 25
+Oct 08 01:20:38, 2 hrs 52 mins, speed: 26.65 slots/sec,276311, peers: 25
+Oct 08 01:20:50, 2 hrs 23 mins, speed: 32.06 slots/sec,275799, peers: 31
+Oct 08 01:21:02, 2 hrs 23 mins, speed: 32.00 slots/sec,275544, peers: 32
+Oct 08 01:21:14, 2 hrs 52 mins, speed: 26.63 slots/sec,275291, peers: 32
+Oct 08 01:21:26, 2 hrs 51 mins, speed: 26.67 slots/sec,275035, peers: 35
+Oct 08 01:21:38, 2 hrs 51 mins, speed: 26.67 slots/sec,274523, peers: 35
+Oct 08 01:21:50, 2 hrs 51 mins, speed: 26.65 slots/sec,274269, peers: 35
+Oct 08 01:22:02, 2 hrs 51 mins, speed: 26.67 slots/sec,274015, peers: 32
+Oct 08 01:22:14, 2 hrs 22 mins, speed: 32.02 slots/sec,273502, peers: 30
+Oct 08 01:22:26, 2 hrs 50 mins, speed: 26.67 slots/sec,273247, peers: 31
+Oct 08 01:22:38, 2 hrs 50 mins, speed: 26.69 slots/sec,272992, peers: 32
+Oct 08 01:22:50, 2 hrs 21 mins, speed: 32.02 slots/sec,272482, peers: 31
+Oct 08 01:23:02, 2 hrs 50 mins, speed: 26.65 slots/sec,272227, peers: 28
+Oct 08 01:23:14, 2 hrs 49 mins, speed: 26.67 slots/sec,271971, peers: 29
+Oct 08 01:23:26, 2 hrs 49 mins, speed: 26.67 slots/sec,271716, peers: 27
+Oct 08 01:23:38, 2 hrs 49 mins, speed: 26.69 slots/sec,271205, peers: 26
+Oct 08 01:23:50, 2 hrs 49 mins, speed: 26.69 slots/sec,270950, peers: 26
+Oct 08 01:24:02, 2 hrs 49 mins, speed: 26.67 slots/sec,270695, peers: 32
+Oct 08 01:24:14, 2 hrs 20 mins, speed: 32.00 slots/sec,270184, peers: 32
+Oct 08 01:24:26, 2 hrs 48 mins, speed: 26.67 slots/sec,269929, peers: 29
+Oct 08 01:24:38, 2 hrs 48 mins, speed: 26.67 slots/sec,269674, peers: 27
+Oct 08 01:24:50, 2 hrs 20 mins, speed: 31.96 slots/sec,269165, peers: 25
+Oct 08 01:25:02, 2 hrs 48 mins, speed: 26.67 slots/sec,268908, peers: 24
+Oct 08 01:25:14, 2 hrs 48 mins, speed: 26.63 slots/sec,268655, peers: 23
+Oct 08 01:25:26, 2 hrs 47 mins, speed: 26.65 slots/sec,268399, peers: 23
+Oct 08 01:25:38, 3 hrs 50 mins, speed: 19.38 slots/sec,268239, peers: 21
+Oct 08 01:25:50, 4 hrs 39 mins, speed: 16.00 slots/sec,268144, peers: 20
+Oct 08 01:26:02, 4 hrs 38 mins, speed: 16.02 slots/sec,267890, peers: 19
+Oct 08 01:26:14, 3 hrs 28 mins, speed: 21.35 slots/sec,267378, peers: 17
+Oct 08 01:26:26, 3 hrs 10 mins, speed: 23.33 slots/sec,267123, peers: 19
+Oct 08 01:26:38, 3 hrs 0 mins, speed: 24.65 slots/sec,266965, peers: 16
+Oct 08 01:26:50, 2 hrs 46 mins, speed: 26.69 slots/sec,266613, peers: 20
+Oct 08 01:27:02, 3 hrs 28 mins, speed: 21.31 slots/sec,266359, peers: 19
+Oct 08 01:27:14, 3 hrs 49 mins, speed: 19.31 slots/sec,266200, peers: 22
+Oct 08 01:27:26, 2 hrs 45 mins, speed: 26.69 slots/sec,265688, peers: 22
+Oct 08 01:27:38, 2 hrs 59 mins, speed: 24.67 slots/sec,265433, peers: 20
+Oct 08 01:27:50, 2 hrs 59 mins, speed: 24.69 slots/sec,265178, peers: 19
+Oct 08 01:28:02, 2 hrs 17 mins, speed: 31.98 slots/sec,264669, peers: 21
+Oct 08 01:28:14, 2 hrs 45 mins, speed: 26.65 slots/sec,264413, peers: 26
+Oct 08 01:28:26, 2 hrs 45 mins, speed: 26.67 slots/sec,264157, peers: 25
+Oct 08 01:28:38, 2 hrs 17 mins, speed: 32.00 slots/sec,263646, peers: 24
+Oct 08 01:28:50, 2 hrs 16 mins, speed: 32.04 slots/sec,263135, peers: 23
+Oct 08 01:29:02, 2 hrs 16 mins, speed: 32.00 slots/sec,262881, peers: 23
+Oct 08 01:29:14, 1 hr 57 mins, speed: 37.34 slots/sec,262369, peers: 23
+Oct 08 01:29:26, 2 hrs 16 mins, speed: 32.00 slots/sec,262114, peers: 24
+Oct 08 01:29:38, 2 hrs 16 mins, speed: 31.98 slots/sec,261604, peers: 21
+Oct 08 01:29:50, 1 hr 56 mins, speed: 37.36 slots/sec,261092, peers: 27
+Oct 08 01:30:02, 2 hrs 15 mins, speed: 32.00 slots/sec,260837, peers: 27
+Oct 08 01:30:14, 1 hr 56 mins, speed: 37.34 slots/sec,260326, peers: 25
+Oct 08 01:30:26, 2 hrs 15 mins, speed: 32.02 slots/sec,260071, peers: 25
+Oct 08 01:30:38, 2 hrs 15 mins, speed: 32.00 slots/sec,259560, peers: 23
+Oct 08 01:30:50, 1 hr 55 mins, speed: 37.32 slots/sec,259050, peers: 25
+Oct 08 01:31:02, 2 hrs 14 mins, speed: 32.00 slots/sec,258794, peers: 24
+Oct 08 01:31:14, 1 hr 55 mins, speed: 37.34 slots/sec,258283, peers: 23
+Oct 08 01:31:26, 1 hr 55 mins, speed: 37.34 slots/sec,257772, peers: 23
+Oct 08 01:31:38, 2 hrs 14 mins, speed: 32.02 slots/sec,257517, peers: 23
+Oct 08 01:31:50, 1 hr 54 mins, speed: 37.34 slots/sec,257006, peers: 27
+Oct 08 01:32:02, 2 hrs 13 mins, speed: 31.98 slots/sec,256752, peers: 25
+Oct 08 01:32:14, 2 hrs 19 mins, speed: 30.67 slots/sec,256304, peers: 26
+Oct 08 01:32:26, 1 hr 58 mins, speed: 36.00 slots/sec,255793, peers: 23
+Oct 08 01:32:38, 2 hrs 18 mins, speed: 30.67 slots/sec,255538, peers: 21
+Oct 08 01:32:50, 1 hr 57 mins, speed: 36.02 slots/sec,255027, peers: 22
+Oct 08 01:33:02, 1 hr 53 mins, speed: 37.31 slots/sec,254517, peers: 22
+Oct 08 01:33:14, 2 hrs 12 mins, speed: 31.98 slots/sec,254262, peers: 21
+Oct 08 01:33:26, 1 hr 53 mins, speed: 37.31 slots/sec,253751, peers: 23
+Oct 08 01:33:38, 2 hrs 12 mins, speed: 32.00 slots/sec,253495, peers: 25
+Oct 08 01:33:50, 2 hrs 11 mins, speed: 32.02 slots/sec,252984, peers: 24
+Oct 08 01:34:02, 1 hr 52 mins, speed: 37.34 slots/sec,252474, peers: 23
+Oct 08 01:34:14, 2 hrs 11 mins, speed: 32.02 slots/sec,252218, peers: 27
+Oct 08 01:34:26, 1 hr 52 mins, speed: 37.31 slots/sec,251708, peers: 27
+Oct 08 01:34:38, 1 hr 52 mins, speed: 37.29 slots/sec,251198, peers: 23
+Oct 08 01:34:50, 2 hrs 10 mins, speed: 32.00 slots/sec,250942, peers: 27
+Oct 08 01:35:02, 1 hr 51 mins, speed: 37.31 slots/sec,250431, peers: 28
+Oct 08 01:35:14, 1 hr 51 mins, speed: 37.36 slots/sec,249919, peers: 26
+Oct 08 01:35:26, 1 hr 51 mins, speed: 37.38 slots/sec,249408, peers: 27
+Oct 08 01:35:38, 1 hr 51 mins, speed: 37.31 slots/sec,249155, peers: 26
+Oct 08 01:35:50, 1 hr 50 mins, speed: 37.36 slots/sec,248642, peers: 29
+Oct 08 01:36:02, 1 hr 50 mins, speed: 37.34 slots/sec,248131, peers: 27
+Oct 08 01:36:14, 1 hr 51 mins, speed: 37.15 slots/sec,247629, peers: 28
+Oct 08 01:36:26, 1 hr 50 mins, speed: 37.36 slots/sec,247366, peers: 27
+Oct 08 01:36:38, 1 hr 50 mins, speed: 37.31 slots/sec,246855, peers: 29
+Oct 08 01:36:50, 2 hrs 8 mins, speed: 32.00 slots/sec,246599, peers: 30
+Oct 08 01:37:02, 2 hrs 40 mins, speed: 25.52 slots/sec,246408, peers: 29
+Oct 08 01:37:14, 2 hrs 13 mins, speed: 30.69 slots/sec,245897, peers: 31
+Oct 08 01:37:26, 2 hrs 41 mins, speed: 25.36 slots/sec,245642, peers: 28
+Oct 08 01:37:38, 2 hrs 13 mins, speed: 30.63 slots/sec,245133, peers: 25
+Oct 08 01:37:50, 2 hrs 7 mins, speed: 32.00 slots/sec,244876, peers: 31
+Oct 08 01:38:02, 2 hrs 7 mins, speed: 32.00 slots/sec,244365, peers: 30
+Oct 08 01:38:14, 1 hr 48 mins, speed: 37.33 slots/sec,243854, peers: 32
+Oct 08 01:38:26, 2 hrs 6 mins, speed: 32.02 slots/sec,243600, peers: 31
+Oct 08 01:38:38, 1 hr 48 mins, speed: 37.34 slots/sec,243088, peers: 26
+Oct 08 01:38:50, 1 hr 48 mins, speed: 37.32 slots/sec,242578, peers: 26
+Oct 08 01:39:02, 2 hrs 6 mins, speed: 32.00 slots/sec,242322, peers: 25
+Oct 08 01:39:14, 1 hr 47 mins, speed: 37.36 slots/sec,241811, peers: 24
+Oct 08 01:39:26, 1 hr 47 mins, speed: 37.34 slots/sec,241300, peers: 25
+Oct 08 01:39:38, 2 hrs 5 mins, speed: 32.02 slots/sec,241045, peers: 28
+Oct 08 01:39:50, 1 hr 47 mins, speed: 37.34 slots/sec,240534, peers: 27
+Oct 08 01:40:02, 2 hrs 5 mins, speed: 31.98 slots/sec,240280, peers: 25
+Oct 08 01:40:14, 2 hrs 4 mins, speed: 32.00 slots/sec,239768, peers: 24
+Oct 08 01:40:26, 2 hrs 4 mins, speed: 32.00 slots/sec,239513, peers: 27
+Oct 08 01:40:38, 2 hrs 4 mins, speed: 32.00 slots/sec,239002, peers: 25
+Oct 08 01:40:50, 2 hrs 4 mins, speed: 32.02 slots/sec,238747, peers: 28
+Oct 08 01:41:02, 2 hrs 4 mins, speed: 32.00 slots/sec,238236, peers: 26
+Oct 08 01:41:14, 1 hr 46 mins, speed: 37.34 slots/sec,237725, peers: 25
+Oct 08 01:41:26, 2 hrs 3 mins, speed: 32.00 slots/sec,237470, peers: 25
+Oct 08 01:41:38, 1 hr 45 mins, speed: 37.29 slots/sec,236961, peers: 25
+Oct 08 01:41:50, 2 hrs 3 mins, speed: 32.00 slots/sec,236704, peers: 26
+Oct 08 01:42:02, 2 hrs 3 mins, speed: 31.98 slots/sec,236194, peers: 23
+Oct 08 01:42:14, 1 hr 45 mins, speed: 37.33 slots/sec,235682, peers: 24
+Oct 08 01:42:26, 2 hrs 2 mins, speed: 32.02 slots/sec,235428, peers: 22
+Oct 08 01:42:38, 1 hr 44 mins, speed: 37.33 slots/sec,234916, peers: 19
+Oct 08 01:42:50, 1 hr 44 mins, speed: 37.35 slots/sec,234405, peers: 19
+Oct 08 01:43:02, 2 hrs 1 mins, speed: 32.00 slots/sec,234150, peers: 18
+Oct 08 01:43:14, 1 hr 44 mins, speed: 37.36 slots/sec,233639, peers: 18
+Oct 08 01:43:26, 1 hr 50 mins, speed: 35.33 slots/sec,233224, peers: 17
+Oct 08 01:43:38, 2 hrs 9 mins, speed: 30.00 slots/sec,232969, peers: 19
+Oct 08 01:43:50, 2 hrs 9 mins, speed: 30.00 slots/sec,232714, peers: 18
+Oct 08 01:44:02, 2 hrs 9 mins, speed: 29.98 slots/sec,232204, peers: 18
+Oct 08 01:44:14, 2 hrs 24 mins, speed: 26.67 slots/sec,231948, peers: 20
+Oct 08 01:44:26, 2 hrs 0 mins, speed: 31.98 slots/sec,231438, peers: 19
+Oct 08 01:44:38, 2 hrs 0 mins, speed: 32.00 slots/sec,231182, peers: 19
+Oct 08 01:44:50, 2 hrs 0 mins, speed: 32.02 slots/sec,230671, peers: 20
+Oct 08 01:45:02, 2 hrs 0 mins, speed: 32.00 slots/sec,230416, peers: 17
+Oct 08 01:45:14, 1 hr 59 mins, speed: 32.02 slots/sec,229905, peers: 22
+Oct 08 01:45:26, 1 hr 59 mins, speed: 32.00 slots/sec,229650, peers: 22
+Oct 08 01:45:38, 1 hr 59 mins, speed: 32.00 slots/sec,229139, peers: 20
+Oct 08 01:45:50, 1 hr 59 mins, speed: 31.96 slots/sec,228886, peers: 23
+Oct 08 01:46:02, 2 hrs 23 mins, speed: 26.65 slots/sec,228630, peers: 20
+Oct 08 01:46:14, 1 hr 58 mins, speed: 32.00 slots/sec,228118, peers: 25
+Oct 08 01:46:26, 2 hrs 22 mins, speed: 26.67 slots/sec,227863, peers: 22
+Oct 08 01:46:38, 1 hr 58 mins, speed: 32.02 slots/sec,227353, peers: 24
+Oct 08 01:46:50, 1 hr 58 mins, speed: 32.00 slots/sec,227098, peers: 23
+Oct 08 01:47:02, 2 hrs 21 mins, speed: 26.67 slots/sec,226842, peers: 22
+Oct 08 01:47:14, 1 hr 57 mins, speed: 32.00 slots/sec,226331, peers: 22
+Oct 08 01:47:26, 2 hrs 21 mins, speed: 26.67 slots/sec,226077, peers: 22
+Oct 08 01:47:38, 1 hr 57 mins, speed: 32.02 slots/sec,225565, peers: 22
+Oct 08 01:47:50, 1 hr 57 mins, speed: 32.00 slots/sec,225310, peers: 21
+Oct 08 01:48:02, 1 hr 57 mins, speed: 31.98 slots/sec,224800, peers: 21
+Oct 08 01:48:14, 1 hr 56 mins, speed: 32.02 slots/sec,224544, peers: 24
+Oct 08 01:48:26, 1 hr 56 mins, speed: 32.00 slots/sec,224033, peers: 22
+Oct 08 01:48:38, 1 hr 56 mins, speed: 32.00 slots/sec,223778, peers: 18
+Oct 08 01:48:50, 1 hr 56 mins, speed: 32.02 slots/sec,223267, peers: 24
+Oct 08 01:49:02, 1 hr 56 mins, speed: 32.00 slots/sec,223012, peers: 21
+Oct 08 01:49:14, 1 hr 55 mins, speed: 32.00 slots/sec,222501, peers: 23
+Oct 08 01:49:26, 1 hr 55 mins, speed: 32.00 slots/sec,222246, peers: 24
+Oct 08 01:49:38, 2 hrs 0 mins, speed: 30.67 slots/sec,221799, peers: 23
+Oct 08 01:49:50, 2 hrs 0 mins, speed: 30.60 slots/sec,221547, peers: 26
+Oct 08 01:50:02, 2 hrs 0 mins, speed: 30.67 slots/sec,221033, peers: 26
+Oct 08 01:50:14, 1 hr 59 mins, speed: 30.67 slots/sec,220778, peers: 26
+Oct 08 01:50:26, 1 hr 54 mins, speed: 32.00 slots/sec,220267, peers: 24
+Oct 08 01:50:38, 1 hr 54 mins, speed: 32.06 slots/sec,220012, peers: 27
+Oct 08 01:50:50, 1 hr 54 mins, speed: 31.96 slots/sec,219503, peers: 25
+Oct 08 01:51:02, 1 hr 54 mins, speed: 32.00 slots/sec,219246, peers: 24
+Oct 08 01:51:14, 1 hr 53 mins, speed: 32.00 slots/sec,218735, peers: 25
+Oct 08 01:51:26, 1 hr 37 mins, speed: 37.31 slots/sec,218225, peers: 21
+Oct 08 01:51:38, 1 hr 53 mins, speed: 32.04 slots/sec,217969, peers: 20
+Oct 08 01:51:50, 1 hr 53 mins, speed: 31.98 slots/sec,217715, peers: 26
+Oct 08 01:52:02, 1 hr 53 mins, speed: 32.00 slots/sec,217203, peers: 23
+Oct 08 01:52:14, 2 hrs 15 mins, speed: 26.69 slots/sec,216948, peers: 24
+Oct 08 01:52:26, 1 hr 52 mins, speed: 32.00 slots/sec,216437, peers: 22
+Oct 08 01:52:38, 1 hr 52 mins, speed: 32.00 slots/sec,216183, peers: 20
+Oct 08 01:52:50, 1 hr 52 mins, speed: 31.98 slots/sec,215672, peers: 19
+Oct 08 01:53:02, 1 hr 52 mins, speed: 31.98 slots/sec,215417, peers: 22
+Oct 08 01:53:14, 2 hrs 14 mins, speed: 26.67 slots/sec,215161, peers: 20
+Oct 08 01:53:26, 1 hr 51 mins, speed: 32.02 slots/sec,214650, peers: 21
+Oct 08 01:53:38, 2 hrs 14 mins, speed: 26.65 slots/sec,214397, peers: 19
+Oct 08 01:53:50, 1 hr 51 mins, speed: 31.98 slots/sec,213886, peers: 21
+Oct 08 01:54:02, 1 hr 51 mins, speed: 32.00 slots/sec,213629, peers: 21
+Oct 08 01:54:14, 1 hr 50 mins, speed: 32.00 slots/sec,213118, peers: 18
+Oct 08 01:54:26, 1 hr 34 mins, speed: 37.38 slots/sec,212607, peers: 20
+Oct 08 01:54:38, 1 hr 50 mins, speed: 32.04 slots/sec,212352, peers: 19
+Oct 08 01:54:50, 1 hr 34 mins, speed: 37.32 slots/sec,211842, peers: 21
+Oct 08 01:55:02, 1 hr 50 mins, speed: 31.98 slots/sec,211587, peers: 21
+Oct 08 01:55:14, 2 hrs 12 mins, speed: 26.67 slots/sec,211331, peers: 21
+Oct 08 01:55:26, 2 hrs 11 mins, speed: 26.67 slots/sec,211076, peers: 21
+Oct 08 01:55:38, 2 hrs 11 mins, speed: 26.69 slots/sec,210565, peers: 20
+Oct 08 01:55:50, 2 hrs 11 mins, speed: 26.69 slots/sec,210310, peers: 24
+Oct 08 01:56:02, 2 hrs 18 mins, speed: 25.33 slots/sec,210119, peers: 22
+Oct 08 01:56:14, 1 hr 53 mins, speed: 30.67 slots/sec,209608, peers: 21
+Oct 08 01:56:26, 2 hrs 17 mins, speed: 25.33 slots/sec,209353, peers: 25
+Oct 08 01:56:38, 1 hr 53 mins, speed: 30.67 slots/sec,208842, peers: 27
+Oct 08 01:56:50, 1 hr 48 mins, speed: 32.00 slots/sec,208587, peers: 26
+Oct 08 01:57:02, 1 hr 48 mins, speed: 32.00 slots/sec,208076, peers: 25
+Oct 08 01:57:14, 1 hr 48 mins, speed: 32.00 slots/sec,207821, peers: 22
+Oct 08 01:57:26, 1 hr 47 mins, speed: 32.00 slots/sec,207310, peers: 30
+Oct 08 01:57:38, 1 hr 47 mins, speed: 31.98 slots/sec,207056, peers: 29
+Oct 08 01:57:50, 2 hrs 9 mins, speed: 26.67 slots/sec,206800, peers: 31
+Oct 08 01:58:02, 1 hr 47 mins, speed: 32.00 slots/sec,206289, peers: 29
+Oct 08 01:58:14, 2 hrs 8 mins, speed: 26.65 slots/sec,206035, peers: 28
+Oct 08 01:58:26, 1 hr 47 mins, speed: 32.00 slots/sec,205524, peers: 27
+Oct 08 01:58:38, 1 hr 46 mins, speed: 32.00 slots/sec,205268, peers: 27
+Oct 08 01:58:50, 2 hrs 8 mins, speed: 26.67 slots/sec,205013, peers: 25
+Oct 08 01:59:02, 1 hr 46 mins, speed: 32.02 slots/sec,204502, peers: 23
+Oct 08 01:59:14, 2 hrs 7 mins, speed: 26.69 slots/sec,204247, peers: 20
+Oct 08 01:59:26, 2 hrs 7 mins, speed: 26.67 slots/sec,203992, peers: 17
+Oct 08 01:59:38, 2 hrs 7 mins, speed: 26.61 slots/sec,203740, peers: 16
+Oct 08 01:59:50, 2 hrs 38 mins, speed: 21.33 slots/sec,203482, peers: 18
+Oct 08 02:00:02, 2 hrs 6 mins, speed: 26.65 slots/sec,202972, peers: 18
+Oct 08 02:00:14, 2 hrs 6 mins, speed: 26.65 slots/sec,202717, peers: 17
+Oct 08 02:00:26, 2 hrs 38 mins, speed: 21.38 slots/sec,202718, peers: 22
+Oct 08 02:00:38, 3 hrs 31 mins, speed: 15.98 slots/sec,202719, peers: 22
+Oct 08 02:00:50, 10 hrs 33 mins, speed: 5.33 slots/sec,202720, peers: 22
+Oct 08 02:01:26, 5 hrs 15 mins, speed: 10.67 slots/sec,202211, peers: 19
+Oct 08 02:01:38, 3 hrs 30 mins, speed: 16.00 slots/sec,201956, peers: 19
+Oct 08 02:01:50, 2 hrs 37 mins, speed: 21.36 slots/sec,201700, peers: 22
+Oct 08 02:02:02, 2 hrs 5 mins, speed: 26.69 slots/sec,201445, peers: 21
+Oct 08 02:02:14, 2 hrs 5 mins, speed: 26.69 slots/sec,200934, peers: 24
+Oct 08 02:02:26, 2 hrs 5 mins, speed: 26.69 slots/sec,200679, peers: 22
+Oct 08 02:02:38, 1 hr 44 mins, speed: 31.96 slots/sec,200170, peers: 19
+Oct 08 02:02:50, 1 hr 44 mins, speed: 32.00 slots/sec,199913, peers: 22
+Oct 08 02:03:02, 2 hrs 4 mins, speed: 26.67 slots/sec,199658, peers: 22
+Oct 08 02:03:14, 2 hrs 4 mins, speed: 26.65 slots/sec,199404, peers: 24
+Oct 08 02:03:26, 2 hrs 4 mins, speed: 26.71 slots/sec,198892, peers: 23
+Oct 08 02:03:38, 2 hrs 35 mins, speed: 21.33 slots/sec,198893, peers: 22
+Oct 08 02:03:50, 2 hrs 14 mins, speed: 24.67 slots/sec,198478, peers: 26
+Oct 08 02:04:02, 2 hrs 13 mins, speed: 24.69 slots/sec,198223, peers: 23
+Oct 08 02:04:14, 2 hrs 13 mins, speed: 24.67 slots/sec,197712, peers: 25
+Oct 08 02:04:26, 1 hr 49 mins, speed: 29.98 slots/sec,197458, peers: 25
+Oct 08 02:04:38, 1 hr 42 mins, speed: 32.00 slots/sec,196946, peers: 22
+Oct 08 02:04:50, 1 hr 42 mins, speed: 32.00 slots/sec,196691, peers: 23
+Oct 08 02:05:02, 2 hrs 2 mins, speed: 26.67 slots/sec,196436, peers: 22
+Oct 08 02:05:14, 1 hr 41 mins, speed: 32.02 slots/sec,195925, peers: 25
+Oct 08 02:05:26, 2 hrs 2 mins, speed: 26.67 slots/sec,195670, peers: 23
+Oct 08 02:05:38, 2 hrs 2 mins, speed: 26.65 slots/sec,195416, peers: 23
+Oct 08 02:05:50, 2 hrs 1 mins, speed: 26.67 slots/sec,195160, peers: 27
+Oct 08 02:06:02, 2 hrs 1 mins, speed: 26.67 slots/sec,194649, peers: 24
+Oct 08 02:06:14, 2 hrs 1 mins, speed: 26.67 slots/sec,194394, peers: 26
+Oct 08 02:06:26, 2 hrs 1 mins, speed: 26.65 slots/sec,194141, peers: 26
+Oct 08 02:06:38, 2 hrs 1 mins, speed: 26.67 slots/sec,193884, peers: 24
+Oct 08 02:06:50, 2 hrs 0 mins, speed: 26.67 slots/sec,193373, peers: 24
+Oct 08 02:07:02, 2 hrs 0 mins, speed: 26.67 slots/sec,193118, peers: 22
+Oct 08 02:07:14, 2 hrs 0 mins, speed: 26.71 slots/sec,192863, peers: 21
+Oct 08 02:07:26, 1 hr 40 mins, speed: 32.00 slots/sec,192352, peers: 25
+Oct 08 02:07:38, 2 hrs 0 mins, speed: 26.67 slots/sec,192097, peers: 25
+Oct 08 02:07:50, 1 hr 59 mins, speed: 26.67 slots/sec,191842, peers: 24
+Oct 08 02:08:02, 1 hr 59 mins, speed: 26.67 slots/sec,191587, peers: 23
+Oct 08 02:08:14, 1 hr 59 mins, speed: 26.67 slots/sec,191076, peers: 26
+Oct 08 02:08:26, 1 hr 59 mins, speed: 26.65 slots/sec,190822, peers: 26
+Oct 08 02:08:38, 1 hr 59 mins, speed: 26.67 slots/sec,190566, peers: 25
+Oct 08 02:08:50, 1 hr 39 mins, speed: 31.92 slots/sec,190059, peers: 26
+Oct 08 02:09:02, 1 hr 58 mins, speed: 26.67 slots/sec,189800, peers: 24
+Oct 08 02:09:14, 1 hr 38 mins, speed: 32.02 slots/sec,189289, peers: 24
+Oct 08 02:09:26, 1 hr 42 mins, speed: 30.67 slots/sec,189098, peers: 22
+Oct 08 02:09:38, 2 hrs 3 mins, speed: 25.40 slots/sec,188844, peers: 19
+Oct 08 02:09:50, 2 hrs 4 mins, speed: 25.33 slots/sec,188588, peers: 20
+Oct 08 02:10:02, 2 hrs 3 mins, speed: 25.33 slots/sec,188077, peers: 19
+Oct 08 02:10:14, 1 hr 57 mins, speed: 26.65 slots/sec,187823, peers: 21
+Oct 08 02:10:26, 1 hr 37 mins, speed: 31.98 slots/sec,187313, peers: 20
+Oct 08 02:10:38, 1 hr 37 mins, speed: 32.00 slots/sec,187056, peers: 23
+Oct 08 02:10:50, 1 hr 56 mins, speed: 26.67 slots/sec,186801, peers: 23
+Oct 08 02:11:02, 1 hr 36 mins, speed: 32.02 slots/sec,186290, peers: 22
+Oct 08 02:11:14, 1 hr 56 mins, speed: 26.67 slots/sec,186037, peers: 20
+Oct 08 02:11:26, 1 hr 36 mins, speed: 31.98 slots/sec,185525, peers: 23
+Oct 08 02:11:38, 1 hr 36 mins, speed: 32.00 slots/sec,185269, peers: 22
+Oct 08 02:11:50, 1 hr 55 mins, speed: 26.67 slots/sec,185014, peers: 25
+Oct 08 02:12:02, 1 hr 35 mins, speed: 32.04 slots/sec,184503, peers: 24
+Oct 08 02:12:14, 1 hr 55 mins, speed: 26.69 slots/sec,184248, peers: 24
+Oct 08 02:12:26, 1 hr 54 mins, speed: 26.67 slots/sec,183993, peers: 27
+Oct 08 02:12:38, 1 hr 35 mins, speed: 31.98 slots/sec,183483, peers: 24
+Oct 08 02:12:50, 1 hr 54 mins, speed: 26.67 slots/sec,183227, peers: 24
+Oct 08 02:13:02, 1 hr 54 mins, speed: 26.63 slots/sec,182974, peers: 24
+Oct 08 02:13:14, 1 hr 54 mins, speed: 26.65 slots/sec,182718, peers: 27
+Oct 08 02:13:26, 1 hr 53 mins, speed: 26.67 slots/sec,182207, peers: 25
+Oct 08 02:13:38, 1 hr 53 mins, speed: 26.67 slots/sec,181951, peers: 22
+Oct 08 02:13:50, 1 hr 53 mins, speed: 26.71 slots/sec,181696, peers: 25
+Oct 08 02:14:02, 1 hr 34 mins, speed: 32.02 slots/sec,181185, peers: 21
+Oct 08 02:14:14, 1 hr 53 mins, speed: 26.61 slots/sec,180934, peers: 20
+Oct 08 02:14:26, 1 hr 52 mins, speed: 26.67 slots/sec,180675, peers: 22
+Oct 08 02:14:38, 1 hr 52 mins, speed: 26.65 slots/sec,180421, peers: 24
+Oct 08 02:14:50, 1 hr 52 mins, speed: 26.67 slots/sec,179909, peers: 22
+Oct 08 02:15:02, 1 hr 51 mins, speed: 26.75 slots/sec,179654, peers: 21
+Oct 08 02:15:14, 1 hr 52 mins, speed: 26.67 slots/sec,179399, peers: 19
+Oct 08 02:15:26, 1 hr 33 mins, speed: 32.02 slots/sec,178888, peers: 21
+Oct 08 02:15:38, 1 hr 51 mins, speed: 26.67 slots/sec,178633, peers: 21
+Oct 08 02:15:50, 1 hr 51 mins, speed: 26.67 slots/sec,178378, peers: 25
+Oct 08 02:16:02, 1 hr 51 mins, speed: 26.67 slots/sec,178123, peers: 24
+Oct 08 02:16:14, 2 hrs 33 mins, speed: 19.27 slots/sec,177967, peers: 20
+Oct 08 02:16:26, 1 hr 59 mins, speed: 24.67 slots/sec,177453, peers: 24
+Oct 08 02:16:38, 1 hr 59 mins, speed: 24.67 slots/sec,177198, peers: 20
+Oct 08 02:16:50, 1 hr 50 mins, speed: 26.67 slots/sec,176847, peers: 17
+Oct 08 02:17:02, 1 hr 42 mins, speed: 28.71 slots/sec,176593, peers: 21
+Oct 08 02:17:14, 2 hrs 5 mins, speed: 23.33 slots/sec,176337, peers: 22
+Oct 08 02:17:26, 2 hrs 17 mins, speed: 21.33 slots/sec,176178, peers: 22
+Oct 08 02:17:38, 1 hr 58 mins, speed: 24.65 slots/sec,175668, peers: 19
+Oct 08 02:17:50, 1 hr 58 mins, speed: 24.67 slots/sec,175413, peers: 29
+Oct 08 02:18:02, 1 hr 58 mins, speed: 24.67 slots/sec,175157, peers: 26
+Oct 08 02:18:14, 1 hr 49 mins, speed: 26.67 slots/sec,174902, peers: 24
+Oct 08 02:18:26, 2 hrs 16 mins, speed: 21.36 slots/sec,174647, peers: 23
+Oct 08 02:18:38, 2 hrs 16 mins, speed: 21.36 slots/sec,174392, peers: 19
+Oct 08 02:18:50, 1 hr 48 mins, speed: 26.67 slots/sec,173881, peers: 18
+Oct 08 02:19:02, 1 hr 48 mins, speed: 26.65 slots/sec,173627, peers: 18
+Oct 08 02:19:14, 1 hr 48 mins, speed: 26.67 slots/sec,173371, peers: 21
+Oct 08 02:19:26, 2 hrs 3 mins, speed: 23.33 slots/sec,173276, peers: 21
+Oct 08 02:19:38, 3 hrs 0 mins, speed: 16.00 slots/sec,173117, peers: 19
+Oct 08 02:19:50, 4 hrs 29 mins, speed: 10.69 slots/sec,173118, peers: 20
+Oct 08 02:20:02, 4 hrs 30 mins, speed: 10.67 slots/sec,172863, peers: 19
+Oct 08 02:20:14, 3 hrs 25 mins, speed: 13.98 slots/sec,172609, peers: 23
+Oct 08 02:20:26, 2 hrs 59 mins, speed: 16.00 slots/sec,172353, peers: 22
+Oct 08 02:20:38, 2 hrs 14 mins, speed: 21.29 slots/sec,172100, peers: 23
+Oct 08 02:20:50, 1 hr 47 mins, speed: 26.65 slots/sec,171588, peers: 21
+Oct 08 02:21:02, 1 hr 46 mins, speed: 26.69 slots/sec,171332, peers: 18
+Oct 08 02:21:14, 1 hr 47 mins, speed: 26.65 slots/sec,171078, peers: 22
+Oct 08 02:21:26, 1 hr 46 mins, speed: 26.71 slots/sec,170822, peers: 22
+Oct 08 02:21:38, 2 hrs 26 mins, speed: 19.36 slots/sec,170663, peers: 20
+Oct 08 02:21:50, 2 hrs 26 mins, speed: 19.33 slots/sec,170408, peers: 22
+Oct 08 02:22:02, 2 hrs 26 mins, speed: 19.35 slots/sec,170153, peers: 17
+Oct 08 02:22:14, 1 hr 54 mins, speed: 24.67 slots/sec,169642, peers: 18
+Oct 08 02:22:26, 1 hr 45 mins, speed: 26.67 slots/sec,169387, peers: 17
+Oct 08 02:22:38, 1 hr 45 mins, speed: 26.67 slots/sec,169132, peers: 16
+Oct 08 02:22:50, 1 hr 45 mins, speed: 26.67 slots/sec,168877, peers: 15
+Oct 08 02:23:02, 2 hrs 11 mins, speed: 21.33 slots/sec,168622, peers: 18
+Oct 08 02:23:14, 1 hr 45 mins, speed: 26.67 slots/sec,168111, peers: 21
+Oct 08 02:23:26, 1 hr 44 mins, speed: 26.65 slots/sec,167857, peers: 20
+Oct 08 02:23:38, 1 hr 44 mins, speed: 26.65 slots/sec,167602, peers: 17
+Oct 08 02:23:50, 1 hr 44 mins, speed: 26.67 slots/sec,167346, peers: 21
+Oct 08 02:24:02, 2 hrs 10 mins, speed: 21.33 slots/sec,167091, peers: 20
+Oct 08 02:24:14, 2 hrs 10 mins, speed: 21.36 slots/sec,166836, peers: 21
+Oct 08 02:24:26, 2 hrs 10 mins, speed: 21.36 slots/sec,166581, peers: 20
+Oct 08 02:24:38, 2 hrs 9 mins, speed: 21.33 slots/sec,166326, peers: 19
+Oct 08 02:24:50, 1 hr 43 mins, speed: 26.67 slots/sec,165815, peers: 24
+Oct 08 02:25:02, 1 hr 43 mins, speed: 26.67 slots/sec,165560, peers: 23
+Oct 08 02:25:14, 1 hr 43 mins, speed: 26.67 slots/sec,165305, peers: 25
+Oct 08 02:25:26, 1 hr 43 mins, speed: 26.63 slots/sec,165052, peers: 23
+Oct 08 02:25:38, 2 hrs 8 mins, speed: 21.33 slots/sec,164795, peers: 21
+Oct 08 02:25:50, 2 hrs 8 mins, speed: 21.33 slots/sec,164540, peers: 22
+Oct 08 02:26:02, 2 hrs 8 mins, speed: 21.32 slots/sec,164286, peers: 20
+Oct 08 02:26:14, 2 hrs 8 mins, speed: 21.35 slots/sec,164031, peers: 21
+Oct 08 02:26:26, 2 hrs 7 mins, speed: 21.33 slots/sec,163775, peers: 21
+Oct 08 02:26:38, 1 hr 42 mins, speed: 26.67 slots/sec,163264, peers: 19
+Oct 08 02:26:50, 1 hr 41 mins, speed: 26.69 slots/sec,163009, peers: 20
+Oct 08 02:27:02, 1 hr 41 mins, speed: 26.69 slots/sec,162754, peers: 20
+Oct 08 02:27:14, 1 hr 24 mins, speed: 32.00 slots/sec,162243, peers: 19
+Oct 08 02:27:26, 1 hr 41 mins, speed: 26.67 slots/sec,161988, peers: 23
+Oct 08 02:27:38, 1 hr 46 mins, speed: 25.34 slots/sec,161797, peers: 18
+Oct 08 02:27:50, 1 hr 46 mins, speed: 25.34 slots/sec,161542, peers: 19
+Oct 08 02:28:02, 3 hrs 3 mins, speed: 14.67 slots/sec,161543, peers: 17
+Oct 08 02:28:14, 3 hrs 3 mins, speed: 14.67 slots/sec,161288, peers: 17
+Oct 08 02:28:26, 2 hrs 48 mins, speed: 15.96 slots/sec,161035, peers: 17
+Oct 08 02:28:38, 2 hrs 5 mins, speed: 21.34 slots/sec,160522, peers: 16
+Oct 08 02:28:50, 2 hrs 5 mins, speed: 21.34 slots/sec,160523, peers: 22
+Oct 08 02:29:02, 1 hr 40 mins, speed: 26.65 slots/sec,160013, peers: 18
+Oct 08 02:29:14, 2 hrs 4 mins, speed: 21.36 slots/sec,160014, peers: 17
+Oct 08 02:29:26, 2 hrs 46 mins, speed: 16.00 slots/sec,159758, peers: 20
+Oct 08 02:29:38, 2 hrs 4 mins, speed: 21.29 slots/sec,159505, peers: 19
+Oct 08 02:29:50, 2 hrs 4 mins, speed: 21.35 slots/sec,158992, peers: 25
+Oct 08 02:30:02, 1 hr 39 mins, speed: 26.69 slots/sec,158737, peers: 25
+Oct 08 02:30:14, 1 hr 39 mins, speed: 26.67 slots/sec,158482, peers: 28
+Oct 08 02:30:26, 1 hr 38 mins, speed: 26.71 slots/sec,158227, peers: 28
+Oct 08 02:30:38, 2 hrs 3 mins, speed: 21.33 slots/sec,157972, peers: 26
+Oct 08 02:30:50, 1 hr 38 mins, speed: 26.63 slots/sec,157463, peers: 25
+Oct 08 02:31:02, 1 hr 38 mins, speed: 26.67 slots/sec,157206, peers: 28
+Oct 08 02:31:14, 1 hr 38 mins, speed: 26.65 slots/sec,156952, peers: 26
+Oct 08 02:31:26, 1 hr 37 mins, speed: 26.67 slots/sec,156696, peers: 25
+Oct 08 02:31:38, 2 hrs 2 mins, speed: 21.31 slots/sec,156444, peers: 24
+Oct 08 02:31:50, 2 hrs 2 mins, speed: 21.33 slots/sec,156186, peers: 27
+Oct 08 02:32:02, 2 hrs 1 mins, speed: 21.36 slots/sec,155931, peers: 25
+Oct 08 02:32:14, 2 hrs 1 mins, speed: 21.29 slots/sec,155678, peers: 27
+Oct 08 02:32:26, 2 hrs 1 mins, speed: 21.40 slots/sec,155421, peers: 26
+Oct 08 02:32:38, 2 hrs 1 mins, speed: 21.29 slots/sec,155168, peers: 27
+Oct 08 02:32:50, 2 hrs 1 mins, speed: 21.33 slots/sec,154911, peers: 25
+Oct 08 02:33:02, 2 hrs 0 mins, speed: 21.38 slots/sec,154656, peers: 22
+Oct 08 02:33:14, 2 hrs 0 mins, speed: 21.31 slots/sec,154402, peers: 26
+Oct 08 02:33:26, 1 hr 36 mins, speed: 26.71 slots/sec,153890, peers: 25
+Oct 08 02:33:38, 1 hr 36 mins, speed: 26.67 slots/sec,153635, peers: 25
+Oct 08 02:33:50, 1 hr 35 mins, speed: 26.65 slots/sec,153381, peers: 23
+Oct 08 02:34:02, 1 hr 35 mins, speed: 26.69 slots/sec,153125, peers: 26
+Oct 08 02:34:14, 1 hr 35 mins, speed: 26.67 slots/sec,152614, peers: 28
+Oct 08 02:34:26, 1 hr 35 mins, speed: 26.67 slots/sec,152359, peers: 25
+Oct 08 02:34:38, 1 hr 34 mins, speed: 26.69 slots/sec,152104, peers: 23
+Oct 08 02:34:50, 1 hr 34 mins, speed: 26.67 slots/sec,151849, peers: 23
+Oct 08 02:35:02, 1 hr 58 mins, speed: 21.33 slots/sec,151594, peers: 22
+Oct 08 02:35:14, 2 hrs 10 mins, speed: 19.31 slots/sec,151436, peers: 21
+Oct 08 02:35:26, 2 hrs 10 mins, speed: 19.33 slots/sec,151180, peers: 20
+Oct 08 02:35:38, 2 hrs 10 mins, speed: 19.33 slots/sec,150925, peers: 20
+Oct 08 02:35:50, 2 hrs 9 mins, speed: 19.33 slots/sec,150670, peers: 21
+Oct 08 02:36:02, 1 hr 57 mins, speed: 21.35 slots/sec,150415, peers: 21
+Oct 08 02:36:14, 1 hr 33 mins, speed: 26.67 slots/sec,149904, peers: 19
+Oct 08 02:36:26, 1 hr 33 mins, speed: 26.65 slots/sec,149650, peers: 24
+Oct 08 02:36:38, 1 hr 33 mins, speed: 26.67 slots/sec,149394, peers: 23
+Oct 08 02:36:50, 1 hr 17 mins, speed: 32.00 slots/sec,148883, peers: 31
+Oct 08 02:37:02, 1 hr 32 mins, speed: 26.65 slots/sec,148629, peers: 31
+Oct 08 02:37:14, 1 hr 32 mins, speed: 26.67 slots/sec,148374, peers: 33
+Oct 08 02:37:26, 1 hr 32 mins, speed: 26.65 slots/sec,148119, peers: 33
+Oct 08 02:37:38, 1 hr 32 mins, speed: 26.67 slots/sec,147607, peers: 30
+Oct 08 02:37:50, 1 hr 32 mins, speed: 26.69 slots/sec,147352, peers: 34
+Oct 08 02:38:02, 1 hr 31 mins, speed: 26.69 slots/sec,147097, peers: 31
+Oct 08 02:38:14, 1 hr 31 mins, speed: 26.65 slots/sec,146844, peers: 36
+Oct 08 02:38:26, 1 hr 54 mins, speed: 21.33 slots/sec,146587, peers: 34
+Oct 08 02:38:38, 1 hr 54 mins, speed: 21.29 slots/sec,146334, peers: 34
+Oct 08 02:38:50, 1 hr 54 mins, speed: 21.33 slots/sec,146077, peers: 35
+Oct 08 02:39:02, 1 hr 30 mins, speed: 26.67 slots/sec,145568, peers: 31
+Oct 08 02:39:14, 1 hr 30 mins, speed: 26.67 slots/sec,145311, peers: 31
+Oct 08 02:39:26, 1 hr 30 mins, speed: 26.71 slots/sec,145056, peers: 33
+Oct 08 02:39:38, 1 hr 30 mins, speed: 26.67 slots/sec,144801, peers: 28
+Oct 08 02:39:50, 1 hr 52 mins, speed: 21.36 slots/sec,144547, peers: 26
+Oct 08 02:40:02, 1 hr 30 mins, speed: 26.67 slots/sec,144035, peers: 27
+Oct 08 02:40:14, 1 hr 29 mins, speed: 26.67 slots/sec,143780, peers: 29
+Oct 08 02:40:26, 1 hr 29 mins, speed: 26.65 slots/sec,143526, peers: 29
+Oct 08 02:40:38, 1 hr 29 mins, speed: 26.69 slots/sec,143270, peers: 27
+Oct 08 02:40:50, 1 hr 51 mins, speed: 21.33 slots/sec,143015, peers: 30
+Oct 08 02:41:02, 2 hrs 3 mins, speed: 19.33 slots/sec,142856, peers: 29
+Oct 08 02:41:14, 1 hr 36 mins, speed: 24.65 slots/sec,142347, peers: 28
+Oct 08 02:41:26, 1 hr 36 mins, speed: 24.67 slots/sec,142090, peers: 31
+Oct 08 02:41:38, 1 hr 35 mins, speed: 24.65 slots/sec,141836, peers: 32
+Oct 08 02:41:50, 1 hr 28 mins, speed: 26.67 slots/sec,141580, peers: 30
+Oct 08 02:42:02, 1 hr 50 mins, speed: 21.38 slots/sec,141325, peers: 27
+Oct 08 02:42:14, 1 hr 50 mins, speed: 21.31 slots/sec,141071, peers: 25
+Oct 08 02:42:26, 1 hr 27 mins, speed: 26.67 slots/sec,140560, peers: 25
+Oct 08 02:42:38, 1 hr 27 mins, speed: 26.67 slots/sec,140304, peers: 27
+Oct 08 02:42:50, 1 hr 27 mins, speed: 26.67 slots/sec,140049, peers: 24
+Oct 08 02:43:02, 1 hr 27 mins, speed: 26.69 slots/sec,139794, peers: 24
+Oct 08 02:43:14, 1 hr 48 mins, speed: 21.36 slots/sec,139539, peers: 26
+Oct 08 02:43:26, 1 hr 48 mins, speed: 21.33 slots/sec,139284, peers: 25
+Oct 08 02:43:38, 1 hr 48 mins, speed: 21.33 slots/sec,139029, peers: 26
+Oct 08 02:43:50, 1 hr 48 mins, speed: 21.33 slots/sec,138774, peers: 26
+Oct 08 02:44:02, 1 hr 26 mins, speed: 26.67 slots/sec,138263, peers: 23
+Oct 08 02:44:14, 1 hr 26 mins, speed: 26.67 slots/sec,138008, peers: 20
+Oct 08 02:44:26, 1 hr 26 mins, speed: 26.67 slots/sec,137753, peers: 22
+Oct 08 02:44:38, 1 hr 25 mins, speed: 26.67 slots/sec,137498, peers: 25
+Oct 08 02:44:50, 1 hr 25 mins, speed: 26.67 slots/sec,136987, peers: 23
+Oct 08 02:45:02, 1 hr 25 mins, speed: 26.67 slots/sec,136732, peers: 21
+Oct 08 02:45:14, 1 hr 25 mins, speed: 26.67 slots/sec,136477, peers: 24
+Oct 08 02:45:26, 1 hr 25 mins, speed: 26.67 slots/sec,136222, peers: 20
+Oct 08 02:45:38, 1 hr 46 mins, speed: 21.33 slots/sec,135967, peers: 23
+Oct 08 02:45:50, 1 hr 46 mins, speed: 21.33 slots/sec,135712, peers: 22
+Oct 08 02:46:02, 1 hr 45 mins, speed: 21.33 slots/sec,135457, peers: 20
+Oct 08 02:46:14, 1 hr 24 mins, speed: 26.65 slots/sec,134947, peers: 17
+Oct 08 02:46:26, 1 hr 24 mins, speed: 26.67 slots/sec,134691, peers: 17
+Oct 08 02:46:38, 1 hr 24 mins, speed: 26.67 slots/sec,134436, peers: 15
+Oct 08 02:46:50, 1 hr 23 mins, speed: 26.67 slots/sec,134181, peers: 16
+Oct 08 02:47:02, 1 hr 44 mins, speed: 21.35 slots/sec,133926, peers: 16
+Oct 08 02:47:14, 1 hr 51 mins, speed: 20.00 slots/sec,133735, peers: 20
+Oct 08 02:47:26, 1 hr 51 mins, speed: 19.98 slots/sec,133481, peers: 20
+Oct 08 02:47:38, 2 hrs 31 mins, speed: 14.65 slots/sec,133482, peers: 17
+Oct 08 02:47:50, 2 hrs 31 mins, speed: 14.67 slots/sec,133226, peers: 17
+Oct 08 02:48:02, 2 hrs 18 mins, speed: 15.98 slots/sec,132972, peers: 18
+Oct 08 02:48:14, 2 hrs 18 mins, speed: 16.02 slots/sec,132716, peers: 19
+Oct 08 02:48:26, 1 hr 43 mins, speed: 21.36 slots/sec,132461, peers: 18
+Oct 08 02:48:38, 1 hr 43 mins, speed: 21.33 slots/sec,132206, peers: 18
+Oct 08 02:48:50, 1 hr 42 mins, speed: 21.36 slots/sec,131951, peers: 23
+Oct 08 02:49:02, 1 hr 42 mins, speed: 21.33 slots/sec,131696, peers: 19
+Oct 08 02:49:14, 1 hr 21 mins, speed: 26.67 slots/sec,131185, peers: 23
+Oct 08 02:49:26, 1 hr 21 mins, speed: 26.65 slots/sec,130931, peers: 23
+Oct 08 02:49:38, 1 hr 21 mins, speed: 26.67 slots/sec,130675, peers: 22
+Oct 08 02:49:50, 1 hr 21 mins, speed: 26.65 slots/sec,130421, peers: 29
+Oct 08 02:50:02, 1 hr 41 mins, speed: 21.33 slots/sec,130165, peers: 27
+Oct 08 02:50:14, 1 hr 41 mins, speed: 21.35 slots/sec,129910, peers: 27
+Oct 08 02:50:26, 1 hr 41 mins, speed: 21.33 slots/sec,129655, peers: 26
+Oct 08 02:50:38, 1 hr 40 mins, speed: 21.36 slots/sec,129400, peers: 29
+Oct 08 02:50:50, 1 hr 20 mins, speed: 26.67 slots/sec,128889, peers: 29
+Oct 08 02:51:02, 1 hr 20 mins, speed: 26.67 slots/sec,128634, peers: 26
+Oct 08 02:51:14, 1 hr 20 mins, speed: 26.65 slots/sec,128380, peers: 26
+Oct 08 02:51:26, 1 hr 20 mins, speed: 26.65 slots/sec,128125, peers: 30
+Oct 08 02:51:38, 1 hr 39 mins, speed: 21.33 slots/sec,127869, peers: 28
+Oct 08 02:51:50, 1 hr 19 mins, speed: 26.65 slots/sec,127359, peers: 27
+Oct 08 02:52:02, 1 hr 19 mins, speed: 26.69 slots/sec,127103, peers: 26
+Oct 08 02:52:14, 1 hr 19 mins, speed: 26.69 slots/sec,126848, peers: 25
+Oct 08 02:52:26, 1 hr 5 mins, speed: 31.98 slots/sec,126338, peers: 25
+Oct 08 02:52:38, 1 hr 18 mins, speed: 26.67 slots/sec,126083, peers: 24
+Oct 08 02:52:50, 1 hr 18 mins, speed: 26.67 slots/sec,125827, peers: 27
+Oct 08 02:53:02, 1 hr 18 mins, speed: 26.63 slots/sec,125574, peers: 26
+Oct 08 02:53:14, 1 hr 37 mins, speed: 21.34 slots/sec,125318, peers: 29
+Oct 08 02:53:26, 1 hr 17 mins, speed: 26.69 slots/sec,124806, peers: 29
+Oct 08 02:53:38, 1 hr 17 mins, speed: 26.67 slots/sec,124551, peers: 28
+Oct 08 02:53:50, 1 hr 17 mins, speed: 26.71 slots/sec,124296, peers: 30
+Oct 08 02:54:02, 1 hr 17 mins, speed: 26.69 slots/sec,124041, peers: 28
+Oct 08 02:54:14, 1 hr 36 mins, speed: 21.31 slots/sec,123787, peers: 28
+Oct 08 02:54:26, 1 hr 36 mins, speed: 21.33 slots/sec,123531, peers: 28
+Oct 08 02:54:38, 1 hr 46 mins, speed: 19.33 slots/sec,123372, peers: 26
+Oct 08 02:54:50, 1 hr 23 mins, speed: 24.67 slots/sec,122861, peers: 29
+Oct 08 02:55:02, 1 hr 45 mins, speed: 19.36 slots/sec,122862, peers: 28
+Oct 08 02:55:14, 1 hr 45 mins, speed: 19.33 slots/sec,122607, peers: 29
+Oct 08 02:55:26, 1 hr 35 mins, speed: 21.33 slots/sec,122352, peers: 28
+Oct 08 02:55:38, 2 hrs 7 mins, speed: 15.94 slots/sec,122100, peers: 33
+Oct 08 02:55:50, 1 hr 35 mins, speed: 21.33 slots/sec,121842, peers: 33
+Oct 08 02:56:02, 1 hr 34 mins, speed: 21.33 slots/sec,121587, peers: 32
+Oct 08 02:56:14, 1 hr 34 mins, speed: 21.33 slots/sec,121332, peers: 29
+Oct 08 02:56:26, 1 hr 34 mins, speed: 21.40 slots/sec,121077, peers: 31
+Oct 08 02:56:38, 1 hr 34 mins, speed: 21.33 slots/sec,120822, peers: 30
+Oct 08 02:56:50, 1 hr 34 mins, speed: 21.33 slots/sec,120567, peers: 39
+Oct 08 02:57:02, 1 hr 34 mins, speed: 21.31 slots/sec,120313, peers: 36
+Oct 08 02:57:14, 1 hr 33 mins, speed: 21.31 slots/sec,120058, peers: 32
+Oct 08 02:57:26, 1 hr 33 mins, speed: 21.31 slots/sec,119803, peers: 36
+Oct 08 02:57:38, 1 hr 33 mins, speed: 21.31 slots/sec,119548, peers: 36
+Oct 08 02:57:50, 1 hr 33 mins, speed: 21.36 slots/sec,119292, peers: 38
+Oct 08 02:58:02, 1 hr 32 mins, speed: 21.36 slots/sec,119037, peers: 34
+Oct 08 02:58:14, 1 hr 32 mins, speed: 21.33 slots/sec,118783, peers: 32
+Oct 08 02:58:26, 1 hr 32 mins, speed: 21.29 slots/sec,118530, peers: 35
+Oct 08 02:58:38, 1 hr 32 mins, speed: 21.33 slots/sec,118272, peers: 33
+Oct 08 02:58:50, 1 hr 32 mins, speed: 21.33 slots/sec,118017, peers: 33
+Oct 08 02:59:02, 1 hr 32 mins, speed: 21.33 slots/sec,117763, peers: 31
+Oct 08 02:59:14, 1 hr 31 mins, speed: 21.38 slots/sec,117508, peers: 31
+Oct 08 02:59:26, 1 hr 31 mins, speed: 21.33 slots/sec,117252, peers: 34
+Oct 08 02:59:38, 1 hr 31 mins, speed: 21.33 slots/sec,116997, peers: 34
+Oct 08 02:59:50, 1 hr 31 mins, speed: 21.36 slots/sec,116742, peers: 40
+Oct 08 03:00:02, 1 hr 30 mins, speed: 21.36 slots/sec,116487, peers: 39
+Oct 08 03:00:14, 2 hrs 1 mins, speed: 16.00 slots/sec,116488, peers: 38
+Oct 08 03:00:26, 2 hrs 1 mins, speed: 15.98 slots/sec,116234, peers: 38
+Oct 08 03:00:38, 2 hrs 0 mins, speed: 16.00 slots/sec,115978, peers: 33
+Oct 08 03:00:50, 2 hrs 0 mins, speed: 16.00 slots/sec,115723, peers: 32
+Oct 08 03:01:02, 1 hr 30 mins, speed: 21.31 slots/sec,115469, peers: 31
+Oct 08 03:01:14, 1 hr 29 mins, speed: 21.35 slots/sec,115213, peers: 32
+Oct 08 03:01:26, 2 hrs 0 mins, speed: 16.00 slots/sec,115214, peers: 31
+Oct 08 03:01:38, 3 hrs 0 mins, speed: 10.67 slots/sec,115215, peers: 30
+Oct 08 03:01:50, 3 hrs 41 mins, speed: 8.67 slots/sec,115057, peers: 32
+Oct 08 03:02:02, 3 hrs 41 mins, speed: 8.63 slots/sec,114803, peers: 27
+Oct 08 03:02:14, 2 hrs 16 mins, speed: 14.00 slots/sec,114546, peers: 29
+Oct 08 03:02:26, 1 hr 38 mins, speed: 19.33 slots/sec,114291, peers: 25
+Oct 08 03:02:38, 1 hr 29 mins, speed: 21.33 slots/sec,114037, peers: 25
+Oct 08 03:02:50, 1 hr 28 mins, speed: 21.35 slots/sec,113782, peers: 28
+Oct 08 03:03:02, 1 hr 58 mins, speed: 15.98 slots/sec,113783, peers: 26
+Oct 08 03:03:14, 1 hr 58 mins, speed: 16.00 slots/sec,113527, peers: 33
+Oct 08 03:03:26, 1 hr 57 mins, speed: 16.02 slots/sec,113272, peers: 32
+Oct 08 03:03:38, 1 hr 57 mins, speed: 16.02 slots/sec,113017, peers: 29
+Oct 08 03:03:50, 1 hr 28 mins, speed: 21.33 slots/sec,112763, peers: 27
+Oct 08 03:04:02, 1 hr 27 mins, speed: 21.31 slots/sec,112508, peers: 31
+Oct 08 03:04:14, 1 hr 27 mins, speed: 21.33 slots/sec,112252, peers: 31
+Oct 08 03:04:26, 1 hr 27 mins, speed: 21.33 slots/sec,111997, peers: 32
+Oct 08 03:04:38, 1 hr 27 mins, speed: 21.36 slots/sec,111742, peers: 30
+Oct 08 03:04:50, 1 hr 56 mins, speed: 16.02 slots/sec,111743, peers: 28
+Oct 08 03:05:02, 1 hr 56 mins, speed: 16.00 slots/sec,111488, peers: 25
+Oct 08 03:05:14, 1 hr 55 mins, speed: 16.00 slots/sec,111233, peers: 26
+Oct 08 03:05:26, 1 hr 55 mins, speed: 15.98 slots/sec,110979, peers: 27
+Oct 08 03:05:38, 1 hr 26 mins, speed: 21.33 slots/sec,110723, peers: 27
+Oct 08 03:05:50, 1 hr 26 mins, speed: 21.33 slots/sec,110468, peers: 29
+Oct 08 03:06:02, 1 hr 26 mins, speed: 21.31 slots/sec,110214, peers: 29
+Oct 08 03:06:14, 1 hr 54 mins, speed: 16.00 slots/sec,110215, peers: 32
+Oct 08 03:06:26, 1 hr 54 mins, speed: 16.00 slots/sec,109959, peers: 32
+Oct 08 03:06:38, 1 hr 54 mins, speed: 15.98 slots/sec,109705, peers: 32
+Oct 08 03:06:50, 1 hr 53 mins, speed: 16.02 slots/sec,109449, peers: 30
+Oct 08 03:07:02, 1 hr 25 mins, speed: 21.35 slots/sec,109194, peers: 30
+Oct 08 03:07:14, 1 hr 25 mins, speed: 21.31 slots/sec,108940, peers: 28
+Oct 08 03:07:26, 1 hr 53 mins, speed: 16.00 slots/sec,108941, peers: 28
+Oct 08 03:07:38, 1 hr 53 mins, speed: 16.00 slots/sec,108685, peers: 29
+Oct 08 03:07:50, 1 hr 53 mins, speed: 15.98 slots/sec,108431, peers: 25
+Oct 08 03:08:02, 1 hr 52 mins, speed: 16.00 slots/sec,108176, peers: 20
+Oct 08 03:08:14, 1 hr 24 mins, speed: 21.33 slots/sec,107921, peers: 20
+Oct 08 03:08:26, 1 hr 24 mins, speed: 21.33 slots/sec,107665, peers: 20
+Oct 08 03:08:38, 1 hr 52 mins, speed: 16.02 slots/sec,107666, peers: 19
+Oct 08 03:08:50, 2 hrs 2 mins, speed: 14.67 slots/sec,107476, peers: 22
+Oct 08 03:09:02, 2 hrs 2 mins, speed: 14.65 slots/sec,107222, peers: 20
+Oct 08 03:09:14, 3 hrs 12 mins, speed: 9.29 slots/sec,107223, peers: 21
+Oct 08 03:09:26, 2 hrs 1 mins, speed: 14.67 slots/sec,106966, peers: 21
+Oct 08 03:09:38, 1 hr 51 mins, speed: 16.00 slots/sec,106712, peers: 21
+Oct 08 03:09:50, 1 hr 50 mins, speed: 16.02 slots/sec,106457, peers: 22
+Oct 08 03:10:02, 1 hr 22 mins, speed: 21.36 slots/sec,106202, peers: 21
+Oct 08 03:10:14, 1 hr 50 mins, speed: 15.98 slots/sec,106203, peers: 21
+Oct 08 03:10:26, 1 hr 50 mins, speed: 16.02 slots/sec,105947, peers: 22
+Oct 08 03:10:38, 1 hr 49 mins, speed: 16.02 slots/sec,105692, peers: 21
+Oct 08 03:10:50, 1 hr 49 mins, speed: 16.00 slots/sec,105438, peers: 22
+Oct 08 03:11:02, 1 hr 22 mins, speed: 21.36 slots/sec,105182, peers: 20
+Oct 08 03:11:14, 1 hr 21 mins, speed: 21.33 slots/sec,104927, peers: 20
+Oct 08 03:11:26, 1 hr 21 mins, speed: 21.33 slots/sec,104672, peers: 22
+Oct 08 03:11:38, 1 hr 48 mins, speed: 16.02 slots/sec,104673, peers: 20
+Oct 08 03:11:50, 1 hr 48 mins, speed: 16.00 slots/sec,104418, peers: 28
+Oct 08 03:12:02, 1 hr 48 mins, speed: 15.98 slots/sec,104164, peers: 27
+Oct 08 03:12:14, 1 hr 48 mins, speed: 15.98 slots/sec,103909, peers: 26
+Oct 08 03:12:26, 1 hr 48 mins, speed: 15.98 slots/sec,103910, peers: 28
+Oct 08 03:12:38, 1 hr 47 mins, speed: 16.00 slots/sec,103654, peers: 26
+Oct 08 03:12:50, 1 hr 57 mins, speed: 14.69 slots/sec,103463, peers: 32
+Oct 08 03:13:02, 3 hrs 4 mins, speed: 9.35 slots/sec,103464, peers: 30
+Oct 08 03:13:14, 3 hrs 4 mins, speed: 9.35 slots/sec,103465, peers: 28
+Oct 08 03:13:26, 7 hrs 11 mins, speed: 4.00 slots/sec,103466, peers: 26
+Oct 08 03:13:38, 5 hrs 23 mins, speed: 5.31 slots/sec,103212, peers: 25
+Oct 08 03:13:50, 2 hrs 40 mins, speed: 10.67 slots/sec,102956, peers: 25
+Oct 08 03:14:02, 1 hr 46 mins, speed: 16.00 slots/sec,102701, peers: 28
+Oct 08 03:14:14, 1 hr 46 mins, speed: 16.00 slots/sec,102702, peers: 25
+Oct 08 03:14:26, 1 hr 46 mins, speed: 16.02 slots/sec,102447, peers: 28
+Oct 08 03:14:38, 1 hr 46 mins, speed: 16.00 slots/sec,102192, peers: 26
+Oct 08 03:14:50, 1 hr 46 mins, speed: 16.00 slots/sec,101937, peers: 28
+Oct 08 03:15:02, 1 hr 46 mins, speed: 16.00 slots/sec,101938, peers: 27
+Oct 08 03:15:14, 1 hr 45 mins, speed: 16.00 slots/sec,101683, peers: 27
+Oct 08 03:15:26, 1 hr 45 mins, speed: 16.00 slots/sec,101428, peers: 27
+Oct 08 03:15:38, 1 hr 45 mins, speed: 16.00 slots/sec,101173, peers: 27
+Oct 08 03:15:50, 1 hr 18 mins, speed: 21.33 slots/sec,100918, peers: 27
+Oct 08 03:16:02, 1 hr 18 mins, speed: 21.33 slots/sec,100663, peers: 32
+Oct 08 03:16:14, 1 hr 44 mins, speed: 16.00 slots/sec,100664, peers: 31
+Oct 08 03:16:26, 1 hr 44 mins, speed: 16.00 slots/sec,100409, peers: 30
+Oct 08 03:16:38, 1 hr 44 mins, speed: 16.00 slots/sec,100154, peers: 27
+Oct 08 03:16:50, 1 hr 44 mins, speed: 16.00 slots/sec,99899, peers: 29
+Oct 08 03:17:02, 1 hr 17 mins, speed: 21.33 slots/sec,99644, peers: 29
+Oct 08 03:17:14, 1 hr 17 mins, speed: 21.31 slots/sec,99390, peers: 29
+Oct 08 03:17:26, 1 hr 17 mins, speed: 21.33 slots/sec,99134, peers: 31
+Oct 08 03:17:38, 1 hr 43 mins, speed: 16.00 slots/sec,99135, peers: 28
+Oct 08 03:17:50, 1 hr 42 mins, speed: 16.00 slots/sec,98880, peers: 33
+Oct 08 03:18:02, 1 hr 42 mins, speed: 16.02 slots/sec,98625, peers: 33
+Oct 08 03:18:14, 1 hr 42 mins, speed: 16.00 slots/sec,98370, peers: 34
+Oct 08 03:18:26, 1 hr 42 mins, speed: 16.00 slots/sec,98371, peers: 33
+Oct 08 03:18:38, 1 hr 42 mins, speed: 16.00 slots/sec,98116, peers: 35
+Oct 08 03:18:50, 1 hr 41 mins, speed: 16.00 slots/sec,97861, peers: 34
+Oct 08 03:19:02, 1 hr 41 mins, speed: 16.00 slots/sec,97606, peers: 33
+Oct 08 03:19:14, 1 hr 41 mins, speed: 16.00 slots/sec,97607, peers: 39
+Oct 08 03:19:26, 1 hr 41 mins, speed: 16.00 slots/sec,97352, peers: 37
+Oct 08 03:19:38, 1 hr 41 mins, speed: 16.00 slots/sec,97097, peers: 36
+Oct 08 03:19:50, 1 hr 40 mins, speed: 16.00 slots/sec,96842, peers: 35
+Oct 08 03:20:02, 1 hr 15 mins, speed: 21.33 slots/sec,96587, peers: 34
+Oct 08 03:20:14, 1 hr 15 mins, speed: 21.31 slots/sec,96333, peers: 37
+Oct 08 03:20:26, 1 hr 40 mins, speed: 15.98 slots/sec,96334, peers: 37
+Oct 08 03:20:38, 1 hr 49 mins, speed: 14.65 slots/sec,96143, peers: 35
+Oct 08 03:20:50, 1 hr 49 mins, speed: 14.65 slots/sec,95888, peers: 34
+Oct 08 03:21:02, 1 hr 48 mins, speed: 14.69 slots/sec,95632, peers: 32
+Oct 08 03:21:14, 1 hr 19 mins, speed: 20.02 slots/sec,95377, peers: 30
+Oct 08 03:21:26, 1 hr 39 mins, speed: 16.02 slots/sec,95378, peers: 30
+Oct 08 03:21:38, 1 hr 38 mins, speed: 16.02 slots/sec,95123, peers: 28
+Oct 08 03:21:50, 1 hr 38 mins, speed: 16.00 slots/sec,94868, peers: 30
+Oct 08 03:22:02, 1 hr 38 mins, speed: 15.98 slots/sec,94614, peers: 28
+Oct 08 03:22:14, 1 hr 13 mins, speed: 21.33 slots/sec,94358, peers: 28
+Oct 08 03:22:26, 1 hr 38 mins, speed: 16.00 slots/sec,94359, peers: 27
+Oct 08 03:22:38, 1 hr 38 mins, speed: 16.00 slots/sec,94104, peers: 24
+Oct 08 03:22:50, 1 hr 37 mins, speed: 16.02 slots/sec,93849, peers: 28
+Oct 08 03:23:02, 1 hr 37 mins, speed: 16.00 slots/sec,93594, peers: 27
+Oct 08 03:23:14, 1 hr 37 mins, speed: 16.00 slots/sec,93595, peers: 27
+Oct 08 03:23:26, 1 hr 37 mins, speed: 16.00 slots/sec,93340, peers: 31
+Oct 08 03:23:38, 1 hr 36 mins, speed: 16.00 slots/sec,93085, peers: 31
+Oct 08 03:23:50, 1 hr 36 mins, speed: 15.98 slots/sec,92831, peers: 31
+Oct 08 03:24:02, 1 hr 12 mins, speed: 21.29 slots/sec,92577, peers: 31
+Oct 08 03:24:14, 1 hr 12 mins, speed: 21.31 slots/sec,92321, peers: 30
+Oct 08 03:24:26, 1 hr 36 mins, speed: 15.98 slots/sec,92322, peers: 32
+Oct 08 03:24:38, 1 hr 35 mins, speed: 16.02 slots/sec,92066, peers: 29
+Oct 08 03:24:50, 1 hr 35 mins, speed: 16.02 slots/sec,91812, peers: 30
+Oct 08 03:25:02, 2 hrs 23 mins, speed: 10.67 slots/sec,91813, peers: 29
+Oct 08 03:25:14, 1 hr 35 mins, speed: 16.02 slots/sec,91557, peers: 30
+Oct 08 03:25:26, 1 hr 35 mins, speed: 15.98 slots/sec,91303, peers: 28
+Oct 08 03:25:38, 2 hrs 22 mins, speed: 10.67 slots/sec,91304, peers: 27
+Oct 08 03:25:50, 1 hr 34 mins, speed: 16.02 slots/sec,91048, peers: 31
+Oct 08 03:26:02, 1 hr 34 mins, speed: 15.98 slots/sec,90794, peers: 29
+Oct 08 03:26:14, 2 hrs 21 mins, speed: 10.67 slots/sec,90795, peers: 27
+Oct 08 03:26:26, 1 hr 34 mins, speed: 16.02 slots/sec,90539, peers: 33
+Oct 08 03:26:38, 1 hr 34 mins, speed: 16.00 slots/sec,90284, peers: 30
+Oct 08 03:26:50, 2 hrs 20 mins, speed: 10.69 slots/sec,90285, peers: 25
+Oct 08 03:27:02, 1 hr 47 mins, speed: 14.02 slots/sec,90126, peers: 25
+Oct 08 03:27:14, 1 hr 46 mins, speed: 14.00 slots/sec,89871, peers: 25
+Oct 08 03:27:26, 1 hr 46 mins, speed: 14.00 slots/sec,89616, peers: 25
+Oct 08 03:27:38, 1 hr 17 mins, speed: 19.31 slots/sec,89362, peers: 23
+Oct 08 03:27:50, 1 hr 22 mins, speed: 18.00 slots/sec,89266, peers: 23
+Oct 08 03:28:02, 1 hr 57 mins, speed: 12.67 slots/sec,89267, peers: 19
+Oct 08 03:28:14, 1 hr 57 mins, speed: 12.67 slots/sec,89012, peers: 22
+Oct 08 03:28:26, 1 hr 56 mins, speed: 12.67 slots/sec,88758, peers: 21
+Oct 08 03:28:38, 1 hr 32 mins, speed: 16.00 slots/sec,88502, peers: 22
+Oct 08 03:28:50, 1 hr 32 mins, speed: 16.00 slots/sec,88503, peers: 19
+Oct 08 03:29:02, 1 hr 40 mins, speed: 14.65 slots/sec,88313, peers: 18
+Oct 08 03:29:14, 1 hr 39 mins, speed: 14.69 slots/sec,88057, peers: 16
+Oct 08 03:29:26, 2 hrs 17 mins, speed: 10.65 slots/sec,87995, peers: 18
+Oct 08 03:29:38, 1 hr 31 mins, speed: 16.00 slots/sec,87739, peers: 22
+Oct 08 03:29:50, 2 hrs 1 mins, speed: 12.02 slots/sec,87740, peers: 22
+Oct 08 03:30:02, 2 hrs 1 mins, speed: 11.98 slots/sec,87486, peers: 21
+Oct 08 03:30:14, 1 hr 39 mins, speed: 14.67 slots/sec,87295, peers: 18
+Oct 08 03:30:26, 1 hr 38 mins, speed: 14.67 slots/sec,87039, peers: 18
+Oct 08 03:30:38, 1 hr 38 mins, speed: 14.67 slots/sec,87040, peers: 18
+Oct 08 03:30:50, 1 hr 38 mins, speed: 14.69 slots/sec,86785, peers: 22
+Oct 08 03:31:02, 1 hr 30 mins, speed: 16.02 slots/sec,86530, peers: 21
+Oct 08 03:31:14, 1 hr 29 mins, speed: 15.98 slots/sec,86276, peers: 23
+Oct 08 03:31:26, 1 hr 29 mins, speed: 15.98 slots/sec,86277, peers: 23
+Oct 08 03:31:38, 1 hr 29 mins, speed: 16.00 slots/sec,86021, peers: 26
+Oct 08 03:31:50, 1 hr 29 mins, speed: 16.00 slots/sec,85766, peers: 25
+Oct 08 03:32:02, 1 hr 37 mins, speed: 14.69 slots/sec,85575, peers: 24
+Oct 08 03:32:14, 1 hr 37 mins, speed: 14.69 slots/sec,85576, peers: 23
+Oct 08 03:32:26, 1 hr 36 mins, speed: 14.67 slots/sec,85321, peers: 26
+Oct 08 03:32:38, 1 hr 36 mins, speed: 14.65 slots/sec,85067, peers: 24
+Oct 08 03:32:50, 1 hr 28 mins, speed: 15.98 slots/sec,84812, peers: 24
+Oct 08 03:33:02, 1 hr 6 mins, speed: 21.33 slots/sec,84556, peers: 23
+Oct 08 03:33:14, 1 hr 28 mins, speed: 16.00 slots/sec,84557, peers: 25
+Oct 08 03:33:26, 1 hr 27 mins, speed: 16.00 slots/sec,84303, peers: 24
+Oct 08 03:33:38, 1 hr 27 mins, speed: 16.02 slots/sec,84047, peers: 22
+Oct 08 03:33:50, 1 hr 27 mins, speed: 16.00 slots/sec,83792, peers: 22
+Oct 08 03:34:02, 1 hr 5 mins, speed: 21.33 slots/sec,83537, peers: 20
+Oct 08 03:34:14, 1 hr 26 mins, speed: 16.02 slots/sec,83538, peers: 21
+Oct 08 03:34:26, 1 hr 26 mins, speed: 16.00 slots/sec,83283, peers: 21
+Oct 08 03:34:38, 1 hr 26 mins, speed: 16.00 slots/sec,83028, peers: 22
+Oct 08 03:34:50, 1 hr 26 mins, speed: 16.00 slots/sec,82773, peers: 22
+Oct 08 03:35:02, 1 hr 4 mins, speed: 21.33 slots/sec,82518, peers: 21
+Oct 08 03:35:14, 1 hr 25 mins, speed: 16.00 slots/sec,82519, peers: 24
+Oct 08 03:35:26, 1 hr 25 mins, speed: 16.00 slots/sec,82264, peers: 23
+Oct 08 03:35:38, 1 hr 25 mins, speed: 16.00 slots/sec,82009, peers: 21
+Oct 08 03:35:50, 2 hrs 8 mins, speed: 10.67 slots/sec,82010, peers: 21
+Oct 08 03:36:02, 1 hr 25 mins, speed: 16.00 slots/sec,81755, peers: 20
+Oct 08 03:36:14, 1 hr 25 mins, speed: 15.96 slots/sec,81502, peers: 22
+Oct 08 03:36:26, 1 hr 24 mins, speed: 16.00 slots/sec,81245, peers: 21
+Oct 08 03:36:38, 1 hr 24 mins, speed: 16.00 slots/sec,81246, peers: 20
+Oct 08 03:36:50, 1 hr 24 mins, speed: 15.98 slots/sec,80992, peers: 21
+Oct 08 03:37:02, 1 hr 23 mins, speed: 16.04 slots/sec,80736, peers: 19
+Oct 08 03:37:14, 2 hrs 6 mins, speed: 10.67 slots/sec,80737, peers: 18
+Oct 08 03:37:26, 1 hr 23 mins, speed: 16.00 slots/sec,80482, peers: 22
+Oct 08 03:37:38, 1 hr 23 mins, speed: 15.98 slots/sec,80229, peers: 27
+Oct 08 03:37:50, 2 hrs 5 mins, speed: 10.63 slots/sec,80230, peers: 27
+Oct 08 03:38:02, 1 hr 23 mins, speed: 16.00 slots/sec,79973, peers: 23
+Oct 08 03:38:14, 2 hrs 4 mins, speed: 10.67 slots/sec,79974, peers: 27
+Oct 08 03:38:26, 2 hrs 22 mins, speed: 9.35 slots/sec,79784, peers: 24
+Oct 08 03:38:38, 2 hrs 22 mins, speed: 9.35 slots/sec,79785, peers: 22
+Oct 08 03:38:50, 2 hrs 22 mins, speed: 9.29 slots/sec,79531, peers: 25
+Oct 08 03:39:02, 2 hrs 22 mins, speed: 9.29 slots/sec,79532, peers: 24
+Oct 08 03:39:14, 2 hrs 3 mins, speed: 10.69 slots/sec,79275, peers: 20
+Oct 08 03:39:26, 1 hr 22 mins, speed: 16.00 slots/sec,79021, peers: 22
+Oct 08 03:39:38, 2 hrs 3 mins, speed: 10.69 slots/sec,79022, peers: 21
+Oct 08 03:39:50, 1 hr 21 mins, speed: 16.04 slots/sec,78766, peers: 25
+Oct 08 03:40:02, 1 hr 21 mins, speed: 16.00 slots/sec,78511, peers: 25
+Oct 08 03:40:14, 2 hrs 2 mins, speed: 10.69 slots/sec,78512, peers: 23
+Oct 08 03:40:26, 1 hr 21 mins, speed: 16.00 slots/sec,78258, peers: 25
+Oct 08 03:40:38, 1 hr 21 mins, speed: 16.00 slots/sec,78002, peers: 24
+Oct 08 03:40:50, 1 hr 20 mins, speed: 16.00 slots/sec,77747, peers: 22
+Oct 08 03:41:02, 1 hr 20 mins, speed: 16.00 slots/sec,77748, peers: 20
+Oct 08 03:41:14, 1 hr 20 mins, speed: 16.02 slots/sec,77493, peers: 25
+Oct 08 03:41:26, 1 hr 20 mins, speed: 15.98 slots/sec,77239, peers: 24
+Oct 08 03:41:38, 2 hrs 0 mins, speed: 10.65 slots/sec,77240, peers: 24
+Oct 08 03:41:50, 1 hr 20 mins, speed: 16.00 slots/sec,76984, peers: 28
+Oct 08 03:42:02, 1 hr 20 mins, speed: 15.98 slots/sec,76730, peers: 26
+Oct 08 03:42:14, 1 hr 19 mins, speed: 16.02 slots/sec,76474, peers: 23
+Oct 08 03:42:26, 1 hr 19 mins, speed: 16.02 slots/sec,76475, peers: 27
+Oct 08 03:42:38, 1 hr 19 mins, speed: 15.98 slots/sec,76221, peers: 26
+Oct 08 03:42:50, 1 hr 19 mins, speed: 16.02 slots/sec,75965, peers: 25
+Oct 08 03:43:02, 1 hr 58 mins, speed: 10.67 slots/sec,75966, peers: 24
+Oct 08 03:43:14, 1 hr 18 mins, speed: 15.98 slots/sec,75712, peers: 24
+Oct 08 03:43:26, 1 hr 18 mins, speed: 16.00 slots/sec,75457, peers: 30
+Oct 08 03:43:38, 1 hr 58 mins, speed: 10.65 slots/sec,75458, peers: 29
+Oct 08 03:43:50, 1 hr 18 mins, speed: 16.00 slots/sec,75202, peers: 33
+Oct 08 03:44:02, 1 hr 17 mins, speed: 16.02 slots/sec,74947, peers: 31
+Oct 08 03:44:14, 1 hr 56 mins, speed: 10.69 slots/sec,74948, peers: 29
+Oct 08 03:44:26, 1 hr 17 mins, speed: 16.02 slots/sec,74693, peers: 34
+Oct 08 03:44:38, 1 hr 17 mins, speed: 15.98 slots/sec,74439, peers: 32
+Oct 08 03:44:50, 1 hr 24 mins, speed: 14.60 slots/sec,74250, peers: 33
+Oct 08 03:45:02, 1 hr 24 mins, speed: 14.60 slots/sec,74251, peers: 30
+Oct 08 03:45:14, 1 hr 24 mins, speed: 14.67 slots/sec,73993, peers: 29
+Oct 08 03:45:26, 1 hr 23 mins, speed: 14.69 slots/sec,73738, peers: 30
+Oct 08 03:45:38, 1 hr 54 mins, speed: 10.73 slots/sec,73739, peers: 28
+Oct 08 03:45:50, 1 hr 16 mins, speed: 16.06 slots/sec,73484, peers: 26
+Oct 08 03:46:02, 1 hr 16 mins, speed: 16.00 slots/sec,73229, peers: 28
+Oct 08 03:46:14, 1 hr 16 mins, speed: 15.98 slots/sec,72975, peers: 26
+Oct 08 03:46:26, 56 mins, speed: 21.31 slots/sec,72720, peers: 32
+Oct 08 03:46:38, 1 hr 15 mins, speed: 15.98 slots/sec,72721, peers: 35
+Oct 08 03:46:50, 1 hr 15 mins, speed: 16.00 slots/sec,72465, peers: 36
+Oct 08 03:47:02, 1 hr 15 mins, speed: 16.02 slots/sec,72210, peers: 35
+Oct 08 03:47:14, 1 hr 52 mins, speed: 10.69 slots/sec,72211, peers: 36
+Oct 08 03:47:26, 1 hr 14 mins, speed: 16.02 slots/sec,71956, peers: 35
+Oct 08 03:47:38, 1 hr 14 mins, speed: 15.98 slots/sec,71702, peers: 36
+Oct 08 03:47:50, 1 hr 52 mins, speed: 10.65 slots/sec,71703, peers: 36
+Oct 08 03:48:02, 1 hr 14 mins, speed: 16.00 slots/sec,71447, peers: 36
+Oct 08 03:48:14, 1 hr 14 mins, speed: 16.00 slots/sec,71192, peers: 36
+Oct 08 03:48:26, 1 hr 13 mins, speed: 16.02 slots/sec,70937, peers: 41
+Oct 08 03:48:38, 1 hr 13 mins, speed: 16.02 slots/sec,70938, peers: 39
+Oct 08 03:48:50, 1 hr 13 mins, speed: 15.94 slots/sec,70686, peers: 40
+Oct 08 03:49:02, 1 hr 13 mins, speed: 16.00 slots/sec,70428, peers: 37
+Oct 08 03:49:14, 1 hr 50 mins, speed: 10.67 slots/sec,70429, peers: 38
+Oct 08 03:49:26, 1 hr 13 mins, speed: 15.98 slots/sec,70175, peers: 38
+Oct 08 03:49:38, 1 hr 12 mins, speed: 16.06 slots/sec,69919, peers: 38
+Oct 08 03:49:50, 1 hr 12 mins, speed: 16.00 slots/sec,69664, peers: 36
+Oct 08 03:50:02, 1 hr 12 mins, speed: 16.00 slots/sec,69665, peers: 36
+Oct 08 03:50:14, 1 hr 12 mins, speed: 16.00 slots/sec,69411, peers: 36
+Oct 08 03:50:26, 1 hr 12 mins, speed: 16.00 slots/sec,69155, peers: 44
+Oct 08 03:50:38, 1 hr 11 mins, speed: 16.00 slots/sec,68900, peers: 41
+Oct 08 03:50:50, 53 mins, speed: 21.33 slots/sec,68645, peers: 40
+Oct 08 03:51:02, 1 hr 11 mins, speed: 16.02 slots/sec,68646, peers: 38
+Oct 08 03:51:14, 1 hr 11 mins, speed: 15.98 slots/sec,68392, peers: 40
+Oct 08 03:51:26, 1 hr 11 mins, speed: 15.98 slots/sec,68137, peers: 40
+Oct 08 03:51:38, 1 hr 46 mins, speed: 10.65 slots/sec,68138, peers: 36
+Oct 08 03:51:50, 1 hr 10 mins, speed: 15.98 slots/sec,67883, peers: 40
+Oct 08 03:52:02, 1 hr 10 mins, speed: 16.00 slots/sec,67628, peers: 39
+Oct 08 03:52:14, 1 hr 45 mins, speed: 10.67 slots/sec,67629, peers: 36
+Oct 08 03:52:26, 1 hr 10 mins, speed: 16.02 slots/sec,67373, peers: 35
+Oct 08 03:52:38, 1 hr 9 mins, speed: 16.02 slots/sec,67118, peers: 33
+Oct 08 03:52:50, 1 hr 9 mins, speed: 16.02 slots/sec,66863, peers: 32
+Oct 08 03:53:02, 51 mins, speed: 21.36 slots/sec,66608, peers: 31
+Oct 08 03:53:14, 1 hr 9 mins, speed: 16.00 slots/sec,66609, peers: 35
+Oct 08 03:53:26, 1 hr 9 mins, speed: 16.00 slots/sec,66354, peers: 34
+Oct 08 03:53:38, 1 hr 8 mins, speed: 15.98 slots/sec,66100, peers: 36
+Oct 08 03:53:50, 1 hr 8 mins, speed: 16.00 slots/sec,65844, peers: 34
+Oct 08 03:54:02, 51 mins, speed: 21.29 slots/sec,65591, peers: 33
+Oct 08 03:54:14, 51 mins, speed: 21.33 slots/sec,65334, peers: 33
+Oct 08 03:54:26, 50 mins, speed: 21.33 slots/sec,65080, peers: 30
+Oct 08 03:54:38, 1 hr 7 mins, speed: 15.98 slots/sec,65081, peers: 26
+Oct 08 03:54:50, 1 hr 7 mins, speed: 16.04 slots/sec,64825, peers: 32
+Oct 08 03:55:02, 1 hr 7 mins, speed: 16.00 slots/sec,64570, peers: 30
+Oct 08 03:55:14, 1 hr 6 mins, speed: 16.02 slots/sec,64315, peers: 31
+Oct 08 03:55:26, 49 mins, speed: 21.36 slots/sec,64060, peers: 31
+Oct 08 03:55:38, 49 mins, speed: 21.31 slots/sec,63806, peers: 28
+Oct 08 03:55:50, 1 hr 6 mins, speed: 15.98 slots/sec,63807, peers: 30
+Oct 08 03:56:02, 1 hr 6 mins, speed: 15.98 slots/sec,63552, peers: 30
+Oct 08 03:56:14, 1 hr 6 mins, speed: 15.98 slots/sec,63297, peers: 29
+Oct 08 03:56:26, 1 hr 38 mins, speed: 10.67 slots/sec,63298, peers: 28
+Oct 08 03:56:38, 1 hr 5 mins, speed: 16.02 slots/sec,63042, peers: 28
+Oct 08 03:56:50, 1 hr 5 mins, speed: 16.02 slots/sec,62787, peers: 30
+Oct 08 03:57:02, 1 hr 5 mins, speed: 16.00 slots/sec,62533, peers: 32
+Oct 08 03:57:14, 1 hr 5 mins, speed: 16.00 slots/sec,62534, peers: 31
+Oct 08 03:57:26, 1 hr 4 mins, speed: 16.00 slots/sec,62278, peers: 36
+Oct 08 03:57:38, 1 hr 4 mins, speed: 16.00 slots/sec,62023, peers: 34
+Oct 08 03:57:50, 1 hr 4 mins, speed: 16.00 slots/sec,61769, peers: 33
+Oct 08 03:58:02, 1 hr 4 mins, speed: 16.00 slots/sec,61770, peers: 31
+Oct 08 03:58:14, 1 hr 4 mins, speed: 16.00 slots/sec,61514, peers: 33
+Oct 08 03:58:26, 1 hr 3 mins, speed: 15.98 slots/sec,61260, peers: 32
+Oct 08 03:58:38, 1 hr 35 mins, speed: 10.67 slots/sec,61261, peers: 32
+Oct 08 03:58:50, 1 hr 3 mins, speed: 16.00 slots/sec,61006, peers: 32
+Oct 08 03:59:02, 1 hr 3 mins, speed: 15.96 slots/sec,60752, peers: 31
+Oct 08 03:59:14, 1 hr 35 mins, speed: 10.65 slots/sec,60753, peers: 32
+Oct 08 03:59:26, 1 hr 35 mins, speed: 10.65 slots/sec,60754, peers: 31
+Oct 08 03:59:38, 1 hr 48 mins, speed: 9.31 slots/sec,60563, peers: 35
+Oct 08 03:59:50, 4 hrs 12 mins, speed: 4.00 slots/sec,60564, peers: 34
+Oct 08 04:00:02, 1 hr 47 mins, speed: 9.38 slots/sec,60307, peers: 32
+Oct 08 04:00:14, 1 hr 8 mins, speed: 14.71 slots/sec,60052, peers: 30
+Oct 08 04:00:26, 1 hr 33 mins, speed: 10.71 slots/sec,60053, peers: 27
+Oct 08 04:00:38, 1 hr 2 mins, speed: 16.04 slots/sec,59798, peers: 26
+Oct 08 04:00:50, 1 hr 2 mins, speed: 16.00 slots/sec,59543, peers: 26
+Oct 08 04:01:02, 1 hr 1 mins, speed: 15.98 slots/sec,59289, peers: 25
+Oct 08 04:01:14, 1 hr 1 mins, speed: 15.98 slots/sec,59290, peers: 26
+Oct 08 04:01:26, 1 hr 1 mins, speed: 16.00 slots/sec,59034, peers: 25
+Oct 08 04:01:38, 1 hr 1 mins, speed: 15.98 slots/sec,58780, peers: 25
+Oct 08 04:01:50, 1 hr 0 mins, speed: 16.02 slots/sec,58524, peers: 29
+Oct 08 04:02:02, 1 hr 0 mins, speed: 16.02 slots/sec,58525, peers: 28
+Oct 08 04:02:14, 1 hr 0 mins, speed: 15.98 slots/sec,58271, peers: 30
+Oct 08 04:02:26, 1 hr 0 mins, speed: 16.00 slots/sec,58016, peers: 29
+Oct 08 04:02:38, 1 hr 30 mins, speed: 10.65 slots/sec,58017, peers: 27
+Oct 08 04:02:50, 1 hr 0 mins, speed: 15.98 slots/sec,57762, peers: 29
+Oct 08 04:03:02, 59 mins, speed: 16.02 slots/sec,57506, peers: 27
+Oct 08 04:03:14, 1 hr 29 mins, speed: 10.69 slots/sec,57507, peers: 25
+Oct 08 04:03:26, 59 mins, speed: 16.02 slots/sec,57252, peers: 24
+Oct 08 04:03:38, 59 mins, speed: 16.00 slots/sec,56998, peers: 22
+Oct 08 04:03:50, 59 mins, speed: 15.98 slots/sec,56743, peers: 24
+Oct 08 04:04:02, 59 mins, speed: 15.98 slots/sec,56744, peers: 24
+Oct 08 04:04:14, 58 mins, speed: 16.00 slots/sec,56488, peers: 30
+Oct 08 04:04:26, 58 mins, speed: 15.98 slots/sec,56235, peers: 29
+Oct 08 04:04:38, 1 hr 28 mins, speed: 10.65 slots/sec,56236, peers: 27
+Oct 08 04:04:50, 58 mins, speed: 16.02 slots/sec,55979, peers: 31
+Oct 08 04:05:02, 1 hr 27 mins, speed: 10.67 slots/sec,55980, peers: 31
+Oct 08 04:05:14, 2 hrs 53 mins, speed: 5.38 slots/sec,55981, peers: 33
+Oct 08 04:05:26, 1 hr 46 mins, speed: 8.71 slots/sec,55822, peers: 30
+Oct 08 04:05:38, 4 hrs 39 mins, speed: 3.33 slots/sec,55823, peers: 29
+Oct 08 04:05:50, 1 hr 46 mins, speed: 8.67 slots/sec,55568, peers: 28
+Oct 08 04:06:02, 1 hr 5 mins, speed: 13.98 slots/sec,55314, peers: 27
+Oct 08 04:06:14, 1 hr 26 mins, speed: 10.65 slots/sec,55315, peers: 28
+Oct 08 04:06:26, 57 mins, speed: 16.00 slots/sec,55059, peers: 28
+Oct 08 04:06:38, 57 mins, speed: 16.00 slots/sec,54804, peers: 26
+Oct 08 04:06:50, 1 hr 25 mins, speed: 10.69 slots/sec,54805, peers: 30
+Oct 08 04:07:02, 56 mins, speed: 16.02 slots/sec,54550, peers: 29
+Oct 08 04:07:14, 1 hr 25 mins, speed: 10.67 slots/sec,54551, peers: 26
+Oct 08 04:07:26, 1 hr 24 mins, speed: 10.67 slots/sec,54296, peers: 30
+Oct 08 04:07:38, 56 mins, speed: 16.00 slots/sec,54041, peers: 28
+Oct 08 04:07:50, 56 mins, speed: 15.98 slots/sec,53787, peers: 33
+Oct 08 04:08:02, 56 mins, speed: 15.98 slots/sec,53788, peers: 32
+Oct 08 04:08:14, 55 mins, speed: 16.00 slots/sec,53532, peers: 33
+Oct 08 04:08:26, 55 mins, speed: 16.00 slots/sec,53277, peers: 33
+Oct 08 04:08:38, 1 hr 23 mins, speed: 10.69 slots/sec,53278, peers: 32
+Oct 08 04:08:50, 55 mins, speed: 15.98 slots/sec,53025, peers: 34
+Oct 08 04:09:02, 55 mins, speed: 15.98 slots/sec,52769, peers: 33
+Oct 08 04:09:14, 1 hr 22 mins, speed: 10.65 slots/sec,52770, peers: 34
+Oct 08 04:09:26, 54 mins, speed: 15.98 slots/sec,52515, peers: 33
+Oct 08 04:09:38, 54 mins, speed: 16.04 slots/sec,52259, peers: 32
+Oct 08 04:09:50, 1 hr 21 mins, speed: 10.69 slots/sec,52260, peers: 35
+Oct 08 04:10:02, 54 mins, speed: 16.00 slots/sec,52006, peers: 32
+Oct 08 04:10:14, 53 mins, speed: 16.00 slots/sec,51751, peers: 30
+Oct 08 04:10:26, 1 hr 21 mins, speed: 10.65 slots/sec,51752, peers: 29
+Oct 08 04:10:38, 53 mins, speed: 16.00 slots/sec,51496, peers: 27
+Oct 08 04:10:50, 53 mins, speed: 16.02 slots/sec,51241, peers: 27
+Oct 08 04:11:02, 1 hr 19 mins, speed: 10.69 slots/sec,51242, peers: 27
+Oct 08 04:11:14, 53 mins, speed: 16.02 slots/sec,50987, peers: 25
+Oct 08 04:11:26, 52 mins, speed: 16.00 slots/sec,50732, peers: 29
+Oct 08 04:11:38, 52 mins, speed: 15.98 slots/sec,50478, peers: 28
+Oct 08 04:11:50, 52 mins, speed: 15.98 slots/sec,50479, peers: 30
+Oct 08 04:12:02, 52 mins, speed: 16.00 slots/sec,50223, peers: 30
+Oct 08 04:12:14, 1 hr 18 mins, speed: 10.67 slots/sec,50224, peers: 27
+Oct 08 04:12:26, 2 hrs 36 mins, speed: 5.35 slots/sec,50225, peers: 29
+Oct 08 04:12:38, 1 hr 36 mins, speed: 8.67 slots/sec,50067, peers: 28
+Oct 08 04:12:50, 4 hrs 11 mins, speed: 3.31 slots/sec,50068, peers: 33
+Oct 08 04:13:02, 1 hr 35 mins, speed: 8.67 slots/sec,49812, peers: 29
+Oct 08 04:13:14, 58 mins, speed: 14.00 slots/sec,49557, peers: 31
+Oct 08 04:13:26, 51 mins, speed: 15.96 slots/sec,49305, peers: 27
+Oct 08 04:13:38, 51 mins, speed: 15.96 slots/sec,49306, peers: 25
+Oct 08 04:13:50, 51 mins, speed: 16.00 slots/sec,49048, peers: 29
+Oct 08 04:14:02, 50 mins, speed: 16.00 slots/sec,48793, peers: 26
+Oct 08 04:14:14, 1 hr 15 mins, speed: 10.73 slots/sec,48794, peers: 24
+Oct 08 04:14:26, 50 mins, speed: 16.06 slots/sec,48539, peers: 23
+Oct 08 04:14:38, 50 mins, speed: 16.00 slots/sec,48284, peers: 22
+Oct 08 04:14:50, 1 hr 15 mins, speed: 10.67 slots/sec,48285, peers: 26
+Oct 08 04:15:02, 50 mins, speed: 16.00 slots/sec,48030, peers: 25
+Oct 08 04:15:14, 49 mins, speed: 16.00 slots/sec,47775, peers: 29
+Oct 08 04:15:26, 1 hr 14 mins, speed: 10.67 slots/sec,47776, peers: 27
+Oct 08 04:15:38, 49 mins, speed: 15.96 slots/sec,47523, peers: 26
+Oct 08 04:15:50, 49 mins, speed: 16.00 slots/sec,47266, peers: 25
+Oct 08 04:16:02, 1 hr 13 mins, speed: 10.67 slots/sec,47267, peers: 27
+Oct 08 04:16:14, 48 mins, speed: 16.00 slots/sec,47012, peers: 27
+Oct 08 04:16:26, 48 mins, speed: 16.04 slots/sec,46757, peers: 27
+Oct 08 04:16:38, 48 mins, speed: 16.00 slots/sec,46502, peers: 25
+Oct 08 04:16:50, 48 mins, speed: 16.00 slots/sec,46503, peers: 27
+Oct 08 04:17:02, 48 mins, speed: 16.00 slots/sec,46248, peers: 26
+Oct 08 04:17:14, 47 mins, speed: 15.98 slots/sec,45994, peers: 30
+Oct 08 04:17:26, 47 mins, speed: 15.96 slots/sec,45740, peers: 31
+Oct 08 04:17:38, 47 mins, speed: 15.96 slots/sec,45741, peers: 29
+Oct 08 04:17:50, 1 hr 11 mins, speed: 10.63 slots/sec,45742, peers: 30
+Oct 08 04:18:02, 1 hr 35 mins, speed: 7.94 slots/sec,45617, peers: 28
+Oct 08 04:18:14, 1 hr 34 mins, speed: 8.04 slots/sec,45358, peers: 28
+Oct 08 04:18:26, 1 hr 34 mins, speed: 8.04 slots/sec,45359, peers: 25
+Oct 08 04:18:38, 56 mins, speed: 13.33 slots/sec,45106, peers: 23
+Oct 08 04:18:50, 46 mins, speed: 16.08 slots/sec,44849, peers: 26
+Oct 08 04:19:02, 1 hr 10 mins, speed: 10.67 slots/sec,44850, peers: 25
+Oct 08 04:19:14, 46 mins, speed: 15.98 slots/sec,44596, peers: 25
+Oct 08 04:19:26, 46 mins, speed: 16.04 slots/sec,44340, peers: 28
+Oct 08 04:19:38, 1 hr 9 mins, speed: 10.67 slots/sec,44341, peers: 32
+Oct 08 04:19:50, 46 mins, speed: 15.96 slots/sec,44088, peers: 29
+Oct 08 04:20:02, 45 mins, speed: 15.96 slots/sec,43834, peers: 28
+Oct 08 04:20:14, 1 hr 8 mins, speed: 10.60 slots/sec,43835, peers: 27
+Oct 08 04:20:26, 45 mins, speed: 15.98 slots/sec,43578, peers: 28
+Oct 08 04:20:38, 45 mins, speed: 16.02 slots/sec,43323, peers: 26
+Oct 08 04:20:50, 1 hr 7 mins, speed: 10.71 slots/sec,43324, peers: 31
+Oct 08 04:21:02, 44 mins, speed: 16.04 slots/sec,43069, peers: 29
+Oct 08 04:21:14, 1 hr 7 mins, speed: 10.67 slots/sec,43070, peers: 30
+Oct 08 04:21:26, 1 hr 6 mins, speed: 10.67 slots/sec,42815, peers: 28
+Oct 08 04:21:38, 44 mins, speed: 16.02 slots/sec,42559, peers: 26
+Oct 08 04:21:50, 44 mins, speed: 15.98 slots/sec,42306, peers: 27
+Oct 08 04:22:02, 44 mins, speed: 15.98 slots/sec,42307, peers: 26
+Oct 08 04:22:14, 43 mins, speed: 16.02 slots/sec,42050, peers: 23
+Oct 08 04:22:26, 43 mins, speed: 16.00 slots/sec,41795, peers: 22
+Oct 08 04:22:38, 1 hr 5 mins, speed: 10.71 slots/sec,41796, peers: 21
+Oct 08 04:22:50, 43 mins, speed: 16.04 slots/sec,41541, peers: 20
+Oct 08 04:23:02, 43 mins, speed: 16.00 slots/sec,41286, peers: 23
+Oct 08 04:23:14, 1 hr 4 mins, speed: 10.67 slots/sec,41287, peers: 22
+Oct 08 04:23:26, 42 mins, speed: 16.00 slots/sec,41032, peers: 25
+Oct 08 04:23:38, 1 hr 4 mins, speed: 10.67 slots/sec,41033, peers: 28
+Oct 08 04:23:50, 1 hr 3 mins, speed: 10.67 slots/sec,40778, peers: 26
+Oct 08 04:24:02, 42 mins, speed: 16.00 slots/sec,40523, peers: 24
+Oct 08 04:24:14, 1 hr 3 mins, speed: 10.67 slots/sec,40524, peers: 23
+Oct 08 04:24:26, 41 mins, speed: 16.00 slots/sec,40269, peers: 25
+Oct 08 04:24:38, 41 mins, speed: 16.00 slots/sec,40014, peers: 24
+Oct 08 04:24:50, 1 hr 2 mins, speed: 10.67 slots/sec,40015, peers: 27
+Oct 08 04:25:02, 41 mins, speed: 15.98 slots/sec,39761, peers: 24
+Oct 08 04:25:14, 44 mins, speed: 14.67 slots/sec,39569, peers: 26
+Oct 08 04:25:26, 1 hr 10 mins, speed: 9.33 slots/sec,39570, peers: 23
+Oct 08 04:25:38, 44 mins, speed: 14.65 slots/sec,39316, peers: 21
+Oct 08 04:25:50, 44 mins, speed: 14.67 slots/sec,39061, peers: 21
+Oct 08 04:26:02, 1 hr 1 mins, speed: 10.65 slots/sec,39062, peers: 25
+Oct 08 04:26:14, 40 mins, speed: 16.00 slots/sec,38806, peers: 26
+Oct 08 04:26:26, 40 mins, speed: 16.02 slots/sec,38551, peers: 24
+Oct 08 04:26:38, 1 hr 0 mins, speed: 10.69 slots/sec,38552, peers: 24
+Oct 08 04:26:50, 39 mins, speed: 16.00 slots/sec,38298, peers: 28
+Oct 08 04:27:02, 39 mins, speed: 15.98 slots/sec,38043, peers: 28
+Oct 08 04:27:14, 59 mins, speed: 10.65 slots/sec,38044, peers: 27
+Oct 08 04:27:26, 39 mins, speed: 16.00 slots/sec,37788, peers: 36
+Oct 08 04:27:38, 39 mins, speed: 15.98 slots/sec,37535, peers: 34
+Oct 08 04:27:50, 58 mins, speed: 10.65 slots/sec,37536, peers: 39
+Oct 08 04:28:02, 38 mins, speed: 16.02 slots/sec,37279, peers: 38
+Oct 08 04:28:14, 38 mins, speed: 16.00 slots/sec,37024, peers: 39
+Oct 08 04:28:26, 57 mins, speed: 10.71 slots/sec,37025, peers: 38
+Oct 08 04:28:38, 38 mins, speed: 16.04 slots/sec,36770, peers: 38
+Oct 08 04:28:50, 38 mins, speed: 16.00 slots/sec,36515, peers: 35
+Oct 08 04:29:02, 57 mins, speed: 10.67 slots/sec,36516, peers: 34
+Oct 08 04:29:14, 37 mins, speed: 16.00 slots/sec,36261, peers: 33
+Oct 08 04:29:26, 56 mins, speed: 10.67 slots/sec,36262, peers: 32
+Oct 08 04:29:38, 56 mins, speed: 10.65 slots/sec,36008, peers: 32
+Oct 08 04:29:50, 37 mins, speed: 15.98 slots/sec,35753, peers: 32
+Oct 08 04:30:02, 55 mins, speed: 10.65 slots/sec,35754, peers: 32
+Oct 08 04:30:14, 36 mins, speed: 16.00 slots/sec,35498, peers: 28
+Oct 08 04:30:26, 36 mins, speed: 16.00 slots/sec,35244, peers: 30
+Oct 08 04:30:38, 55 mins, speed: 10.67 slots/sec,35245, peers: 36
+Oct 08 04:30:50, 36 mins, speed: 15.98 slots/sec,34991, peers: 34
+Oct 08 04:31:02, 54 mins, speed: 10.63 slots/sec,34992, peers: 33
+Oct 08 04:31:14, 54 mins, speed: 10.69 slots/sec,34735, peers: 35
+Oct 08 04:31:26, 35 mins, speed: 16.00 slots/sec,34481, peers: 33
+Oct 08 04:31:38, 53 mins, speed: 10.69 slots/sec,34482, peers: 31
+Oct 08 04:31:50, 38 mins, speed: 14.71 slots/sec,34290, peers: 32
+Oct 08 04:32:02, 38 mins, speed: 14.67 slots/sec,34035, peers: 32
+Oct 08 04:32:14, 1 hr 0 mins, speed: 9.35 slots/sec,34036, peers: 34
+Oct 08 04:32:26, 38 mins, speed: 14.65 slots/sec,33783, peers: 33
+Oct 08 04:32:38, 34 mins, speed: 16.00 slots/sec,33526, peers: 29
+Oct 08 04:32:50, 52 mins, speed: 10.67 slots/sec,33527, peers: 36
+Oct 08 04:33:02, 34 mins, speed: 16.00 slots/sec,33272, peers: 36
+Oct 08 04:33:14, 34 mins, speed: 15.98 slots/sec,33020, peers: 39
+Oct 08 04:33:26, 51 mins, speed: 10.60 slots/sec,33021, peers: 38
+Oct 08 04:33:38, 34 mins, speed: 15.96 slots/sec,32765, peers: 32
+Oct 08 04:33:50, 33 mins, speed: 16.00 slots/sec,32508, peers: 31
+Oct 08 04:34:02, 50 mins, speed: 10.73 slots/sec,32509, peers: 28
+Oct 08 04:34:14, 33 mins, speed: 16.06 slots/sec,32254, peers: 30
+Oct 08 04:34:26, 50 mins, speed: 10.71 slots/sec,32255, peers: 29
+Oct 08 04:34:38, 49 mins, speed: 10.67 slots/sec,32000, peers: 28
+Oct 08 04:34:50, 33 mins, speed: 15.98 slots/sec,31746, peers: 30
+Oct 08 04:35:02, 49 mins, speed: 10.65 slots/sec,31747, peers: 30
+Oct 08 04:35:14, 32 mins, speed: 16.00 slots/sec,31491, peers: 32
+Oct 08 04:35:26, 32 mins, speed: 16.00 slots/sec,31236, peers: 31
+Oct 08 04:35:38, 48 mins, speed: 10.69 slots/sec,31237, peers: 30
+Oct 08 04:35:50, 32 mins, speed: 16.02 slots/sec,30982, peers: 33
+Oct 08 04:36:02, 36 mins, speed: 14.00 slots/sec,30823, peers: 32
+Oct 08 04:36:14, 59 mins, speed: 8.67 slots/sec,30824, peers: 31
+Oct 08 04:36:26, 36 mins, speed: 14.00 slots/sec,30569, peers: 32
+Oct 08 04:36:38, 36 mins, speed: 14.00 slots/sec,30314, peers: 30
+Oct 08 04:36:50, 47 mins, speed: 10.67 slots/sec,30315, peers: 37
+Oct 08 04:37:02, 31 mins, speed: 15.98 slots/sec,30061, peers: 36
+Oct 08 04:37:14, 47 mins, speed: 10.65 slots/sec,30062, peers: 34
+Oct 08 04:37:26, 46 mins, speed: 10.67 slots/sec,29806, peers: 36
+Oct 08 04:37:38, 30 mins, speed: 16.00 slots/sec,29551, peers: 35
+Oct 08 04:37:50, 30 mins, speed: 16.00 slots/sec,29297, peers: 31
+Oct 08 04:38:02, 30 mins, speed: 16.00 slots/sec,29298, peers: 30
+Oct 08 04:38:14, 30 mins, speed: 16.00 slots/sec,29042, peers: 25
+Oct 08 04:38:26, 45 mins, speed: 10.67 slots/sec,29043, peers: 27
+Oct 08 04:38:38, 44 mins, speed: 10.67 slots/sec,28789, peers: 25
+Oct 08 04:38:50, 29 mins, speed: 16.02 slots/sec,28533, peers: 29
+Oct 08 04:39:02, 44 mins, speed: 10.67 slots/sec,28534, peers: 27
+Oct 08 04:39:14, 29 mins, speed: 15.98 slots/sec,28280, peers: 27
+Oct 08 04:39:26, 44 mins, speed: 10.67 slots/sec,28281, peers: 31
+Oct 08 04:39:38, 43 mins, speed: 10.67 slots/sec,28025, peers: 28
+Oct 08 04:39:50, 28 mins, speed: 15.98 slots/sec,27771, peers: 24
+Oct 08 04:40:02, 43 mins, speed: 10.67 slots/sec,27772, peers: 27
+Oct 08 04:40:14, 28 mins, speed: 16.02 slots/sec,27516, peers: 29
+Oct 08 04:40:26, 28 mins, speed: 15.98 slots/sec,27262, peers: 28
+Oct 08 04:40:38, 42 mins, speed: 10.67 slots/sec,27263, peers: 28
+Oct 08 04:40:50, 28 mins, speed: 16.02 slots/sec,27007, peers: 24
+Oct 08 04:41:02, 27 mins, speed: 15.98 slots/sec,26753, peers: 21
+Oct 08 04:41:14, 41 mins, speed: 10.67 slots/sec,26754, peers: 24
+Oct 08 04:41:26, 27 mins, speed: 15.98 slots/sec,26500, peers: 23
+Oct 08 04:41:38, 27 mins, speed: 16.00 slots/sec,26243, peers: 23
+Oct 08 04:41:50, 40 mins, speed: 10.69 slots/sec,26244, peers: 23
+Oct 08 04:42:02, 27 mins, speed: 16.02 slots/sec,25989, peers: 21
+Oct 08 04:42:14, 26 mins, speed: 15.98 slots/sec,25737, peers: 25
+Oct 08 04:42:26, 26 mins, speed: 16.00 slots/sec,25479, peers: 25
+Oct 08 04:42:38, 26 mins, speed: 16.00 slots/sec,25480, peers: 25
+Oct 08 04:42:50, 26 mins, speed: 16.00 slots/sec,25225, peers: 29
+Oct 08 04:43:02, 25 mins, speed: 16.06 slots/sec,24970, peers: 28
+Oct 08 04:43:14, 39 mins, speed: 10.67 slots/sec,24971, peers: 26
+Oct 08 04:43:26, 28 mins, speed: 14.67 slots/sec,24780, peers: 22
+Oct 08 04:43:38, 27 mins, speed: 14.67 slots/sec,24525, peers: 18
+Oct 08 04:43:50, 27 mins, speed: 14.65 slots/sec,24271, peers: 18
+Oct 08 04:44:02, 20 mins, speed: 19.98 slots/sec,24016, peers: 16
+Oct 08 04:44:14, 25 mins, speed: 15.98 slots/sec,24017, peers: 20
+Oct 08 04:44:26, 24 mins, speed: 16.00 slots/sec,23761, peers: 20
+Oct 08 04:44:38, 24 mins, speed: 16.02 slots/sec,23506, peers: 19
+Oct 08 04:44:50, 36 mins, speed: 10.69 slots/sec,23507, peers: 21
+Oct 08 04:45:02, 24 mins, speed: 16.02 slots/sec,23252, peers: 19
+Oct 08 04:45:14, 23 mins, speed: 16.00 slots/sec,22997, peers: 23
+Oct 08 04:45:26, 35 mins, speed: 10.67 slots/sec,22998, peers: 23
+Oct 08 04:45:38, 23 mins, speed: 16.00 slots/sec,22743, peers: 22
+Oct 08 04:45:50, 23 mins, speed: 15.98 slots/sec,22489, peers: 22
+Oct 08 04:46:02, 23 mins, speed: 16.00 slots/sec,22233, peers: 24
+Oct 08 04:46:14, 23 mins, speed: 16.00 slots/sec,22234, peers: 22
+Oct 08 04:46:26, 22 mins, speed: 16.00 slots/sec,21979, peers: 25
+Oct 08 04:46:38, 22 mins, speed: 16.02 slots/sec,21724, peers: 25
+Oct 08 04:46:50, 33 mins, speed: 10.67 slots/sec,21725, peers: 29
+Oct 08 04:47:02, 22 mins, speed: 16.00 slots/sec,21470, peers: 27
+Oct 08 04:47:14, 22 mins, speed: 15.96 slots/sec,21217, peers: 27
+Oct 08 04:47:26, 33 mins, speed: 10.62 slots/sec,21218, peers: 27
+Oct 08 04:47:38, 21 mins, speed: 16.00 slots/sec,20961, peers: 23
+Oct 08 04:47:50, 21 mins, speed: 16.00 slots/sec,20706, peers: 25
+Oct 08 04:48:02, 32 mins, speed: 10.71 slots/sec,20707, peers: 23
+Oct 08 04:48:14, 21 mins, speed: 16.04 slots/sec,20452, peers: 27
+Oct 08 04:48:26, 21 mins, speed: 16.00 slots/sec,20197, peers: 26
+Oct 08 04:48:38, 20 mins, speed: 16.00 slots/sec,19942, peers: 24
+Oct 08 04:48:50, 20 mins, speed: 16.00 slots/sec,19943, peers: 23
+Oct 08 04:49:02, 20 mins, speed: 16.00 slots/sec,19688, peers: 21
+Oct 08 04:49:14, 28 mins, speed: 11.34 slots/sec,19657, peers: 19
+Oct 08 04:49:26, 54 mins, speed: 6.00 slots/sec,19658, peers: 23
+Oct 08 04:49:38, 28 mins, speed: 11.34 slots/sec,19403, peers: 25
+Oct 08 04:49:50, 28 mins, speed: 11.33 slots/sec,19148, peers: 25
+Oct 08 04:50:02, 29 mins, speed: 10.67 slots/sec,19149, peers: 23
+Oct 08 04:50:14, 19 mins, speed: 16.00 slots/sec,18894, peers: 21
+Oct 08 04:50:26, 19 mins, speed: 15.98 slots/sec,18640, peers: 21
+Oct 08 04:50:38, 19 mins, speed: 15.98 slots/sec,18385, peers: 25
+Oct 08 04:50:50, 19 mins, speed: 15.98 slots/sec,18386, peers: 24
+Oct 08 04:51:02, 18 mins, speed: 16.00 slots/sec,18130, peers: 24
+Oct 08 04:51:14, 18 mins, speed: 16.02 slots/sec,17875, peers: 30
+Oct 08 04:51:26, 27 mins, speed: 10.69 slots/sec,17876, peers: 28
+Oct 08 04:51:38, 18 mins, speed: 16.00 slots/sec,17622, peers: 25
+Oct 08 04:51:50, 27 mins, speed: 10.65 slots/sec,17623, peers: 25
+Oct 08 04:52:02, 27 mins, speed: 10.67 slots/sec,17367, peers: 24
+Oct 08 04:52:14, 17 mins, speed: 15.98 slots/sec,17113, peers: 26
+Oct 08 04:52:26, 26 mins, speed: 10.67 slots/sec,17114, peers: 24
+Oct 08 04:52:38, 17 mins, speed: 16.02 slots/sec,16858, peers: 24
+Oct 08 04:52:50, 17 mins, speed: 16.00 slots/sec,16603, peers: 26
+Oct 08 04:53:02, 25 mins, speed: 10.69 slots/sec,16604, peers: 25
+Oct 08 04:53:14, 18 mins, speed: 14.69 slots/sec,16413, peers: 25
+Oct 08 04:53:26, 18 mins, speed: 14.67 slots/sec,16158, peers: 23
+Oct 08 04:53:38, 18 mins, speed: 14.65 slots/sec,15904, peers: 21
+Oct 08 04:53:50, 18 mins, speed: 14.65 slots/sec,15905, peers: 24
+Oct 08 04:54:02, 16 mins, speed: 16.00 slots/sec,15649, peers: 21
+Oct 08 04:54:14, 16 mins, speed: 16.00 slots/sec,15394, peers: 21
+Oct 08 04:54:26, 24 mins, speed: 10.69 slots/sec,15395, peers: 20
+Oct 08 04:54:38, 15 mins, speed: 16.02 slots/sec,15140, peers: 20
+Oct 08 04:54:50, 15 mins, speed: 16.00 slots/sec,14885, peers: 21
+Oct 08 04:55:02, 15 mins, speed: 16.00 slots/sec,14630, peers: 20
+Oct 08 04:55:14, 15 mins, speed: 16.00 slots/sec,14631, peers: 24
+Oct 08 04:55:26, 14 mins, speed: 15.98 slots/sec,14377, peers: 23
+Oct 08 04:55:38, 14 mins, speed: 16.00 slots/sec,14121, peers: 22
+Oct 08 04:55:50, 15 mins, speed: 14.67 slots/sec,13930, peers: 25
+Oct 08 04:56:02, 15 mins, speed: 14.67 slots/sec,13931, peers: 21
+Oct 08 04:56:14, 15 mins, speed: 14.69 slots/sec,13676, peers: 29
+Oct 08 04:56:26, 15 mins, speed: 14.67 slots/sec,13421, peers: 27
+Oct 08 04:56:38, 13 mins, speed: 16.00 slots/sec,13166, peers: 27
+Oct 08 04:56:50, 13 mins, speed: 16.00 slots/sec,13167, peers: 30
+Oct 08 04:57:02, 13 mins, speed: 15.98 slots/sec,12913, peers: 29
+Oct 08 04:57:14, 13 mins, speed: 16.00 slots/sec,12657, peers: 28
+Oct 08 04:57:26, 19 mins, speed: 10.67 slots/sec,12658, peers: 31
+Oct 08 04:57:38, 12 mins, speed: 16.00 slots/sec,12403, peers: 30
+Oct 08 04:57:50, 19 mins, speed: 10.69 slots/sec,12404, peers: 31
+Oct 08 04:58:02, 18 mins, speed: 10.67 slots/sec,12149, peers: 29
+Oct 08 04:58:14, 12 mins, speed: 16.00 slots/sec,11894, peers: 28
+Oct 08 04:58:26, 12 mins, speed: 15.96 slots/sec,11641, peers: 28
+Oct 08 04:58:38, 12 mins, speed: 15.96 slots/sec,11642, peers: 27
+Oct 08 04:58:50, 11 mins, speed: 16.00 slots/sec,11385, peers: 29
+Oct 08 04:59:02, 11 mins, speed: 16.00 slots/sec,11130, peers: 28
+Oct 08 04:59:14, 17 mins, speed: 10.71 slots/sec,11131, peers: 27
+Oct 08 04:59:26, 11 mins, speed: 16.02 slots/sec,10877, peers: 30
+Oct 08 04:59:38, 11 mins, speed: 16.00 slots/sec,10621, peers: 27
+Oct 08 04:59:50, 16 mins, speed: 10.67 slots/sec,10622, peers: 28
+Oct 08 05:00:02, 10 mins, speed: 16.00 slots/sec,10367, peers: 26
+Oct 08 05:00:14, 10 mins, speed: 16.02 slots/sec,10112, peers: 24
+Oct 08 05:00:26, 10 mins, speed: 16.00 slots/sec,9857, peers: 26
+Oct 08 05:00:38, 10 mins, speed: 16.00 slots/sec,9858, peers: 29
+Oct 08 05:00:50, 10 mins, speed: 16.00 slots/sec,9603, peers: 28
+Oct 08 05:01:02, 9 mins, speed: 16.00 slots/sec,9348, peers: 28
+Oct 08 05:01:14, 14 mins, speed: 10.67 slots/sec,9349, peers: 27
+Oct 08 05:01:26, 9 mins, speed: 15.98 slots/sec,9095, peers: 29
+Oct 08 05:01:38, 9 mins, speed: 16.00 slots/sec,8839, peers: 22
+Oct 08 05:01:50, 13 mins, speed: 10.67 slots/sec,8840, peers: 23
+Oct 08 05:02:02, 8 mins, speed: 16.00 slots/sec,8585, peers: 21
+Oct 08 05:02:14, 10 mins, speed: 13.36 slots/sec,8458, peers: 17
+Oct 08 05:02:26, 10 mins, speed: 13.29 slots/sec,8205, peers: 22
+Oct 08 05:02:38, 7 mins, speed: 18.67 slots/sec,7948, peers: 20
+Oct 08 05:02:50, 9 mins, speed: 13.33 slots/sec,7949, peers: 23
+Oct 08 05:03:02, 8 mins, speed: 15.94 slots/sec,7697, peers: 22
+Oct 08 05:03:14, 7 mins, speed: 16.02 slots/sec,7440, peers: 26
+Oct 08 05:03:26, 11 mins, speed: 10.65 slots/sec,7441, peers: 24
+Oct 08 05:03:38, 7 mins, speed: 16.00 slots/sec,7185, peers: 23
+Oct 08 05:03:50, 7 mins, speed: 16.06 slots/sec,6930, peers: 30
+Oct 08 05:04:02, 10 mins, speed: 10.69 slots/sec,6931, peers: 27
+Oct 08 05:04:14, 6 mins, speed: 16.02 slots/sec,6676, peers: 26
+Oct 08 05:04:26, 6 mins, speed: 16.00 slots/sec,6421, peers: 33
+Oct 08 05:04:38, 10 mins, speed: 10.66 slots/sec,6422, peers: 30
+Oct 08 05:04:50, 6 mins, speed: 16.00 slots/sec,6167, peers: 35
+Oct 08 05:05:02, 6 mins, speed: 16.00 slots/sec,5912, peers: 33
+Oct 08 05:05:14, 9 mins, speed: 10.67 slots/sec,5913, peers: 37
+Oct 08 05:05:26, 5 mins, speed: 16.00 slots/sec,5658, peers: 35
+Oct 08 05:05:38, 5 mins, speed: 16.00 slots/sec,5403, peers: 35
+Oct 08 05:05:50, 8 mins, speed: 10.67 slots/sec,5404, peers: 35
+Oct 08 05:06:02, 5 mins, speed: 16.00 slots/sec,5149, peers: 34
+Oct 08 05:06:14, 5 mins, speed: 16.00 slots/sec,4894, peers: 32
+Oct 08 05:06:26, 7 mins, speed: 10.67 slots/sec,4895, peers: 32
+Oct 08 05:06:38, 4 mins, speed: 16.00 slots/sec,4640, peers: 31
+Oct 08 05:06:50, 4 mins, speed: 15.98 slots/sec,4386, peers: 30
+Oct 08 05:07:02, 4 mins, speed: 15.98 slots/sec,4131, peers: 29
+Oct 08 05:07:14, 4 mins, speed: 15.98 slots/sec,4132, peers: 32
+Oct 08 05:07:26, 4 mins, speed: 16.00 slots/sec,3876, peers: 30
+Oct 08 05:07:38, 6 mins, speed: 10.69 slots/sec,3877, peers: 30
+Oct 08 05:07:50, 5 mins, speed: 10.69 slots/sec,3622, peers: 32
+Oct 08 05:08:02, 3 mins, speed: 16.02 slots/sec,3367, peers: 31
+Oct 08 05:08:14, 5 mins, speed: 10.67 slots/sec,3368, peers: 33
+Oct 08 05:08:26, 5 mins, speed: 10.67 slots/sec,3369, peers: 30
+Oct 08 05:08:38, 10 mins, speed: 5.33 slots/sec,3370, peers: 29
+Oct 08 05:09:14, 16 mins, speed: 3.33 slots/sec,3213, peers: 26
+Oct 08 05:09:26, 16 mins, speed: 3.33 slots/sec,3214, peers: 32
+Oct 08 05:09:38, 5 mins, speed: 8.67 slots/sec,2959, peers: 31
+Oct 08 05:09:50, 3 mins, speed: 13.98 slots/sec,2705, peers: 34
+Oct 08 05:10:02, 4 mins, speed: 10.65 slots/sec,2706, peers: 31
+Oct 08 05:10:14, 2 mins, speed: 16.00 slots/sec,2450, peers: 29
+Oct 08 05:10:26, 2 mins, speed: 16.00 slots/sec,2195, peers: 28
+Oct 08 05:10:38, 3 mins, speed: 10.69 slots/sec,2196, peers: 26
+Oct 08 05:10:50, 2 mins, speed: 16.02 slots/sec,1941, peers: 27
+Oct 08 05:11:02, 1 min, speed: 16.00 slots/sec,1686, peers: 24
+Oct 08 05:11:14, 1 min, speed: 15.98 slots/sec,1432, peers: 22
+Oct 08 05:11:26, 1 min, speed: 15.98 slots/sec,1433, peers: 23
+Oct 08 05:11:38, 1 min, speed: 16.00 slots/sec,1177, peers: 26
+Oct 08 05:11:50, 0 mins, speed: 16.00 slots/sec,922, peers: 24
+Oct 08 05:12:02, 1 min, speed: 10.69 slots/sec,923, peers: 24
+Oct 08 05:12:14, 0 mins, speed: 16.02 slots/sec,668, peers: 28
+Oct 08 05:12:26, 0 mins, speed: 16.00 slots/sec,413, peers: 26
+Oct 08 05:12:38, 0 mins, speed: 10.67 slots/sec,414, peers: 23
+Oct 08 05:12:49, Syncing Head Chain, old_state: Syncing Finalized Chain, ,
+Oct 08 05:12:50, 0 mins, speed: 15.96 slots/sec,161, peers: 26
+Oct 08 05:12:57, Synced, old_state: Syncing Head Chain, ,

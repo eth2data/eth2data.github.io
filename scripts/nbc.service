@@ -1,0 +1,10 @@
+[Unit]
+Description=Nimbus beacon node
+
+[Service]
+ExecStart=/home/sid/run_nimbus_node.sh medalla
+Restart=always
+RuntimeMaxSec=10800
+
+[Install]
+WantedBy=default.target
