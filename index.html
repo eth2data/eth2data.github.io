@@ -158,7 +158,7 @@
 <li><span>Ethereum 2.0 </span><a href="https://blog.bitmex.com/ethereum-2-0/" target="_blank" rel="noopener"><span>[Bitmex Research]</span></a></li>
 <li><span>Eth2 Medalla Testnet Incident </span><a href="https://medium.com/prysmatic-labs/eth2-medalla-testnet-incident-f7fbc3cc934a" target="_blank" rel="noopener"><span>[Raul Jordan]</span></a></li>
 </ul><h2 id="Acknowledgements" data-id="Acknowledgements"><a class="anchor hidden-xs" href="#Acknowledgements" title="Acknowledgements"><span class="octicon octicon-link"></span></a><span>Acknowledgements</span></h2><p><span>We would like to thank,</span></p><blockquote>
-<p><span>Viktor Bunin, Sasha Semenyuk, Mark Forscher and the team at Bison Trails, Shahid Thaika, Alex Svanevik, Nani from Bitfly, Lakshman Sankar, Danny Ryan, Preston Van Loon, Raul Jordan and Andrew Tam</span></p>
+<p><span>Viktor Bunin, Sasha Semenyuk, Mark Forscher and the team at Bison Trails, Shahid Thaika, Alex Svanevik, Inan from Bitfly, Lakshman Sankar, Danny Ryan, Preston Van Loon, Raul Jordan and Andrew Tam</span></p>
 </blockquote><p><span>for their help and guidance in our research!</span></p></div>
     <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
         <div class="pull-right dropdown">
@@ -168,28 +168,28 @@
             <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
                 <div class="toc"><ul class="nav">
 <li class=""><a href="#Eth2-Medalla---a-data-driven-deep-dive" title="Eth2 Medalla - a data driven deep dive">Eth2 Medalla - a data driven deep dive</a><ul class="nav">
-<li class=""><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
-<li class=""><a href="#Highlights" title="Highlights">Highlights</a></li>
-<li class=""><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
-<li class=""><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
-<li class=""><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
-<li class=""><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
+<li><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
+<li><a href="#Highlights" title="Highlights">Highlights</a></li>
+<li><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
+<li><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
+<li><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
+<li><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
 </ul>
 </li>
-<li class=""><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
-<li class=""><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
-<li class=""><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
-<li class=""><a href="#Slashings" title="Slashings">Slashings</a></li>
-<li class=""><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
+<li><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
+<li><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
+<li><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
+<li><a href="#Slashings" title="Slashings">Slashings</a></li>
+<li><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
 </ul>
 </li>
-<li class=""><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
-<li class=""><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
-<li class=""><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
-<li class=""><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
+<li><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
+<li><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
+<li><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
+<li><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
 </ul>
 </li>
-<li class=""><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
+<li><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
 <li><a href="#Committee-growth-over-time" title="Committee growth over time">Committee growth over time</a></li>
 <li><a href="#Attestations-included-on-chain" title="Attestations included on-chain">Attestations included on-chain</a></li>
 </ul>
@@ -200,8 +200,8 @@
 </ul>
 </li>
 <li><a href="#Conclusion" title="Conclusion">Conclusion</a></li>
-<li><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
-<li class=""><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
+<li class=""><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
+<li><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
 </ul>
 </li>
 </ul>
@@ -212,28 +212,28 @@
     <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="top:17px;display:none;" null null>
         <div class="toc"><ul class="nav">
 <li class=""><a href="#Eth2-Medalla---a-data-driven-deep-dive" title="Eth2 Medalla - a data driven deep dive">Eth2 Medalla - a data driven deep dive</a><ul class="nav">
-<li class=""><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
-<li class=""><a href="#Highlights" title="Highlights">Highlights</a></li>
-<li class=""><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
-<li class=""><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
-<li class=""><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
-<li class=""><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
+<li><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
+<li><a href="#Highlights" title="Highlights">Highlights</a></li>
+<li><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
+<li><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
+<li><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
+<li><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
 </ul>
 </li>
-<li class=""><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
-<li class=""><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
-<li class=""><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
-<li class=""><a href="#Slashings" title="Slashings">Slashings</a></li>
-<li class=""><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
+<li><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
+<li><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
+<li><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
+<li><a href="#Slashings" title="Slashings">Slashings</a></li>
+<li><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
 </ul>
 </li>
-<li class=""><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
-<li class=""><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
-<li class=""><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
-<li class=""><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
+<li><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
+<li><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
+<li><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
+<li><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
 </ul>
 </li>
-<li class=""><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
+<li><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
 <li><a href="#Committee-growth-over-time" title="Committee growth over time">Committee growth over time</a></li>
 <li><a href="#Attestations-included-on-chain" title="Attestations included on-chain">Attestations included on-chain</a></li>
 </ul>
@@ -244,8 +244,8 @@
 </ul>
 </li>
 <li><a href="#Conclusion" title="Conclusion">Conclusion</a></li>
-<li><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
-<li class=""><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
+<li class=""><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
+<li><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
 </ul>
 </li>
 </ul>
