@@ -102,7 +102,7 @@
 <li><span>By scanning through the Nimbus logs (available </span><a href="https://" target="_blank" rel="noopener"><span>here</span></a><span>), we saw that over the course of the sync duration (~1 day and 4 hours), there were 260 times when the syncing progress stopped progressing and the queue had to be reset. The node seems to recover fine from these instances so overall performance does not seem to be adversely impacted too much.</span></li>
 <li><span>A somewhat similar pattern was found within the Teku node logs, which indicated that during 1376 different instances during the syncing process (which took 1 day and 16 minutes), the head block update was skipped as the justified checkpoint was updated while loading checkpoint state. Similar to Nimbus, this does not seem to have had a discernible effect on sync speed or performance as syncing resumed shortly thereafter.</span></li>
 <li><span>No discernible difference in CPU or Memory usage was found across clients with our default set up.</span></li>
-</ul><p><em><span>We will drill down into performance of validators per client later.</span></em></p><h2 id="Validator-Groupings" data-id="Validator-Groupings"><a class="anchor hidden-xs" href="#Validator-Groupings" title="Validator-Groupings"><span class="octicon octicon-link"></span></a><span>Validator Groupings</span></h2><p><span>Before we get into overall network and validator performance, it is useful to outline the approach we took when grouping network participants and briefly discuss the outcomes. This will help us sketch out relative performance of different groups that participated in the Testnet later on, untangling the aggregates into the sum of (some of) the network’s parts.</span></p><h3 id="Data-structures-in-eth2-related-to-validator-identity" data-id="Data-structures-in-eth2-related-to-validator-identity"><a class="anchor hidden-xs" href="#Data-structures-in-eth2-related-to-validator-identity" title="Data-structures-in-eth2-related-to-validator-identity"><span class="octicon octicon-link"></span></a><span>Data structures in eth2 related to validator identity</span></h3><p><span>The </span><code>public_key</code><span> is a unique identifier for a validator - equivalent to an eth1 address. It corresponds to a </span><code>private_key</code><span> that is used to sign messages, and a publicly visible </span><code>validator_index</code><span> that can be interchangeable with a chosen </span><code>name</code><span> identifier.</span></p><p><span>The </span><code>withdrawal_credentials</code><span> field, on the other hand, relates to a hash of the public key that will be used to withdraw funds from the validator. The design of eth2, allows participants to map withdrawal_credentials to multiple validators ( described by </span><code>index</code><span> and </span><code>pubkey</code><span>), in order to make it easier to withdraw funds from multiple validators at once (see </span><a href="http://beaconchai.in" target="_blank" rel="noopener"><span>beaconchai.in</span></a><span>’s post for a deeper dive into key structure in eth2, </span><a href="https://kb.beaconcha.in/ethereum-2-keys" target="_blank" rel="noopener"><span>here</span></a><span>).</span></p><p><img src="https://i.imgur.com/FfcnvI9.jpg" alt=""></p><p><span>Validator pubkeys also map to </span><code>eth1 addresses</code><span> that are used to fund the validator with ETH. This the address that a staker will use to transfer funds into the escrow contract, in order to participate in Phase 0 of eth2.</span></p><p><span>Finally, when signing blocks a proposer can include a string to the block that will be publicly visible to the network - called </span><code>graffiti</code><span>. We have observed that a sizeable number of proposers choose to use the graffiti field to signal pieces of their identity to the rest of the network.</span></p><p><img src="https://i.imgur.com/lcc6wQg.jpg" alt=""></p><p><span>Given the publicly available information, the main avenues we took in order to group network participants were mapping</span></p><p><span>(i) </span><code>withdrawal_credentials</code><span> to </span><code>validatorindex</code><span>,</span><br>
+</ul><p><em><span>We will drill down into performance of validators per client later.</span></em></p><h2 id="Validator-Groupings" data-id="Validator-Groupings"><a class="anchor hidden-xs" href="#Validator-Groupings" title="Validator-Groupings"><span class="octicon octicon-link"></span></a><span>Validator Groupings</span></h2><p><span>Before we get into overall network and validator performance, it is useful to outline the approach we took when grouping network participants and briefly discuss the outcomes. This will help us sketch out relative performance of different groups that participated in the Testnet later on, untangling the aggregates into the sum of (some of) the network’s parts.</span></p><h3 id="Data-structures-in-eth2-related-to-validator-identity" data-id="Data-structures-in-eth2-related-to-validator-identity"><a class="anchor hidden-xs" href="#Data-structures-in-eth2-related-to-validator-identity" title="Data-structures-in-eth2-related-to-validator-identity"><span class="octicon octicon-link"></span></a><span>Data structures in eth2 related to validator identity</span></h3><p><span>The </span><code>public_key</code><span> is a unique identifier for a validator - equivalent to an eth1 address. It corresponds to a </span><code>private_key</code><span> that is used to sign messages, and a publicly visible </span><code>validator_index</code><span> that can be interchangeable with a chosen </span><code>name</code><span> identifier.</span></p><p><span>The </span><code>withdrawal_credentials</code><span> field, on the other hand, relates to a hash of the public key that will be used to withdraw funds from the validator. The design of eth2, allows participants to map withdrawal_credentials to multiple validators ( described by </span><code>index</code><span> and </span><code>pubkey</code><span>), in order to make it easier to withdraw funds from multiple validators at once (see </span><a href="http://beaconcha.in" target="_blank" rel="noopener"><span>beaconcha.in</span></a><span>’s post for a deeper dive into key structure in eth2, </span><a href="https://kb.beaconcha.in/ethereum-2-keys" target="_blank" rel="noopener"><span>here</span></a><span>).</span></p><p><img src="https://i.imgur.com/FfcnvI9.jpg" alt=""></p><p><span>Validator pubkeys also map to </span><code>eth1 addresses</code><span> that are used to fund the validator with ETH. This the address that a staker will use to transfer funds into the escrow contract, in order to participate in Phase 0 of eth2.</span></p><p><span>Finally, when signing blocks a proposer can include a string to the block that will be publicly visible to the network - called </span><code>graffiti</code><span>. We have observed that a sizeable number of proposers choose to use the graffiti field to signal pieces of their identity to the rest of the network.</span></p><p><img src="https://i.imgur.com/lcc6wQg.jpg" alt=""></p><p><span>Given the publicly available information, the main avenues we took in order to group network participants were mapping</span></p><p><span>(i) </span><code>withdrawal_credentials</code><span> to </span><code>validatorindex</code><span>,</span><br>
 <span>(ii) </span><code>eth1 deposit addresses</code><span> to </span><code>validatorindex</code><span>,</span><br>
 <span>(iii) </span><code>name</code><span> to </span><code>withdrawal_credentials</code><span>, and (iv) </span><code>graffiti</code><span> to </span><code>validatorindex</code><span>.</span></p><h3 id="Grouping-results" data-id="Grouping-results"><a class="anchor hidden-xs" href="#Grouping-results" title="Grouping-results"><span class="octicon octicon-link"></span></a><span>Grouping results</span></h3><p><span>The two main categories that we found the most interesting in this segmentation exercise were:</span></p><ol>
 <li><span>Grouping by client software.</span></li>
@@ -158,7 +158,7 @@
 <li><span>Ethereum 2.0 </span><a href="https://blog.bitmex.com/ethereum-2-0/" target="_blank" rel="noopener"><span>[Bitmex Research]</span></a></li>
 <li><span>Eth2 Medalla Testnet Incident </span><a href="https://medium.com/prysmatic-labs/eth2-medalla-testnet-incident-f7fbc3cc934a" target="_blank" rel="noopener"><span>[Raul Jordan]</span></a></li>
 </ul><h2 id="Acknowledgements" data-id="Acknowledgements"><a class="anchor hidden-xs" href="#Acknowledgements" title="Acknowledgements"><span class="octicon octicon-link"></span></a><span>Acknowledgements</span></h2><p><span>We would like to thank,</span></p><blockquote>
-<p><span>Viktor Bunin, Sasha Semenyuk, Mark Forscher and the team at Bison Trails, Shahid Thaika, Nani S, Lakshman S, Danny Ryan, Preston Van Loon, Raul Jordan and Andrew Tam</span></p>
+<p><span>Viktor Bunin, Sasha Semenyuk, Mark Forscher and the team at Bison Trails, Shahid Thaika, Alex Svanevik, Nani from Bitfly, Lakshman Sankar, Danny Ryan, Preston Van Loon, Raul Jordan and Andrew Tam</span></p>
 </blockquote><p><span>for their help and guidance in our research!</span></p></div>
     <div class="ui-toc dropup unselectable hidden-print" style="display:none;">
         <div class="pull-right dropdown">
@@ -171,37 +171,37 @@
 <li class=""><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
 <li class=""><a href="#Highlights" title="Highlights">Highlights</a></li>
 <li class=""><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
-<li><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
-<li><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
-<li><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
+<li class=""><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
+<li class=""><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
+<li class=""><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
 </ul>
 </li>
-<li><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
-<li><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
-<li><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
-<li><a href="#Slashings" title="Slashings">Slashings</a></li>
-<li><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
+<li class=""><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
+<li class=""><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
+<li class=""><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
+<li class=""><a href="#Slashings" title="Slashings">Slashings</a></li>
+<li class=""><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
 </ul>
 </li>
-<li><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
-<li><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
-<li><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
-<li><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
+<li class=""><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
+<li class=""><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
+<li class=""><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
+<li class=""><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
 </ul>
 </li>
-<li><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
+<li class=""><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
 <li><a href="#Committee-growth-over-time" title="Committee growth over time">Committee growth over time</a></li>
 <li><a href="#Attestations-included-on-chain" title="Attestations included on-chain">Attestations included on-chain</a></li>
 </ul>
 </li>
-<li class=""><a href="#Validator-Effectiveness" title="Validator Effectiveness">Validator Effectiveness</a><ul class="nav">
+<li><a href="#Validator-Effectiveness" title="Validator Effectiveness">Validator Effectiveness</a><ul class="nav">
 <li><a href="#Proposer-effectiveness" title="Proposer effectiveness">Proposer effectiveness</a></li>
-<li class=""><a href="#Attester-effectiveness" title="Attester effectiveness">Attester effectiveness</a></li>
+<li><a href="#Attester-effectiveness" title="Attester effectiveness">Attester effectiveness</a></li>
 </ul>
 </li>
 <li><a href="#Conclusion" title="Conclusion">Conclusion</a></li>
 <li><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
-<li><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
+<li class=""><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
 </ul>
 </li>
 </ul>
@@ -215,37 +215,37 @@
 <li class=""><a href="#Table-of-Contents" title="Table of Contents">Table of Contents</a></li>
 <li class=""><a href="#Highlights" title="Highlights">Highlights</a></li>
 <li class=""><a href="#Benchmarking-Client-Performance" title="Benchmarking Client Performance">Benchmarking Client Performance</a></li>
-<li><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
-<li><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
-<li><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
+<li class=""><a href="#Validator-Groupings" title="Validator Groupings">Validator Groupings</a><ul class="nav">
+<li class=""><a href="#Data-structures-in-eth2-related-to-validator-identity" title="Data structures in eth2 related to validator identity">Data structures in eth2 related to validator identity</a></li>
+<li class=""><a href="#Grouping-results" title="Grouping results">Grouping results</a></li>
 </ul>
 </li>
-<li><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
-<li><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
-<li><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
-<li><a href="#Slashings" title="Slashings">Slashings</a></li>
-<li><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
+<li class=""><a href="#Big-Picture" title="Big Picture">Big Picture</a><ul class="nav">
+<li class=""><a href="#Network-growth-over-time" title="Network growth over time">Network growth over time</a></li>
+<li class=""><a href="#Epochs-2000-to-4000-a-rough-time-for-Medalla" title="Epochs 2000 to 4000; a rough time for Medalla">Epochs 2000 to 4000; a rough time for Medalla</a></li>
+<li class=""><a href="#Slashings" title="Slashings">Slashings</a></li>
+<li class=""><a href="#Defining-normality-missed-to-proposed-blocks" title="Defining normality: missed-to-proposed blocks">Defining normality: missed-to-proposed blocks</a></li>
 </ul>
 </li>
-<li><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
-<li><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
-<li><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
-<li><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
+<li class=""><a href="#Network-Health" title="Network Health">Network Health</a><ul class="nav">
+<li class=""><a href="#Aggregate-inclusion-delay" title="Aggregate inclusion delay">Aggregate inclusion delay</a></li>
+<li class=""><a href="#Detected-to-total-slashable-offences" title="Detected to total slashable offences">Detected to total slashable offences</a></li>
+<li class=""><a href="#Finality-distance" title="Finality distance">Finality distance</a></li>
 </ul>
 </li>
-<li><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
+<li class=""><a href="#Aggregation-Performance" title="Aggregation Performance">Aggregation Performance</a><ul class="nav">
 <li><a href="#Committee-growth-over-time" title="Committee growth over time">Committee growth over time</a></li>
 <li><a href="#Attestations-included-on-chain" title="Attestations included on-chain">Attestations included on-chain</a></li>
 </ul>
 </li>
-<li class=""><a href="#Validator-Effectiveness" title="Validator Effectiveness">Validator Effectiveness</a><ul class="nav">
+<li><a href="#Validator-Effectiveness" title="Validator Effectiveness">Validator Effectiveness</a><ul class="nav">
 <li><a href="#Proposer-effectiveness" title="Proposer effectiveness">Proposer effectiveness</a></li>
-<li class=""><a href="#Attester-effectiveness" title="Attester effectiveness">Attester effectiveness</a></li>
+<li><a href="#Attester-effectiveness" title="Attester effectiveness">Attester effectiveness</a></li>
 </ul>
 </li>
 <li><a href="#Conclusion" title="Conclusion">Conclusion</a></li>
 <li><a href="#Helpful-Resouces" title="Helpful Resouces">Helpful Resouces</a></li>
-<li><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
+<li class=""><a href="#Acknowledgements" title="Acknowledgements">Acknowledgements</a></li>
 </ul>
 </li>
 </ul>
