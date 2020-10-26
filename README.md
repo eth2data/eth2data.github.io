@@ -6,9 +6,7 @@ Welcome! This project was put together by [Elias Simos](https://twitter.com/elia
 
 While we started with Medalla, our hope is to continue working towards enriching the ecosystem with more research and metrics, as Phase 0 of eth2 rolls out.
 
-In our view, good measurement of key parameters, leads to better understanding of live networks and an overall a healthier ecosystem.
-
-:seedling:
+In our view, good measurement of key parameters, leads to better understanding of live networks and an overall a :seedling:healthier ecosystem:seedling:.
 
 ## Contents
 In this repo, you will find:
@@ -49,7 +47,7 @@ To get acquainted with the analysis logic, we suggest first running a sandboxed 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-We are particularly interested in
+We are particularly interested in:
 1. replicating the analysis with Lighthouse API data
 2. calculating the delta between the slashable offences enforced, and those committed
 
