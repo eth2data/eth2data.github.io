@@ -47,9 +47,13 @@ The attestations dataset (6.6GB overall) is broken up in pieces, but we have pro
 To get acquainted with the analysis logic, we suggest first running a sandboxed version of the `attestations_aggregation_finality_analysis.ipynb` on a small subset of the attestations dataset - which you will find in the `data` folder under `atts_50k_rows.csv`.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change!
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-What we are particularly interested in is calculating the delta between the slashable offences enforced, and those committed. You will find a good library of code to get you going under the `attestations_aggregation_finality_analysis.ipynb`.
+We are particularly interested in
+1. replicating the analysis with Lighthouse API data
+2. calculating the delta between the slashable offences enforced, and those committed
+
+Regarding `(2)` will find a good library of code to get you going under the `attestations_aggregation_finality_analysis.ipynb`.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
