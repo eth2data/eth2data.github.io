@@ -6,7 +6,7 @@ Welcome! This project was put together by [Elias Simos](https://twitter.com/elia
 
 While we started with Medalla, our hope is to continue working towards enriching the ecosystem with more research and metrics, as Phase 0 of eth2 rolls out.
 
-In our view, good measurement of key parameters, leads to better understanding of live networks and an overall a healthier ecosystem
+In our view, good measurement of key parameters, leads to better understanding of live networks and an overall a healthier ecosystem.
 
 ## Contents
 In this repo, you will find:
